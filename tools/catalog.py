@@ -144,4 +144,6 @@ def dumps_canonical(value):
 
 
 def dumps_compact(value):
-    return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')
+    # Runtime replacement operations and Request1..RequestN are ordered. The validated
+    # source files provide deterministic insertion order without sorting those keys.
+    return json.dumps(value, ensure_ascii=False, separators=(',', ':')).encode('utf-8')

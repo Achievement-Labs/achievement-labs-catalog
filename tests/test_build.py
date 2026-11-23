@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from fixtures import block, write_catalog, write_json
+from fixtures import block, op, write_catalog, write_json
 import build
 import build_mobile
 
@@ -78,6 +78,17 @@ class BuildTests(unittest.TestCase):
         def files(d):
             return {p.relative_to(d).as_posix(): p.read_bytes() for p in sorted(d.rglob('*')) if p.is_file()}
         self.assertEqual(files(self.root / 'a'), files(self.root / 'b'))
+
+    def test_bundle_preserves_request_and_operation_order(self):
+        requests = {f'Request{i}': {'ZEvent': op('REPLACEEVENTNAME', 'Unlock'),
+                                   'AId': op('REPLACEID', i)} for i in range(1, 13)}
+        write_catalog(self.titles, block(Achievements={'1': requests}))
+        record(self.root, 'ordered requests')
+        manifest = self.run_build(self.root / 'dist')
+        bundle = json.loads((self.root / 'dist' / 'v1' / manifest['titles']['7']['path']).read_bytes())
+        mapping = bundle['data']['Achievements']['1']
+        self.assertEqual(list(mapping), [f'Request{i}' for i in range(1, 13)])
+        self.assertEqual(list(mapping['Request10']), ['ZEvent', 'AId'])
 
     def test_title_revision_advances(self):
         write_catalog(self.titles, block(TitleName='Seven!'), stats={'Stats': {'S': 1}})
