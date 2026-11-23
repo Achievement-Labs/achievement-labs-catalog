@@ -1,6 +1,6 @@
 {
   "1616270757": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "NBA LIVE 14",
     "TitleId": "1616270757",
     "Devices": [
@@ -49,7 +49,7 @@
         }
       }
     },
-    "PartiallySupported": true
+    "PartiallySupported": false
   },
   "SupportedTitleIDs": [
     "1616270757"

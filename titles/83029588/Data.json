@@ -1,6 +1,6 @@
 {
   "83029588": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "NBA LIVE 18: The One Edition",
     "TitleId": "83029588",
     "Devices": [
@@ -48,7 +48,8 @@
           }
         }
       }
-    }
+    },
+    "PartiallySupported": false
   },
   "SupportedTitleIDs": [
     "83029588"

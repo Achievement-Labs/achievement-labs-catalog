@@ -1,0 +1,523 @@
+{
+  "338768437": {
+    "TitleName": "Black The Fall",
+    "TitleId": "338768437",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "97ca0100-4a52-42ed-b747-c1d414313235",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false,
+    "Achievements": {
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_WorkingClassHero"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_WorkingClassHero\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_WorkingClassHero"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_WorkingClassHero\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_Outlaw"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_Outlaw\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_Outlaw"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_Outlaw\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_ObscureDissident"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_ObscureDissident\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_ObscureDissident"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_ObscureDissident\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_VCRvsCommunism"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_VCRvsCommunism\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_VCRvsCommunism"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_VCRvsCommunism\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_GarageDays"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_GarageDays\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_GarageDays"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_GarageDays\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_HighHopes"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_HighHopes\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_HighHopes"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_HighHopes\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_StepIntoTheLight"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_StepIntoTheLight\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_StepIntoTheLight"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_StepIntoTheLight\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_Fez"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_Fez\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_Fez"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_Fez\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_UnexpectedJourney"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_UnexpectedJourney\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_UnexpectedJourney"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_UnexpectedJourney\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_RememberRemember"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_RememberRemember\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_RememberRemember"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_RememberRemember\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_AtTheGates"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_AtTheGates\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_AtTheGates"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_AtTheGates\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_InGodWeTrust"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_InGodWeTrust\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_InGodWeTrust"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_InGodWeTrust\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_WhosThere"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_WhosThere\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_WhosThere"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_WhosThere\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_DeadManWalking"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4,\"percentage\":4,\"PercentComplete\":4}},\"measurements\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_DeadManWalking\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Percentage\":100,\"percentage\":100,\"PercentComplete\":100},\"measurements\":{\"Percentage\":100}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Achievement_DeadManWalking"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Percentage\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Achievement_DeadManWalking\",\"serviceConfigId\":\"97ca0100-4a52-42ed-b747-c1d414313235\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"338768437\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Percentage\":100},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "338768437"
+  ]
+}

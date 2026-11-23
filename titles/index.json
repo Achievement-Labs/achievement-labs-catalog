@@ -2901,7 +2901,7 @@
     "Enabled": true
   },
   "1616270757": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "NBA LIVE 14",
     "TitleId": "1616270757",
     "Devices": [
@@ -2910,10 +2910,10 @@
     ],
     "ServiceConfigId": "",
     "Enabled": true,
-    "PartiallySupported": true
+    "PartiallySupported": false
   },
   "2067761315": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "EA SPORTS™ NBA LIVE 16",
     "TitleId": "2067761315",
     "Devices": [
@@ -2922,7 +2922,7 @@
     ],
     "ServiceConfigId": "bb8f0100-d041-479e-bea9-4be47b3f88a3",
     "Enabled": true,
-    "PartiallySupported": true
+    "PartiallySupported": false
   },
   "419391420": {
     "FullySupported": true,
@@ -2933,10 +2933,11 @@
       "XboxSeries"
     ],
     "ServiceConfigId": "2dd00100-5450-4206-927e-b54e18ff67bc",
-    "Enabled": true
+    "Enabled": true,
+    "PartiallySupported": false
   },
   "83029588": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "NBA LIVE 18: The One Edition",
     "TitleId": "83029588",
     "Devices": [
@@ -2944,7 +2945,8 @@
       "XboxSeries"
     ],
     "ServiceConfigId": "770b0100-6885-4f03-b409-7ef604f2ee54",
-    "Enabled": true
+    "Enabled": true,
+    "PartiallySupported": false
   },
   "875079140": {
     "FullySupported": false,
@@ -4710,6 +4712,663 @@
     "FullySupported": true,
     "Enabled": true
   },
+  "547726627": {
+    "TitleName": "Handball 16",
+    "TitleId": "547726627",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "87230100-2fb0-4e3e-b2f9-60c120a5a523",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "811328231": {
+    "TitleName": "Handball 17",
+    "TitleId": "811328231",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "750f0100-3eb4-42e5-9b74-6958305be2e7",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "487844727": {
+    "TitleName": "Assault Android Cactus",
+    "TitleId": "487844727",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "215b0100-2fc7-4343-9d75-7acc1d13eb77",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "863173950": {
+    "TitleId": "863173950",
+    "TitleName": "Air Guitar Warrior Gamepad Edition",
+    "ServiceConfigId": "7b9e0100-ef76-4b80-8889-c7aa3372fd3e",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "Enabled": true,
+    "FullySupported": true,
+    "PartiallySupported": false
+  },
+  "401781184": {
+    "TitleName": "Warhammer Quest",
+    "TitleId": "401781184",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "c7d50100-8d48-427f-8363-4d7117f2b1c0",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "606152324": {
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "544772182": {
+    "TitleName": "Thronebreaker: The Witcher Tales",
+    "TitleId": "544772182",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "5b3a0100-488e-43ad-ad88-5e0d20789056",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2115534787": {
+    "TitleName": "Another World - 20th Anniversary Edition",
+    "TitleId": "2115534787",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "8f3c0100-ef10-425c-9f77-9cc67e187fc3",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "366165352": {
+    "TitleName": "Blacksad - Under the Skin (Xbox One)",
+    "TitleId": "366165352",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "614d0100-aab5-4ffe-9cc3-fc9315d33d68",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2039195750": {
+    "TitleName": "Blacksad - Under the Skin (Xbox Series)",
+    "TitleId": "2039195750",
+    "Devices": [
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-0000798ba866",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2133397409": {
+    "TitleName": "Riptide GP2",
+    "TitleId": "2133397409",
+    "Devices": [
+      "XboxOne"
+    ],
+    "ServiceConfigId": "87390100-27a5-4dbb-b601-8dc97f290fa1",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "695693557": {
+    "TitleName": "Riptide GP: Renegade",
+    "TitleId": "695693557",
+    "Devices": [
+      "XboxOne"
+    ],
+    "ServiceConfigId": "c3220100-8c1d-4b80-a353-f22a297770f5",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "972461615": {
+    "TitleName": "Battle Islands",
+    "TitleId": "972461615",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "bf1f0100-52d7-4213-ac11-f18039f6962f",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "338768437": {
+    "TitleName": "Black The Fall",
+    "TitleId": "338768437",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "97ca0100-4a52-42ed-b747-c1d414313235",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "598864782": {
+    "TitleName": "Blue Angels Aerobatic Flight Simulator",
+    "TitleId": "598864782",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "b9160100-7c4d-4cb2-9363-b05823b1f38e",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2146803891": {
+    "TitleName": "Beyond Eyes",
+    "TitleId": "2146803891",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "56680100-623f-45ec-9fa7-d8c07ff5a0b3",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1017462859": {
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "146765133": {
+    "TitleName": "Distrust",
+    "TitleId": "146765133",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "109b0100-6864-4995-a94b-bf2808bf754d",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "102287491": {
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "722916288": {
+    "TitleName": "Hue",
+    "TitleId": "722916288",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "10be0100-a3eb-45fa-aeb5-e9852b16d3c0",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "720980405": {
+    "TitleName": "The Banner Saga 2",
+    "TitleId": "720980405",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "e49c0100-7f21-499b-a4ae-4a802af949b5",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1070680307": {
+    "TitleName": "MudRunner",
+    "TitleId": "1070680307",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "573c0100-809d-4cb5-b5be-3c713fd148f3",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2124688478": {
+    "TitleName": "MudRunner",
+    "TitleId": "2124688478",
+    "Devices": [
+      "PC"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-00007ea42c5e",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1978100872": {
+    "TitleName": "Blind Postman",
+    "TitleId": "1978100872",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000075e76c88",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1749109669": {
+    "TitleName": "Blind Postman (Windows)",
+    "TitleId": "1749109669",
+    "Devices": [
+      "PC"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000068414ba5",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "2029804115": {
+    "FullySupported": true,
+    "Devices": [
+      "PC"
+    ],
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "626624492": {
+    "TitleName": "Baseball Riot",
+    "TitleId": "626624492",
+    "Devices": [
+      "XboxOne",
+      "PC"
+    ],
+    "ServiceConfigId": "148a0100-3e9e-4f6f-809d-8202255987ec",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "537908737": {
+    "TitleName": "Absolute Drift: Zen Edition",
+    "TitleId": "537908737",
+    "Devices": [
+      "XboxOne"
+    ],
+    "ServiceConfigId": "058d0100-db03-4b86-a69e-67bb200fd601",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1960103311": {
+    "TitleName": "Windjammers 2",
+    "TitleId": "1960103311",
+    "Devices": [
+      "PC",
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000074d4cd8f",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1964136723": {
+    "TitleName": "A Walk in the Dark",
+    "TitleId": "1964136723",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000075125913",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1907372052": {
+    "TitleName": "BROK the InvestiGator",
+    "TitleId": "1907372052",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000071b03014",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "1906677498": {
+    "TitleName": "PAC-MAN MUSEUM+",
+    "TitleId": "1906677498",
+    "Devices": [
+      "PC",
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-000071a596fa",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "484684099": {
+    "TitleName": "PAC-MAN 256",
+    "TitleId": "484684099",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "faac0100-e9b2-4f40-9976-b4311ce3b143",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false
+  },
+  "696196977": {
+    "TitleName": "DRAGON BALL XENOVERSE",
+    "TitleId": "696196977",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "b6450100-acd7-4f24-bbbb-5035297f1f71",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "93105265": {
+    "TitleName": "Friday the 13th: The Game",
+    "TitleId": "93105265",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "f0030100-2958-4bba-b512-799c058cac71",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "1479999542": {
+    "TitleName": "Unravel",
+    "TitleId": "1479999542",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "9d7d0100-1df0-49b6-9ef6-659158370036",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "597771444": {
+    "TitleName": "Gems of War",
+    "TitleId": "597771444",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "ed190100-58a8-4dd8-8019-8e8323a144b4",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "153810321": {
+    "TitleName": "Pro Evolution Soccer 2015",
+    "TitleId": "153810321",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "d8060100-4d98-4dc5-a42d-f83f092af591",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "104182544": {
+    "TitleName": "Pro Evolution Soccer 2016",
+    "TitleId": "104182544",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "ce020100-1f2a-4517-83b8-169c0635b310",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "116849471": {
+    "TitleName": "Pro Evolution Soccer 2017",
+    "TitleId": "116849471",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "d36c0100-da5e-4bf9-9f37-8b0606f6fb3f",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "778400368": {
+    "TitleName": "NBA 2K14",
+    "TitleId": "778400368",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "7b2d6c55-bd7e-4df2-b455-ef0a03f6acfd",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "1343920370": {
+    "TitleName": "NBA 2K15",
+    "TitleId": "1343920370",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "523f0100-8085-44f5-a86a-131c501a98f2",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "285742376": {
+    "TitleName": "NBA 2K16",
+    "TitleId": "285742376",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "7fb10100-002b-4e18-b7ad-70e811081528",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "374430704": {
+    "TitleName": "NBA 2K17",
+    "TitleId": "374430704",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "6d180100-980a-4f62-8771-84b716515bf0",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "14175839": {
+    "TitleName": "Abo Khashem",
+    "TitleId": "14175839",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "06e10100-c15e-487f-99d6-dc8c00d84e5f",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "795498692": {
+    "TitleName": "A Boy and His Blob",
+    "TitleId": "795498692",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "2f580100-0a05-418a-a19b-bf272f6a58c4",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "810050544": {
+    "TitleName": "Beach Buggy Racing",
+    "TitleId": "810050544",
+    "Devices": [
+      "XboxOne"
+    ],
+    "ServiceConfigId": "76150100-d0df-4851-b679-1c8f304863f0",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "232457702": {
+    "TitleName": "Broken Age",
+    "TitleId": "232457702",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "e5220100-4160-43cc-8cb3-86570ddb05e6",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "539284782": {
+    "TitleName": "Decay - The Mare",
+    "TitleId": "539284782",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "0e300100-0ce4-4029-b649-28782024d52e",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "215313834": {
+    "TitleName": "Draw a Stickman: EPIC",
+    "TitleId": "215313834",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "f30d0100-a3c2-40b2-be7a-7f370cd56daa",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "124830601": {
+    "TitleName": "SkyKeepers",
+    "TitleId": "124830601",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "04750100-3190-469f-a430-a0980770c389",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "610345881": {
+    "TitleName": "The Jackbox Party Pack",
+    "TitleId": "610345881",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "e8600100-9a54-4279-9cbd-e12624612399",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "39069682": {
+    "TitleName": "The Jackbox Party Pack 2",
+    "TitleId": "39069682",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "83010100-b68c-4b7f-bad3-6be1025427f2",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "119262432": {
+    "TitleName": "The Jackbox Party Pack 3",
+    "TitleId": "119262432",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "69cc0100-a99c-4b5a-9e86-05c5071bcce0",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "449890085": {
+    "TitleName": "The Jackbox Party Pack 4",
+    "TitleId": "449890085",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "c12c0100-79da-4506-ba5b-0aa91ad0c725",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "886895461": {
+    "TitleName": "The Jackbox Party Pack 5",
+    "TitleId": "886895461",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "de790100-cb34-4643-8f32-0d7034dcf365",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "686748290": {
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "547436161": {
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
+  "968268482": {
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true
+  },
   "SupportedTitleIDs": [
     349397095,
     974917521,
@@ -5308,6 +5967,65 @@
     "1863069160",
     "240478325",
     "28152906",
-    "218721783"
+    "218721783",
+    547726627,
+    811328231,
+    487844727,
+    863173950,
+    401781184,
+    606152324,
+    544772182,
+    2115534787,
+    366165352,
+    2039195750,
+    2133397409,
+    695693557,
+    972461615,
+    338768437,
+    598864782,
+    2146803891,
+    1017462859,
+    146765133,
+    102287491,
+    722916288,
+    720980405,
+    1070680307,
+    2124688478,
+    1978100872,
+    1749109669,
+    2029804115,
+    626624492,
+    537908737,
+    1960103311,
+    1964136723,
+    1907372052,
+    1906677498,
+    484684099,
+    696196977,
+    93105265,
+    1479999542,
+    597771444,
+    153810321,
+    104182544,
+    116849471,
+    778400368,
+    1343920370,
+    285742376,
+    374430704,
+    14175839,
+    795498692,
+    810050544,
+    232457702,
+    539284782,
+    215313834,
+    124830601,
+    610345881,
+    39069682,
+    119262432,
+    449890085,
+    886895461,
+    686748290,
+    547436161,
+    968268482
   ]
 }

@@ -1,0 +1,2645 @@
+{
+  "14175839": {
+    "TitleName": "Abo Khashem",
+    "TitleId": "14175839",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "06e10100-c15e-487f-99d6-dc8c00d84e5f",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true,
+    "Achievements": {
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":21},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":0,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":1,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":22},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":2},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":1,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":2,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":23},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":3},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":2},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":2,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":3,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":24},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":4},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":3},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":3,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CompletionPercent\":6,\"DifficultyLevelId\":4,\"GameplayModeId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CompletionPercent\":100.0,\"DifficultyLevelId\":4,\"GameplayModeId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":25},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":4},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TorridOwnership"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"OwnedPercent\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TorridOwnership\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"OwnedPercent\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TorridOwnership"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"OwnedPercent\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TorridOwnership\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"OwnedPercent\":1.0},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AssetAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AssetID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AssetAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AssetID\":236},\"measurements\":{}}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":26},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":6},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":100,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":27},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":7},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":6},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"EnemyRoleId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\",\"EnemyRoleId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":28},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":8},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":7},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MinigameStreak"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ShukmanStreak\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MinigameStreak\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ShukmanStreak\":50},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerLevel"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Level\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerLevel\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Level\":50},\"measurements\":{}}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":29},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":9},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":8},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"30\",\"ItemTypeId\":30,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":9},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"250\",\"ItemTypeId\":250,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":31},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":11},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AssetAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AssetID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AssetAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AssetID\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":32},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":12},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":11},\"measurements\":{}}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":33},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":13},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":12},\"measurements\":{}}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":34},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":14},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":13},\"measurements\":{}}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":35},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":14},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AssetAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AssetID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AssetAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AssetID\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":16},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MinigameStreak"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ShukmanStreak\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MinigameStreak\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ShukmanStreak\":50},\"measurements\":{}}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":37},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":17},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":16},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"1\",\"ItemTypeId\":1,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":38},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":18},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":17},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"1\",\"ItemTypeId\":1,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":39},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":19},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":18},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AssetAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AssetID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AssetAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AssetID\":18},\"measurements\":{}}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":40},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":19},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":1,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":41},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":21},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":500,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":42},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":22},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":21},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SectionEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"ExitStatusId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SectionEnd\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\",\"ExitStatusId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":43},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":23},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":22},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":500,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":44},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":24},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":23},\"measurements\":{}}}"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":45},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":25},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":24},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":1000,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":46},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":26},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":25},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"59\",\"ItemTypeId\":59,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":47},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":27},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":26},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerLevel"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Level\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerLevel\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Level\":60},\"measurements\":{}}}"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":48},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":28},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":27},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"1\",\"ItemTypeId\":1,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":49},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":29},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":28},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ItemAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ItemTypeId\":4,\"AcquisitionMethodId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"LocationX\":6,\"LocationY\":6,\"LocationZ\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ItemAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ItemId\":\"1\",\"ItemTypeId\":1,\"AcquisitionMethodId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"LocationX\":0.0,\"LocationY\":0.0,\"LocationZ\":0.0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":50},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":29},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DungeonStreak"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Streak\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DungeonStreak\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Streak\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":51},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":31},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"SectionId\":4,\"ExitStatusId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\",\"ObjectiveId\":\"50\",\"ExitStatusId\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":52},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":32},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":31},\"measurements\":{}}}"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":53},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":33},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":32},\"measurements\":{}}}"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":54},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":34},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":33},\"measurements\":{}}}"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":55},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":35},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":34},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AssetAcquired"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AssetID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AssetAcquired\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AssetID\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":56},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":35},\"measurements\":{}}}"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":57},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":37},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EnemyDefeated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EnemyRoleId\":4,\"KillTypeId\":4,\"DifficultyLevelId\":4,\"GameplayModeId\":4,\"PlayerRoleId\":4,\"PlayerWeaponId\":4,\"EnemyWeaponId\":4,\"RoundId\":4,\"SectionId\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EnemyDefeated\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EnemyRoleId\":1,\"KillTypeId\":1,\"DifficultyLevelId\":1,\"GameplayModeId\":1,\"PlayerRoleId\":1,\"PlayerWeaponId\":1,\"EnemyWeaponId\":1,\"RoundId\":1,\"SectionId\":1,\"MultiplayerCorrelationId\":\"1\"},\"measurements\":{}}}"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":58},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":38},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AboKhashemAchievement"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AboKhashemAchievement\",\"serviceConfigId\":\"06e10100-c15e-487f-99d6-dc8c00d84e5f\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"14175839\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementID\":37},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "14175839"
+  ]
+}

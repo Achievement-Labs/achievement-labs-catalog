@@ -1,0 +1,1023 @@
+{
+  "215313834": {
+    "TitleName": "Draw a Stickman: EPIC",
+    "TitleId": "215313834",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "f30d0100-a3c2-40b2-be7a-7f370cd56daa",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true,
+    "Achievements": {
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ArmakilloKilled"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ArmakilloKilled\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Level\":\"The Battle of Stickopolis\",\"LevelName\":\"TheBattleOfStickopolis\",\"LevelId\":\"BattleOfStickopolis\",\"Map\":\"Stickopolis\",\"Value\":1,\"Count\":1},\"measurements\":{\"Value\":1,\"Count\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ArmakilloKilled"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ArmakilloKilled\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Level\":\"The Battle of Stickopolis\",\"LevelName\":\"TheBattleOfStickopolis\",\"LevelId\":\"BattleOfStickopolis\",\"Map\":\"Stickopolis\",\"Value\":1,\"Count\":1},\"measurements\":{\"Value\":1,\"Count\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ArmakilloKilled"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ArmakilloKilled\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Level\":\"The Battle of Stickopolis\",\"LevelName\":\"TheBattleOfStickopolis\",\"LevelId\":\"BattleOfStickopolis\",\"Map\":\"Stickopolis\",\"Value\":1,\"Count\":1},\"measurements\":{\"Value\":1,\"Count\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TreeChopped"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TreeChopped\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TreeChop"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TreeChop\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TreeChop"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TreeChop\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChoppedTree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChoppedTree\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChoppedTree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChoppedTree\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChoppedTree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChoppedTree\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChoppedTree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChoppedTree\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyKilled"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyKilled\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyDied"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyDied\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyDied"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyDied\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyLost"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyLost\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyLost"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyLost\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyLost"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyLost\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BunnyLost"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BunnyLost\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelUnlocked"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelUnlocked\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelCompleted\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelCompleted\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelComplete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelComplete\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelComplete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelComplete\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelComplete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelComplete\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LevelComplete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LevelComplete\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DamageTaken"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DamageTaken\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "StickmanDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"StickmanDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "StickmanDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"StickmanDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "StickmanDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"StickmanDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "StickmanDamaged"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"StickmanDamaged\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FireDrawn"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FireDrawn\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FireCreated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FireCreated\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FireCreated"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FireCreated\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrewFire"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrewFire\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrewFire"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrewFire\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrewFire"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrewFire\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrewFire"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrewFire\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ContainerOpened"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ContainerOpened\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChestOpened"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChestOpened\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChestOpened"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChestOpened\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ContainerOpen"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ContainerOpen\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ContainerOpen"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ContainerOpen\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ContainerOpen"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ContainerOpen\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ContainerOpen"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}},\"measurements\":{\"f\":{\"Value\":4,\"Count\":4,\"Progress\":4,\"Amount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ContainerOpen\",\"serviceConfigId\":\"f30d0100-a3c2-40b2-be7a-7f370cd56daa\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"215313834\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"UserId\":\"REPLACEXUID\",\"PlayerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1},\"measurements\":{\"Value\":1,\"Count\":1,\"Progress\":1,\"Amount\":1}}}"
+          },
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPSUFFIX",
+            "Replacement": "App"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "215313834"
+  ]
+}

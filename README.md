@@ -16,6 +16,7 @@ titles/
   <titleId>/<titleId>.json   the event template
   <titleId>/Stats.json       stat recipes, where the title has them
 mobile/bundled-titles.json   title IDs already bundled in the apps (left out of mobile catalogue.json)
+mobile/pack-assignment.json  which offline pack part holds each title (kept stable; see Mobile feed)
 tools/                       validate, build, sign and verify scripts (Python 3.12)
 tests/                       unit tests
 dist/                        build output (not committed)
@@ -119,11 +120,42 @@ if the file is missing.
 
 - `https://achievement-labs.github.io/achievement-labs-catalog/mobile/catalogue.json`:
   additions not bundled in the apps (titles listed in `mobile/bundled-titles.json` are left out).
-- `https://achievement-labs.github.io/achievement-labs-catalog/mobile/EventPack.json`: the
-  offline event pack, every title that fits the conservative limits all platforms accept.
+- `https://achievement-labs.github.io/achievement-labs-catalog/mobile/EventPack.json`: part 1 of
+  the offline event pack, which holds every title that fits the conservative limits all platforms
+  accept. Further parts are listed in `EventPackIndex.json` (see below).
+
+### Offline pack parts
+
+The offline pack is split into parts so that every file stays within the 32 MiB download limit:
+
+```
+dist/mobile/EventPack.json            part 1 (the original file name, unchanged for existing readers)
+dist/mobile/EventPack-2.json          part 2, then EventPack-3.json, ... (same shape as part 1)
+dist/mobile/EventPackIndex.json       {"schema":1,"revision":<catalog revision>,
+                                       "parts":[{"file":"EventPack.json","sha256":...,"size":...,"titles":<count>}, ...]}
+dist/mobile/EventPackIndex.json.sig   signature over EventPackIndex.json (same key and format as manifest.json.sig)
+```
+
+Every part has the same top-level fields as the catalogue (`schemaVersion`, `upstreamRelease`,
+`archiveSHA256`, `generatedAt`, `titles`), and a title appears in exactly one part. Clients read
+`EventPackIndex.json`, verify its signature, then fetch each part and check its `sha256` and `size`.
+
+Assignment is stable and lives in the committed `mobile/pack-assignment.json`
+(`{"schema":1,"parts":[["<titleId>", ...], ...]}`):
+
+- titles already assigned keep their part and order, so adding titles never reshuffles parts;
+- titles not yet assigned are added in ascending numeric title ID to the last part while it stays
+  within 30 MiB, otherwise a new part is opened;
+- titles that leave the pack (disabled, or no recipe passes the pack limits) are removed from it.
+
+`tools/build.py` writes newly assigned titles back to `mobile/pack-assignment.json` and prints
+`updated pack-assignment.json`. Commit that file with the title change. CI and publish build with
+`--check`, which fails instead of writing when the assignment would change. Part 1 kept its original
+576 titles, which already exceed the 30 MiB target (a warning is printed), so new titles start in
+part 2. The 32 MiB limit is enforced per file and fails the build.
 
 Here `upstreamRelease` is `catalog-r<revision>`, `archiveSHA256` is the SHA-256 of
-`v1/manifest.json`, and `generatedAt` is the commit time. Both files must stay within the
+`v1/manifest.json`, and `generatedAt` is the commit time. Every file must stay within the
 clients' 32 MiB download limit; the build fails rather than exceed it.
 
 ### Legacy mobile endpoint (unchanged)

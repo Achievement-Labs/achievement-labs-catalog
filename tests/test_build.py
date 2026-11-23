@@ -138,7 +138,8 @@ class BuildTests(unittest.TestCase):
     def test_mobile_feed(self):
         out = self.root / 'dist'
         manifest = self.run_build(out)
-        feed, pack = build_mobile.build(self.titles, out, manifest, reserved=frozenset())
+        assignment = self.root / 'pack-assignment.json'
+        feed, pack, index = build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment)
         self.assertEqual(feed['schemaVersion'], 1)
         self.assertEqual(feed['upstreamRelease'], 'catalog-r2')
         self.assertEqual(feed['generatedAt'], manifest['generatedUtc'])
@@ -147,9 +148,71 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(recipes['1'], [[{'target': 'REPLACEEVENTNAME', 'value': 'Unlock'}, {'target': 'REPLACEID', 'value': '1'}]])
         self.assertNotIn('2', recipes)  # mobile clients accept string Replacement values only
         self.assertIn('7', pack['titles'])
-        reserved, _ = build_mobile.build(self.titles, out, manifest, reserved=frozenset({'7'}))
+        part = (out / 'mobile' / 'EventPack.json').read_bytes()
+        self.assertEqual(index, {'schema': 1, 'revision': 2, 'parts': [
+            {'file': 'EventPack.json', 'sha256': hashlib.sha256(part).hexdigest(), 'size': len(part), 'titles': 1}]})
+        self.assertEqual(json.loads((out / 'mobile' / 'EventPackIndex.json').read_bytes()), index)
+        self.assertEqual(json.loads(assignment.read_bytes()), {'schema': 1, 'parts': [['7']]})
+        reserved, _, _ = build_mobile.build(self.titles, out, manifest, reserved=frozenset({'7'}), assignment=assignment)
         self.assertEqual(reserved['titles'], {})
         self.assertEqual(set(json.loads((out / 'mobile' / 'EventPack.json').read_bytes())['titles']), {'7'})
+
+    def test_pack_part_size_guard(self):
+        out = self.root / 'dist'
+        manifest = self.run_build(out)
+        assignment = self.root / 'pack-assignment.json'
+        build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment)
+        size = len((out / 'mobile' / 'EventPack.json').read_bytes())
+        with self.assertRaisesRegex(ValueError, 'over the 32 MiB client limit'):
+            build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, hard_limit=size - 1)
+
+    def test_check_mode_refuses_to_update_assignment(self):
+        out = self.root / 'dist'
+        manifest = self.run_build(out)
+        assignment = self.root / 'pack-assignment.json'
+        with self.assertRaisesRegex(ValueError, 'commit mobile/pack-assignment.json'):
+            build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, check=True)
+        self.assertFalse(assignment.exists())
+        build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment)
+        before = assignment.read_bytes()
+        build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, check=True)
+        self.assertEqual(assignment.read_bytes(), before)
+
+
+class PackAssignmentTests(unittest.TestCase):
+    def cost(self, sizes, part):
+        return sum(len(json.dumps(t)) + 2 + sizes[t] for t in part)
+
+    def test_splits_by_part_limit_in_numeric_order(self):
+        sizes = {'30': 40, '4': 40, '200': 40, '1': 40}
+        parts = build_mobile.assign_parts(sizes, [], part_limit=100)
+        self.assertEqual(parts, [['1', '4'], ['30', '200']])
+        self.assertTrue(all(self.cost(sizes, p) <= 100 for p in parts))
+
+    def test_oversized_title_gets_its_own_part(self):
+        self.assertEqual(build_mobile.assign_parts({'1': 10, '2': 500, '3': 10}, [], part_limit=100), [['1'], ['2'], ['3']])
+
+    def test_stable_when_titles_are_added(self):
+        sizes = {'9': 40, '5': 40, '7': 40}
+        first = build_mobile.assign_parts(sizes, [['9', '5'], ['7']], part_limit=100)
+        self.assertEqual(first, [['9', '5'], ['7']])  # existing order kept, even if not numeric
+        grown = build_mobile.assign_parts(dict(sizes, **{'3': 40, '1': 40, '8': 40}), first, part_limit=100)
+        self.assertEqual(grown[:2], [['9', '5'], ['7', '1']])  # new titles fill the last part first
+        self.assertEqual(grown[2:], [['3', '8']])
+        self.assertEqual(build_mobile.assign_parts(dict(sizes, **{'3': 40, '1': 40, '8': 40}), grown, part_limit=100), grown)
+
+    def test_removed_titles_leave_other_parts_in_place(self):
+        self.assertEqual(build_mobile.assign_parts({'1': 10, '3': 10}, [['1', '2'], ['3']], part_limit=100), [['1'], ['3']])
+
+    def test_assignment_file_round_trip_and_checks(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'a.json'
+            self.assertEqual(build_mobile.load_assignment(path), [])
+            path.write_bytes(build_mobile.dump_assignment([['1'], ['2']]))
+            self.assertEqual(build_mobile.load_assignment(path), [['1'], ['2']])
+            path.write_bytes(build_mobile.dump_assignment([['1'], ['1']]))
+            with self.assertRaises(ValueError):
+                build_mobile.load_assignment(path)
 
 
 if __name__ == '__main__':

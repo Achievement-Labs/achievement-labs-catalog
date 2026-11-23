@@ -1,6 +1,8 @@
 """Build the published catalog into dist/.
 
-python tools/build.py [--titles DIR] [--out DIR] [--no-mobile]
+python tools/build.py [--titles DIR] [--out DIR] [--no-mobile] [--check]
+
+--check (used by CI and publish) fails instead of updating mobile/pack-assignment.json.
 
 Writes dist/v1/manifest.json plus content-addressed dist/v1/titles/<id>.<sha12>.json
 bundles, then (unless --no-mobile) the mobile feed under dist/mobile/ via build_mobile.py.
@@ -89,6 +91,7 @@ def main(argv=None):
     parser.add_argument('--titles', type=Path, default=TITLES)
     parser.add_argument('--out', type=Path, default=ROOT / 'dist')
     parser.add_argument('--no-mobile', action='store_true')
+    parser.add_argument('--check', action='store_true', help='fail if mobile/pack-assignment.json would change')
     args = parser.parse_args(argv)
     state = git_state(ROOT, args.titles)
     manifest = build_v1(args.titles, args.out, *state)
@@ -96,7 +99,7 @@ def main(argv=None):
     print(f'v1: revision {manifest["revision"]}, {len(manifest["titles"])} titles ({enabled} enabled bundles)')
     if not args.no_mobile:
         import build_mobile
-        build_mobile.build(args.titles, args.out, manifest)
+        build_mobile.build(args.titles, args.out, manifest, check=args.check)
     return 0
 
 

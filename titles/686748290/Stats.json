@@ -1,0 +1,40 @@
+{
+  "686748290": {
+    "TitleName": "Atari Flashback Classics Vol. 1",
+    "ServiceConfigId": "8e690100-627d-45a5-993a-c64728eef282",
+    "StatsMode": "EventBased",
+    "Stats": {
+      "StatValue.StatId.0": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "686748290",
+        "ServiceConfigId": "8e690100-627d-45a5-993a-c64728eef282",
+        "DisplayName": "Fleas Killed"
+      },
+      "StatValue.StatId.1": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "686748290",
+        "ServiceConfigId": "8e690100-627d-45a5-993a-c64728eef282",
+        "DisplayName": "Warlords levels cleared"
+      },
+      "StatValue.StatId.2": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "686748290",
+        "ServiceConfigId": "8e690100-627d-45a5-993a-c64728eef282",
+        "DisplayName": "Millipedes killed with DDT"
+      },
+      "StatValue.StatId.3": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "686748290",
+        "ServiceConfigId": "8e690100-627d-45a5-993a-c64728eef282",
+        "DisplayName": "Qotiles killed"
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    686748290
+  ]
+}

@@ -1,0 +1,3503 @@
+{
+  "2029804115": {
+    "FullySupported": true,
+    "Devices": [
+      "PC"
+    ],
+    "Enabled": true,
+    "PartiallySupported": false,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EasyDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EasyDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EasyDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EasyDaysNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EasyDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EasyDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EasyDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EasyDaysNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NormalDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NormalDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NormalDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NormalDaysNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NormalDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NormalDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NormalDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NormalDaysNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "HardDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"HardDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"HardDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"HardDaysNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "HardDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"HardDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"HardDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"HardDaysNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":50},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":50},\"measurements\":{}}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":100},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCars"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCars\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarsNum\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":1,\"AllBuffsNum\":0,\"MeChickenNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":1,\"AllBuffsNum\":0,\"MeChickenNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":0,\"AllBuffsNum\":1,\"MeChickenNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":0,\"AllBuffsNum\":1,\"MeChickenNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerTrip"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarTripNum\":4,\"WaterTripNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerTrip\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarTripNum\":0,\"WaterTripNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerTrip"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarTripNum\":4,\"WaterTripNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerTrip\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarTripNum\":0,\"WaterTripNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerTrip"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarTripNum\":4,\"WaterTripNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerTrip\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarTripNum\":1,\"WaterTripNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayerTrip"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarTripNum\":4,\"WaterTripNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PlayerTrip\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarTripNum\":1,\"WaterTripNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TrampolineEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"TrampolineNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TrampolineEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TrampolineNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TrampolineEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"TrampolineNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TrampolineEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TrampolineNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":50},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":50},\"measurements\":{}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":25},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":25},\"measurements\":{}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingCarrots"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CarrotsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingCarrots\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CarrotsNum\":10},\"measurements\":{}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingChicken"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KickingChickNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingChicken\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KickingChickNum\":25},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingChicken"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KickingChickNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingChicken\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KickingChickNum\":25},\"measurements\":{}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummonKappas"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KappasNum\":4,\"3Kappa\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummonKappas\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KappasNum\":1,\"3Kappa\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummonKappas"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KappasNum\":4,\"3Kappa\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummonKappas\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KappasNum\":1,\"3Kappa\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummonKappas"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KappasNum\":4,\"3Kappa\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummonKappas\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KappasNum\":0,\"3Kappa\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummonKappas"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KappasNum\":4,\"3Kappa\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummonKappas\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KappasNum\":0,\"3Kappa\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GoalsEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GoalsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GoalsEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GoalsNum\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GoalsEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GoalsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GoalsEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GoalsNum\":20},\"measurements\":{}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WellEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WellNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WellEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WellNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WellEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WellNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WellEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WellNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ColorChange"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ColorNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ColorChange\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ColorNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ColorChange"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ColorNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ColorChange\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ColorNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EasyDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EasyDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EasyDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EasyDaysNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EasyDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"EasyDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EasyDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"EasyDaysNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NormalDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NormalDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NormalDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NormalDaysNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NormalDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NormalDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NormalDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NormalDaysNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "HardDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"HardDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"HardDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"HardDaysNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "HardDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"HardDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"HardDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"HardDaysNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":10},\"measurements\":{}}}"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":15},\"measurements\":{}}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KickingWheels"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WheelsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KickingWheels\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WheelsNum\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":20},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GarbageEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"GarbageNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GarbageEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"GarbageNum\":20},\"measurements\":{}}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":0,\"AllBuffsNum\":0,\"MeChickenNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BuffEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AnyBuffNum\":4,\"AllBuffsNum\":4,\"MeChickenNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BuffEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AnyBuffNum\":0,\"AllBuffsNum\":0,\"MeChickenNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PunishmentEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PunishmentNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PunishmentEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PunishmentNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PunishmentEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PunishmentNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PunishmentEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PunishmentNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TopDance"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"TopDanceNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TopDance\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TopDanceNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "TopDance"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"TopDanceNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"TopDance\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"TopDanceNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PortalEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PortalNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PortalEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PortalNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PortalEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PortalNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PortalEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PortalNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":15},\"measurements\":{}}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":30},\"measurements\":{}}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":50},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":50},\"measurements\":{}}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":100},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":1,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":1,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":1,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":1,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":1,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":1,\"Fashion4Num\":0,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":1,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":1,\"AlmostNakedNum\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FashionEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Fashion1Num\":4,\"Fashion2Num\":4,\"Fashion3Num\":4,\"Fashion4Num\":4,\"AlmostNakedNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FashionEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Fashion1Num\":0,\"Fashion2Num\":0,\"Fashion3Num\":0,\"Fashion4Num\":0,\"AlmostNakedNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "CheaterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CheaterNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"CheaterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CheaterNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "CheaterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CheaterNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"CheaterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CheaterNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LionsKicksEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"LionsKicksNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LionsKicksEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LionsKicksNum\":10},\"measurements\":{}}}"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FlagCollectedEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"FlagsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FlagCollectedEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FlagsNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FlagCollectedEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"FlagsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FlagCollectedEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FlagsNum\":10},\"measurements\":{}}}"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KeepOrderEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KeepOrderNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KeepOrderEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KeepOrderNum\":5},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KeepOrderEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"KeepOrderNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"KeepOrderEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"KeepOrderNum\":5},\"measurements\":{}}}"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":150},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":150},\"measurements\":{}}}"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":200},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ParkingTickets"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ParkingTicketsNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ParkingTickets\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ParkingTicketsNum\":200},\"measurements\":{}}}"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerDaysNum\":9},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerDaysNum\":9},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerDaysNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerDaysCompleted"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerDaysNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerDaysCompleted\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerDaysNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":1,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":1,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":1,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":1,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":1,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":1,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":1,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":1,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":1,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":1,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":1,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":1,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":1,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":1,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":1,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":1,\"WinterCounter9\":0,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":1,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":1,\"WinterCounterall\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WinterCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"WinterCounter1\":4,\"WinterCounter2\":4,\"WinterCounter3\":4,\"WinterCounter4\":4,\"WinterCounter5\":4,\"WinterCounter6\":4,\"WinterCounter7\":4,\"WinterCounter8\":4,\"WinterCounter9\":4,\"WinterCounterall\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WinterCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WinterCounter1\":0,\"WinterCounter2\":0,\"WinterCounter3\":0,\"WinterCounter4\":0,\"WinterCounter5\":0,\"WinterCounter6\":0,\"WinterCounter7\":0,\"WinterCounter8\":0,\"WinterCounter9\":0,\"WinterCounterall\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MadPenguinEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"MadPenguinNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MadPenguinEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MadPenguinNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MadPenguinEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"MadPenguinNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MadPenguinEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MadPenguinNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MadBunnyEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"MadBunnyNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MadBunnyEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MadBunnyNum\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MadBunnyEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"MadBunnyNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MadBunnyEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MadBunnyNum\":10},\"measurements\":{}}}"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PenguinChickEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PenguinChickNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PenguinChickEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PenguinChickNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PenguinChickEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"PenguinChickNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PenguinChickEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PenguinChickNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlidingEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SlidingNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlidingEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlidingNum\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlidingEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SlidingNum\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlidingEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlidingNum\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":1,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":1,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":1,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":1,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":1,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":1,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":1,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":1,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":1,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":1,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":1,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":1,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":1,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":1,\"SummerCounter8\":0,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":1,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":1,\"SummerCounter9\":0},\"measurements\":{}}}"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "AppBunnyParkingShipping"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SummerCounterEvent"
+          },
+          "AppIdReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEAPPID",
+            "Replacement": "Game"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"SummerCounter1\":4,\"SummerCounter2\":4,\"SummerCounter3\":4,\"SummerCounter4\":4,\"SummerCounter5\":4,\"SummerCounter6\":4,\"SummerCounter7\":4,\"SummerCounter8\":4,\"SummerCounter9\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SummerCounterEvent\",\"serviceConfigId\":\"00000000-0000-0000-0000-000078fc5a53\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"2029804115\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SummerCounter1\":0,\"SummerCounter2\":0,\"SummerCounter3\":0,\"SummerCounter4\":0,\"SummerCounter5\":0,\"SummerCounter6\":0,\"SummerCounter7\":0,\"SummerCounter8\":0,\"SummerCounter9\":1},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "2029804115"
+  ]
+}

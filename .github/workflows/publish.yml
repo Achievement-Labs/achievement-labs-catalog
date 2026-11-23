@@ -30,7 +30,7 @@ jobs:
       - name: Unit tests
         run: python -m unittest discover -s tests -v
       - name: Build
-        run: python tools/build.py --out dist
+        run: python tools/build.py --out dist --check
       - name: Sign manifest
         env:
           CATALOG_SIGNING_KEY: ${{ secrets.CATALOG_SIGNING_KEY }}
@@ -40,10 +40,12 @@ jobs:
             exit 1
           fi
           python tools/sign.py --manifest dist/v1/manifest.json
+          python tools/sign.py --manifest dist/mobile/EventPackIndex.json
       - name: Verify signature against the committed public key
         run: |
           if [ -f keys/catalog-signing-public.pem ]; then
             python tools/verify_signature.py keys/catalog-signing-public.pem --manifest dist/v1/manifest.json
+            python tools/verify_signature.py keys/catalog-signing-public.pem --manifest dist/mobile/EventPackIndex.json
           else
             echo "::error::keys/catalog-signing-public.pem is missing. Add the P-256 public key (see keys/README.md); refusing to publish a manifest whose signature cannot be checked."
             exit 1

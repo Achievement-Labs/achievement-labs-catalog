@@ -1,0 +1,82 @@
+{
+  "606152324": {
+    "TitleName": "GWENT: The Witcher Card Game",
+    "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+    "StatsMode": "EventBased",
+    "Stats": {
+      "ArenaMatchesPlayed": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Matches Played in Arena Mode"
+      },
+      "CardsCrafted": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Cards Crafted"
+      },
+      "KegsSmashed": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Kegs Smashed"
+      },
+      "MatchPlayed.FactionId.Monsters": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Multiplayer Matches Played as Monsters"
+      },
+      "MatchPlayed.FactionId.Nilfgaard": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Multiplayer Matches Played as Nilfgaard"
+      },
+      "MatchPlayed.FactionId.NorthernRealms": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Multiplayer Matches Played as Northern Realms"
+      },
+      "MatchPlayed.FactionId.Scoiatael": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Multiplayer Matches Played as Scoia\u2019tael"
+      },
+      "MatchPlayed.FactionId.Skellige": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Multiplayer Matches Played as Skellige"
+      },
+      "TotalCurrencyAcquired.Type.Gold": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Ore Collected"
+      },
+      "TotalCurrencyAcquired.Type.Scraps": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "606152324",
+        "ServiceConfigId": "8ab00100-4272-4e9d-9753-467624212684",
+        "DisplayName": "Scraps Collected"
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    606152324
+  ]
+}
