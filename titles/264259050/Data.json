@@ -1,0 +1,718 @@
+{
+  "264259050": {
+    "TitleName": "Ori and the Blind Forest",
+    "TitleId": "264259050",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "96430100-71ae-4488-8791-79d50fc045ea",
+    "FullySupported": true,
+    "Enabled": true,
+    "Achievements": {
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CompletePrologue"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CompletePrologue"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_ReachSpiritTree"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_ReachSpiritTree"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_MeetGumo"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_MeetGumo"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_RetrieveWaterVein"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_RetrieveWaterVein"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_EnterGinsoTree"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_EnterGinsoTree"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_RessurectedGinsoHeart"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_RessurectedGinsoHeart"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_EscapeGinsoTree"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_EscapeGinsoTree"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_ClearMistyWoods"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_ClearMistyWoods"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_RestoreWind"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_RestoreWind"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_EscapedKuro"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_EscapedKuro"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_RecoverSunstone"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_RecoverSunstone"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_EnterMountHoru"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_EnterMountHoru"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_RestoreFire"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_RestoreFire"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_NaruReunion"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_NaruReunion"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CompleteGame"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CompleteGame"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CreateLotsOfSoulLinks"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CreateLotsOfSoulLinks"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_KillManyWithChargeFlame"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_KillManyWithChargeFlame"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_KillManyWithBashRedirect"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_KillManyWithBashRedirect"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_OpenShortcutsWithChargeFlame"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_OpenShortcutsWithChargeFlame"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_ActivateFirstSkill"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_ActivateFirstSkill"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_ChargeJumpIntoManyEnemies"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_ChargeJumpIntoManyEnemies"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllSecrets"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllSecrets"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllSecrets"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllSecrets"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllSecrets"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllSecrets"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllMapStones"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllMapStones"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllMapStones"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllMapStones"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindAllMapStones"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindAllMapStones"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FindLostCorridor"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FindLostCorridor"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_UseEverySavePedestal"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_UseEverySavePedestal"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_DiscoverAllMap"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_DiscoverAllMap"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectLotsOfEnergy"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectLotsOfEnergy"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectBranchOneSkills"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectBranchOneSkills"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectBranchTwoSkills"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectBranchTwoSkills"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectBranchThreeSkills"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectBranchThreeSkills"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectAllSkills"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectAllSkills"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectAllEnergyCells"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectAllEnergyCells"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CollectAllHealthCells"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CollectAllHealthCells"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_JuggleRock"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_JuggleRock"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_BashEnemyALotInARow"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_BashEnemyALotInARow"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_TrickEnemiesToKillEachOther"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_TrickEnemiesToKillEachOther"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_KillEnemiesWithoutTouchingGround"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_KillEnemiesWithoutTouchingGround"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_TrickEnemyIntoKillingItself"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_TrickEnemyIntoKillingItself"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CrushRamWithStomper"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CrushRamWithStomper"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_StompFiftyEnemies"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_StompFiftyEnemies"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_ChargeFlameHundredEnemies"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_ChargeFlameHundredEnemies"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_SpiritFlameFiveHundredEnemies"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_SpiritFlameFiveHundredEnemies"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_FinishWholeGameFast"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_FinishWholeGameFast"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_DoubleJumpConsecutively"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_DoubleJumpConsecutively"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CompleteGameWithoutDying"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CompleteGameWithoutDying"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTORI",
+            "Replacement": "Microsoft.XboxLive.T264259050.Award_CompleteGameWithoutUsingAbilityPoint"
+          },
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAMEORI",
+            "Replacement": "Award_CompleteGameWithoutUsingAbilityPoint"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "264259050"
+  ]
+}

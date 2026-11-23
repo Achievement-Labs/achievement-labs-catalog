@@ -1,0 +1,118 @@
+{
+  "882816773": {
+    "FullySupported": true,
+    "Achievements": {
+      "3": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "72"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "73"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "74"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "75"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "76"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "80"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "81"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "82"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "83"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "78"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "79"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "77"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "882816773"
+  ]
+}

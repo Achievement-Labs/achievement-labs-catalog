@@ -1,0 +1,637 @@
+{
+  "1015340672": {
+    "FullySupported": true,
+    "Achievements": {
+      "59": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2059,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2060,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2061,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2062,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2063,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2064,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2065,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2066,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2067,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2068,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2069,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2070,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2071,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2072,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2073,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2074,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2075,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2076,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2077,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2078},\"measurements\":{\"CompletionPercent\":50}}}"
+          }
+        }
+      },
+      "79": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2079},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "80": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2080},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "81": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2081},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "82": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2082,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "83": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2083,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "84": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2084},\"measurements\":{\"CompletionPercent\":50}}}"
+          }
+        }
+      },
+      "85": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2085},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "86": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2086},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "87": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2087,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "88": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2088,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "89": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.EventProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"ObjectiveID\":4}},\"measurements\":{\"f\":{\"CompletionPercent\":6}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"EventProgress\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ObjectiveID\":2089},\"measurements\":{\"CompletionPercent\":100}}}"
+          }
+        }
+      },
+      "90": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2090,\"SectionId\":1}}}"
+          }
+        }
+      },
+      "91": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T1015340672.ObjectiveEnd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"DifficultyLevelId\":4,\"ExitStatusId\":4,\"GameplayModeId\":4,\"ObjectiveId\":4,\"SectionId\":4}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ObjectiveEnd\",\"serviceConfigId\":\"a3ab0100-75f1-4191-81ef-64573c84de80\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"1015340672\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DifficultyLevelId\":1,\"ExitStatusId\":1,\"GameplayModeId\":1,\"MultiplayerCorrelationId\":null,\"ObjectiveId\":2091,\"SectionId\":1}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "1015340672"
+  ]
+}

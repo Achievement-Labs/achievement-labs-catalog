@@ -1,0 +1,1242 @@
+{
+  "796798669": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement29Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement29Unlocked"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement28Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement28Unlocked"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement45Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement45Unlocked"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement1Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement1Unlocked"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement35Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement35Unlocked"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement48Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement48Unlocked"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement38Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement38Unlocked"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement33Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement33Unlocked"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement31Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement31Unlocked"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement26Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement26Unlocked"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement25Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement25Unlocked"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement24Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement24Unlocked"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement44Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement44Unlocked"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement37Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement37Unlocked"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement21Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement21Unlocked"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement42Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement42Unlocked"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement46Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement46Unlocked"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement47Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement47Unlocked"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement27Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement27Unlocked"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement23Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement23Unlocked"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement19Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement19Unlocked"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement5Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement5Unlocked"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement6Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement6Unlocked"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement3Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement3Unlocked"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement4Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement4Unlocked"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement10Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement10Unlocked"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement11Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement11Unlocked"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement15Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement15Unlocked"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement9Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement9Unlocked"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement2Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement2Unlocked"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement14Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement14Unlocked"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement13Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement13Unlocked"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement16Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement16Unlocked"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement8Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement8Unlocked"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement17Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement17Unlocked"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement22Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement22Unlocked"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement36Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement36Unlocked"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement34Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement34Unlocked"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement0Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement0Unlocked"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement43Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement43Unlocked"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement30Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement30Unlocked"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement20Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement20Unlocked"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement40Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement40Unlocked"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement39Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement39Unlocked"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement12Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement12Unlocked"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement41Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement41Unlocked"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement7Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement7Unlocked"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement18Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement18Unlocked"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement32Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement32Unlocked"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Achievement49Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.Achievement49Unlocked"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement1Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement1Unlocked"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement2Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement2Unlocked"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement3Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement3Unlocked"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement4Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement4Unlocked"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement5Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement5Unlocked"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement6Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement6Unlocked"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement7Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement7Unlocked"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement8Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement8Unlocked"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement9Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement9Unlocked"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC1Achievement10Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC1Achievement10Unlocked"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement1Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement1Unlocked"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement2Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement2Unlocked"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement3Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement3Unlocked"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement4Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement4Unlocked"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement5Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement5Unlocked"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement6Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement6Unlocked"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement7Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement7Unlocked"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement8Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement8Unlocked"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement9Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement9Unlocked"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC2Achievement10Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC2Achievement10Unlocked"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement1Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement1Unlocked"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement2Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement2Unlocked"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement3Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement3Unlocked"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement4Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement4Unlocked"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement5Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement5Unlocked"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement6Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement6Unlocked"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement7Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement7Unlocked"
+          }
+        }
+      },
+      "79": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC3Achievement8Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC3Achievement8Unlocked"
+          }
+        }
+      },
+      "80": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement1Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement1Unlocked"
+          }
+        }
+      },
+      "81": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement2Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement2Unlocked"
+          }
+        }
+      },
+      "82": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement3Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement3Unlocked"
+          }
+        }
+      },
+      "83": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement4Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement4Unlocked"
+          }
+        }
+      },
+      "84": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement5Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement5Unlocked"
+          }
+        }
+      },
+      "85": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement6Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement6Unlocked"
+          }
+        }
+      },
+      "86": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement7Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement7Unlocked"
+          }
+        }
+      },
+      "87": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement8Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement8Unlocked"
+          }
+        }
+      },
+      "88": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement9Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement9Unlocked"
+          }
+        }
+      },
+      "89": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "DLC4Achievement10Unlocked"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T796798669.DLC4Achievement10Unlocked"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "796798669"
+  ]
+}

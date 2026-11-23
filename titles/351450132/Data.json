@@ -1,0 +1,178 @@
+{
+  "351450132": {
+    "FullySupported": true,
+    "Achievements": {
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardDeathless"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardDeathless"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardNiceBeatingYou"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardNiceBeatingYou"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardOneMillion"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardOneMillion"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardFitsOfRage"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardFitsOfRage"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardKindOfRobot"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardKindOfRobot"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardBeenThereShotThat"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardBeenThereShotThat"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardTwoThumbMaster"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardTwoThumbMaster"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardGamersDiet"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardGamersDiet"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardNaturalBornGamer"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardNaturalBornGamer"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardThingsIveSeen"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardThingsIveSeen"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardWilhelmScream"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardWilhelmScream"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTRR",
+            "Replacement": "Microsoft.XboxLive.T351450132.AwardOneShotThriceScore"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "AwardOneShotThriceScore"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "351450132"
+  ]
+}

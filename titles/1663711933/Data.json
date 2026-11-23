@@ -1,0 +1,19 @@
+{
+  "1663711933": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "1"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "1663711933"
+  ]
+}

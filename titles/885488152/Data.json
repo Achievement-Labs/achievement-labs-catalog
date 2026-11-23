@@ -1,0 +1,136 @@
+{
+  "885488152": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "1"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "2"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "3"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "4"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "5"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "6"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "7"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "8"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "9"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "10"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "11"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "12"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "13"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECRITERIA",
+            "Replacement": "14"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "885488152"
+  ]
+}

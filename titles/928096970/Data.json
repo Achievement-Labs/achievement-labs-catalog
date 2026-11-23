@@ -1,0 +1,816 @@
+{
+  "928096970": {
+    "TitleName": "Happy Dungeons",
+    "TitleId": "928096970",
+    "Devices": [
+      "XboxOne"
+    ],
+    "ServiceConfigId": "b32e0100-8014-44fb-a4c5-eb943751a2ca",
+    "FullySupported": false,
+    "Enabled": true,
+    "Achievements": {
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameFlag"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FlagId\":4,\"Value\":4,\"Mode\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"GameFlag\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FlagId\":0,\"Value\":0,\"Mode\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameFlag"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FlagId\":4,\"Value\":4,\"Mode\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"GameFlag\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FlagId\":0,\"Value\":0,\"Mode\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":1,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":12,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":18,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":23,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":29,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KillCountSpecies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"SpeciesId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"KillCountSpecies\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"SpeciesId\":0,\"Count\":100},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KillCountSpecies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"SpeciesId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"KillCountSpecies\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"SpeciesId\":3,\"Count\":10},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KillCountSpecies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"SpeciesId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"KillCountSpecies\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"SpeciesId\":5,\"Count\":100},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameFlag"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FlagId\":4,\"Value\":4,\"Mode\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"GameFlag\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FlagId\":0,\"Value\":0,\"Mode\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMissionEqMoreDifficultyAndPlayerNum"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Difficulty\":4,\"PlayerCount\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMissionEqMoreDifficultyAndPlayerNum\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Difficulty\":0,\"PlayerCount\":2,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMissionEqMoreDifficultyAndPlayerNum"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Difficulty\":4,\"PlayerCount\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMissionEqMoreDifficultyAndPlayerNum\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Difficulty\":2,\"PlayerCount\":4,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameFlag"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FlagId\":4,\"Value\":4,\"Mode\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"GameFlag\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FlagId\":0,\"Value\":0,\"Mode\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Minion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MinionType\":4,\"Level\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Minion\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MinionType\":0,\"Level\":1,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EquipItem"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Epic\":4,\"Count\":4,\"MaxLevel\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"EquipItem\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Epic\":1,\"Count\":1,\"MaxLevel\":0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EquipItem"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Epic\":4,\"Count\":4,\"MaxLevel\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"EquipItem\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Epic\":0,\"Count\":100,\"MaxLevel\":0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Minion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4,\"Boosted\":4,\"MaxLevel\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Minion\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Count\":1,\"Boosted\":1,\"MaxLevel\":0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Minion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MinionType\":4,\"Level\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Minion\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MinionType\":0,\"Level\":30,\"Count\":30},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EquipItem"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Epic\":4,\"Count\":4,\"MaxLevel\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"EquipItem\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Epic\":0,\"Count\":1,\"MaxLevel\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Minion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4,\"Boosted\":4,\"MaxLevel\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Minion\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Count\":1,\"Boosted\":0,\"MaxLevel\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Level"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Level\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Level\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Level\":10},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Level"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Level\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Level\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Level\":30},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Level"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Level\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Level\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Level\":50},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":0,\"PlayTime\":36000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":2,\"PlayTime\":36000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":1,\"PlayTime\":36000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "GameFlag"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FlagId\":4,\"Value\":4,\"Mode\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"GameFlag\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FlagId\":0,\"Value\":0,\"Mode\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMissionDifficulty"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Difficulty\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMissionDifficulty\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Difficulty\":3,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "StageObject"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"StageObject\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Count\":1000},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMissionDifficulty"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Difficulty\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMissionDifficulty\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Difficulty\":3,\"Count\":42},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":7,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":-1,\"PlayTime\":90000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":-1,\"PlayTime\":180000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":-1,\"PlayTime\":270000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PlayTime"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"JobType\":4,\"PlayTime\":6}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"PlayTime\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"JobType\":-1,\"PlayTime\":360000.0},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "KillCountSpecies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"SpeciesId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"KillCountSpecies\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"SpeciesId\":1,\"Count\":8192},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMission"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMission\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":42,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "InfinityDungeonFloorName"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"FloorName\":2}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"InfinityDungeonFloorName\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"FloorName\":\"1\"},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementMissionDifficultyCount"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MissionId\":4,\"Difficulty\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"AchievementMissionDifficultyCount\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"MissionId\":29,\"Difficulty\":2,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RecoverFrend"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"RecoverFrend\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"Count\":77},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "EquipItem"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ItemType\":4,\"Rarity\":4,\"Count\":4}},\"ver\":2}}},\"privTags\":1,\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"EquipItem\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"properties\":{\"ItemType\":0,\"Rarity\":0,\"Count\":1},\"serviceConfigId\":\"b32e0100-8014-44fb-a4c5-eb943751a2ca\",\"titleId\":928096970,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      }
+    },
+    "PartiallySupported": true
+  },
+  "SupportedTitleIDs": [
+    "928096970"
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "1074352212": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Victory"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Victory"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_MusicLover"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_MusicLover"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_MasterAngler"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_MasterAngler"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_DeckedOut"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_DeckedOut"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_RelicRoundTable"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_RelicRoundTable"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_IScreamForIchor"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_IScreamForIchor"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_NiceHat"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_NiceHat"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ReflectLord"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ReflectLord"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Again"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Again"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_HallChampion"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_HallChampion"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_AnotherDimension"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_AnotherDimension"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ArcOfIron"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ArcOfIron"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Boom"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Boom"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Checkpointless"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Checkpointless"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ClearingAPath"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ClearingAPath"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_DirtPoor"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_DirtPoor"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_FirstPurchase"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_FirstPurchase"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_FlareWander"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_FlareWander"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_FlyingFeat"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_FlyingFeat"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_GetThePoint"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_GetThePoint"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Halfway"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Halfway"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_HeyBigSpender"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_HeyBigSpender"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Hooper"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Hooper"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_HurryUp"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_HurryUp"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ImAlive"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ImAlive"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Impossible"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Impossible"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Juggler"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Juggler"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_KnuckleDown"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_KnuckleDown"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_MasterShoveler"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_MasterShoveler"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_NoDamage"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_NoDamage"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_OnADiet"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_OnADiet"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_OnlyYou"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_OnlyYou"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_OrderOfHoarders"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_OrderOfHoarders"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PennyPincher"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PennyPincher"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PerfectPlatformer"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PerfectPlatformer"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Pungent"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Pungent"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ReflectedRiches"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ReflectedRiches"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_ShovelEconomy"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_ShovelEconomy"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Sparker"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Sparker"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SuperSphere"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SuperSphere"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_TrouppleAcolyte"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_TrouppleAcolyte"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_TrueShovelry"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_TrueShovelry"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_Untouched"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_Untouched"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_WellMet"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_WellMet"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_YoureFired"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_YoureFired"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Again"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Again"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_BombEconomy"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_BombEconomy"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_BombJumpBlitz"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_BombJumpBlitz"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Checkpointless"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Checkpointless"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Creep"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Creep"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_DefendTheLab"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_DefendTheLab"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_GetOutOfMyRoom"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_GetOutOfMyRoom"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_HallVillain"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_HallVillain"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_HangTime"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_HangTime"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_HurryUp"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_HurryUp"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_DeckedOut"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_DeckedOut"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_MintCondition"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_MintCondition"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_NakedPlague"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_NakedPlague"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_NoDamage"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_NoDamage"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_PennyPincher"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_PennyPincher"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_PoorOolong"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_PoorOolong"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Teetotaler"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Teetotaler"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_TradingUp"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_TradingUp"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Untouched"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Untouched"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_PLK_Victory"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_PLK_Victory"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Again"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Again"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Checkpointless"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Checkpointless"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_CuriosOnly"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_CuriosOnly"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Darkslide"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Darkslide"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_GetOutOfMyRoom"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_GetOutOfMyRoom"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_HarvestOfHeights"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_HarvestOfHeights"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_HurryUp"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_HurryUp"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Cheers"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Cheers"
+          }
+        }
+      },
+      "79": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_MakeAKilling"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_MakeAKilling"
+          }
+        }
+      },
+      "80": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_MoodyKnight"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_MoodyKnight"
+          }
+        }
+      },
+      "81": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_NakedSpecter"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_NakedSpecter"
+          }
+        }
+      },
+      "82": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_NoDamage"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_NoDamage"
+          }
+        }
+      },
+      "83": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_NoSlashing"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_NoSlashing"
+          }
+        }
+      },
+      "84": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_SkullSeeker"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_SkullSeeker"
+          }
+        }
+      },
+      "85": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_TowerPatron"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_TowerPatron"
+          }
+        }
+      },
+      "86": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Untouched"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Untouched"
+          }
+        }
+      },
+      "87": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_RiseAndShine"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_RiseAndShine"
+          }
+        }
+      },
+      "88": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_Victory"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_Victory"
+          }
+        }
+      },
+      "89": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_SelfMotivated"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_SelfMotivated"
+          }
+        }
+      },
+      "90": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACETITLE",
+            "Replacement": "Microsoft.XboxLive.T1074352212.Ach_SPK_DeckedOut"
+          },
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACENAME",
+            "Replacement": "Ach_SPK_DeckedOut"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "1074352212"
+  ]
+}

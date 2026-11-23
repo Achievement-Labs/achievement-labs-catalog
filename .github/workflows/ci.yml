@@ -1,0 +1,30 @@
+name: ci
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # revisions come from git history
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Validate catalog
+        run: python tools/validate.py
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Build
+        run: python tools/build.py --out dist
+      - name: Build again and compare (reproducibility)
+        run: |
+          python tools/build.py --out dist-again
+          diff -r dist dist-again
+          echo "Reproducible: $(find dist -type f | wc -l) files identical"

@@ -1,0 +1,1260 @@
+{
+  "1835818566": {
+    "TitleName": "CHAOS;CHILD",
+    "TitleId": "1835818566",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "a8380100-870c-4448-bc75-f7ad6d6c5e46",
+    "FullySupported": false,
+    "Enabled": true,
+    "Achievements": {
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":1}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":2}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":3}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":4}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":5}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":6}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":7}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":8}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":9}}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":10}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterStart"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterStart\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":11}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterFind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":12}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterFind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":13}}}"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterFind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":14}}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterFind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":15}}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterFind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":16}}}"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":11}}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":12}}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":13}}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":14}}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":15}}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":16}}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LookDelusion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"DelusionPositive\":4,\"PositiveDelusionRate\":4,\"PosiDelusion\":4,\"PositiveTrigger\":4,\"PosiTrigger\":4,\"PosiNum\":4,\"PosiCount\":4,\"PositiveNo\":4,\"MousouPositive\":4,\"Positive_Num\":4,\"DelusionNegative\":4,\"NegativeDelusionRate\":4,\"NegaDelusion\":4,\"NegativeTrigger\":4,\"NegaTrigger\":4,\"NegaNum\":4,\"NegaCount\":4,\"NegativeNo\":4,\"MousouNegative\":4,\"Negative_Num\":4,\"DelusionAll\":4,\"AllDelusionCount\":4,\"DelusionTriggerCount\":4,\"MousouCount\":4,\"Mousou\":4,\"DelusionNo\":4,\"LookCount\":4,\"LookNum\":4,\"DelusionTrigger\":4,\"Total_Num\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LookDelusion\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DelusionPositive\":33,\"PositiveDelusionRate\":33,\"PosiDelusion\":33,\"PositiveTrigger\":33,\"PosiTrigger\":33,\"PosiNum\":33,\"PosiCount\":33,\"PositiveNo\":33,\"MousouPositive\":33,\"Positive_Num\":33,\"DelusionNegative\":31,\"NegativeDelusionRate\":31,\"NegaDelusion\":31,\"NegativeTrigger\":31,\"NegaTrigger\":31,\"NegaNum\":31,\"NegaCount\":31,\"NegativeNo\":31,\"MousouNegative\":31,\"Negative_Num\":31,\"DelusionAll\":70,\"AllDelusionCount\":70,\"DelusionTriggerCount\":70,\"MousouCount\":70,\"Mousou\":70,\"DelusionNo\":70,\"LookCount\":70,\"LookNum\":70,\"DelusionTrigger\":70,\"Total_Num\":70}}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LookDelusion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"DelusionPositive\":4,\"PositiveDelusionRate\":4,\"PosiDelusion\":4,\"PositiveTrigger\":4,\"PosiTrigger\":4,\"PosiNum\":4,\"PosiCount\":4,\"PositiveNo\":4,\"MousouPositive\":4,\"Positive_Num\":4,\"DelusionNegative\":4,\"NegativeDelusionRate\":4,\"NegaDelusion\":4,\"NegativeTrigger\":4,\"NegaTrigger\":4,\"NegaNum\":4,\"NegaCount\":4,\"NegativeNo\":4,\"MousouNegative\":4,\"Negative_Num\":4,\"DelusionAll\":4,\"AllDelusionCount\":4,\"DelusionTriggerCount\":4,\"MousouCount\":4,\"Mousou\":4,\"DelusionNo\":4,\"LookCount\":4,\"LookNum\":4,\"DelusionTrigger\":4,\"Total_Num\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LookDelusion\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DelusionPositive\":33,\"PositiveDelusionRate\":33,\"PosiDelusion\":33,\"PositiveTrigger\":33,\"PosiTrigger\":33,\"PosiNum\":33,\"PosiCount\":33,\"PositiveNo\":33,\"MousouPositive\":33,\"Positive_Num\":33,\"DelusionNegative\":31,\"NegativeDelusionRate\":31,\"NegaDelusion\":31,\"NegativeTrigger\":31,\"NegaTrigger\":31,\"NegaNum\":31,\"NegaCount\":31,\"NegativeNo\":31,\"MousouNegative\":31,\"Negative_Num\":31,\"DelusionAll\":70,\"AllDelusionCount\":70,\"DelusionTriggerCount\":70,\"MousouCount\":70,\"Mousou\":70,\"DelusionNo\":70,\"LookCount\":70,\"LookNum\":70,\"DelusionTrigger\":70,\"Total_Num\":70}}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LookDelusion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"DelusionPositive\":4,\"PositiveDelusionRate\":4,\"PosiDelusion\":4,\"PositiveTrigger\":4,\"PosiTrigger\":4,\"PosiNum\":4,\"PosiCount\":4,\"PositiveNo\":4,\"MousouPositive\":4,\"Positive_Num\":4,\"DelusionNegative\":4,\"NegativeDelusionRate\":4,\"NegaDelusion\":4,\"NegativeTrigger\":4,\"NegaTrigger\":4,\"NegaNum\":4,\"NegaCount\":4,\"NegativeNo\":4,\"MousouNegative\":4,\"Negative_Num\":4,\"DelusionAll\":4,\"AllDelusionCount\":4,\"DelusionTriggerCount\":4,\"MousouCount\":4,\"Mousou\":4,\"DelusionNo\":4,\"LookCount\":4,\"LookNum\":4,\"DelusionTrigger\":4,\"Total_Num\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LookDelusion\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DelusionPositive\":33,\"PositiveDelusionRate\":33,\"PosiDelusion\":33,\"PositiveTrigger\":33,\"PosiTrigger\":33,\"PosiNum\":33,\"PosiCount\":33,\"PositiveNo\":33,\"MousouPositive\":33,\"Positive_Num\":33,\"DelusionNegative\":31,\"NegativeDelusionRate\":31,\"NegaDelusion\":31,\"NegativeTrigger\":31,\"NegaTrigger\":31,\"NegaNum\":31,\"NegaCount\":31,\"NegativeNo\":31,\"MousouNegative\":31,\"Negative_Num\":31,\"DelusionAll\":70,\"AllDelusionCount\":70,\"DelusionTriggerCount\":70,\"MousouCount\":70,\"Mousou\":70,\"DelusionNo\":70,\"LookCount\":70,\"LookNum\":70,\"DelusionTrigger\":70,\"Total_Num\":70}}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LookDelusion"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"DelusionPositive\":4,\"PositiveDelusionRate\":4,\"PosiDelusion\":4,\"PositiveTrigger\":4,\"PosiTrigger\":4,\"PosiNum\":4,\"PosiCount\":4,\"PositiveNo\":4,\"MousouPositive\":4,\"Positive_Num\":4,\"DelusionNegative\":4,\"NegativeDelusionRate\":4,\"NegaDelusion\":4,\"NegativeTrigger\":4,\"NegaTrigger\":4,\"NegaNum\":4,\"NegaCount\":4,\"NegativeNo\":4,\"MousouNegative\":4,\"Negative_Num\":4,\"DelusionAll\":4,\"AllDelusionCount\":4,\"DelusionTriggerCount\":4,\"MousouCount\":4,\"Mousou\":4,\"DelusionNo\":4,\"LookCount\":4,\"LookNum\":4,\"DelusionTrigger\":4,\"Total_Num\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LookDelusion\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DelusionPositive\":33,\"PositiveDelusionRate\":33,\"PosiDelusion\":33,\"PositiveTrigger\":33,\"PosiTrigger\":33,\"PosiNum\":33,\"PosiCount\":33,\"PositiveNo\":33,\"MousouPositive\":33,\"Positive_Num\":33,\"DelusionNegative\":31,\"NegativeDelusionRate\":31,\"NegaDelusion\":31,\"NegativeTrigger\":31,\"NegaTrigger\":31,\"NegaNum\":31,\"NegaCount\":31,\"NegativeNo\":31,\"MousouNegative\":31,\"Negative_Num\":31,\"DelusionAll\":70,\"AllDelusionCount\":70,\"DelusionTriggerCount\":70,\"MousouCount\":70,\"Mousou\":70,\"DelusionNo\":70,\"LookCount\":70,\"LookNum\":70,\"DelusionTrigger\":70,\"Total_Num\":70}}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MapTrigger"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"MapTriggerFlag\":4,\"MapTriggerComplete\":4,\"MapTriggerPerfect\":4,\"MapTriggerClear\":4,\"MapTriggerSuccess\":4,\"MapTriggerResult\":4,\"NoMiss\":4,\"MissZero\":4,\"AllCorrect\":4,\"PerfectMapping\":4,\"MappingPerfect\":4,\"MapPerfect\":4,\"MapClear\":4,\"OverSkyEnd\":4,\"Complete\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MapTrigger\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MapTriggerFlag\":1,\"MapTriggerComplete\":1,\"MapTriggerPerfect\":1,\"MapTriggerClear\":1,\"MapTriggerSuccess\":1,\"MapTriggerResult\":1,\"NoMiss\":1,\"MissZero\":1,\"AllCorrect\":1,\"PerfectMapping\":1,\"MappingPerfect\":1,\"MapPerfect\":1,\"MapClear\":1,\"OverSkyEnd\":1,\"Complete\":1}}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MapTriggerMISS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MapTriggerMISS\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":20}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "MapTriggerMISS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"MissCount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"MapTriggerMISS\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"MissCount\":20}}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Complete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CGRate\":4,\"TipsRate\":4,\"SoundRate\":4,\"CompleteCount\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Complete\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CGRate\":100,\"TipsRate\":0,\"SoundRate\":0,\"CompleteCount\":0}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Complete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CG\":4,\"Tips\":4,\"Sound\":4,\"Value\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Complete\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CG\":100,\"Tips\":0,\"Sound\":0,\"Value\":0}}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Complete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"CGRate\":4,\"CG\":4,\"TipRate\":4,\"TipsPercent\":4,\"TipsPer\":4,\"TipsComp\":4,\"TipsComplete\":4,\"TipsCompleteRate\":4,\"TipsCount\":4,\"TipsNum\":4,\"TIPSRate\":4,\"TIPS\":4,\"Tip\":4,\"TipsRead\":4,\"ReadTips\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Complete\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CGRate\":100,\"CG\":100,\"TipRate\":100,\"TipsPercent\":100,\"TipsPer\":100,\"TipsComp\":100,\"TipsComplete\":100,\"TipsCompleteRate\":100,\"TipsCount\":100,\"TipsNum\":100,\"TIPSRate\":100,\"TIPS\":100,\"Tip\":100,\"TipsRead\":100,\"ReadTips\":100}}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Complete"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"SoundListen\":4,\"ListenSound\":4,\"SoundsRate\":4,\"Sounds\":4,\"SoundRead\":4,\"SoundPlay\":4,\"PlaySound\":4,\"SoundHear\":4,\"HearSound\":4,\"SoundLibrary\":4,\"SoundLib\":4,\"SoundsComplete\":4,\"BGMComplete\":4,\"MusicComplete\":4,\"Jukebox\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Complete\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SoundListen\":100,\"ListenSound\":100,\"SoundsRate\":100,\"Sounds\":100,\"SoundRead\":100,\"SoundPlay\":100,\"PlaySound\":100,\"SoundHear\":100,\"HearSound\":100,\"SoundLibrary\":100,\"SoundLib\":100,\"SoundsComplete\":100,\"BGMComplete\":100,\"MusicComplete\":100,\"Jukebox\":100}}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":1,\"PerfectionistNum\":1,\"PerfectionistIndex\":1,\"AchieveID\":1,\"AchieveId\":1,\"AchieveNo\":1,\"AchieveNum\":1,\"TrophyNo\":1,\"TrophyNum\":1,\"TrophyIndex\":1,\"AchievementIndex\":1,\"SelectID\":1,\"Selector\":1,\"Kind\":1,\"Type\":1}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":2,\"PerfectionistNum\":2,\"PerfectionistIndex\":2,\"AchieveID\":2,\"AchieveId\":2,\"AchieveNo\":2,\"AchieveNum\":2,\"TrophyNo\":2,\"TrophyNum\":2,\"TrophyIndex\":2,\"AchievementIndex\":2,\"SelectID\":2,\"Selector\":2,\"Kind\":2,\"Type\":2}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":3,\"PerfectionistNum\":3,\"PerfectionistIndex\":3,\"AchieveID\":3,\"AchieveId\":3,\"AchieveNo\":3,\"AchieveNum\":3,\"TrophyNo\":3,\"TrophyNum\":3,\"TrophyIndex\":3,\"AchievementIndex\":3,\"SelectID\":3,\"Selector\":3,\"Kind\":3,\"Type\":3}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":5,\"PerfectionistNum\":5,\"PerfectionistIndex\":5,\"AchieveID\":5,\"AchieveId\":5,\"AchieveNo\":5,\"AchieveNum\":5,\"TrophyNo\":5,\"TrophyNum\":5,\"TrophyIndex\":5,\"AchievementIndex\":5,\"SelectID\":5,\"Selector\":5,\"Kind\":5,\"Type\":5}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":6,\"PerfectionistNum\":6,\"PerfectionistIndex\":6,\"AchieveID\":6,\"AchieveId\":6,\"AchieveNo\":6,\"AchieveNum\":6,\"TrophyNo\":6,\"TrophyNum\":6,\"TrophyIndex\":6,\"AchievementIndex\":6,\"SelectID\":6,\"Selector\":6,\"Kind\":6,\"Type\":6}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":7,\"PerfectionistNum\":7,\"PerfectionistIndex\":7,\"AchieveID\":7,\"AchieveId\":7,\"AchieveNo\":7,\"AchieveNum\":7,\"TrophyNo\":7,\"TrophyNum\":7,\"TrophyIndex\":7,\"AchievementIndex\":7,\"SelectID\":7,\"Selector\":7,\"Kind\":7,\"Type\":7}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":8,\"PerfectionistNum\":8,\"PerfectionistIndex\":8,\"AchieveID\":8,\"AchieveId\":8,\"AchieveNo\":8,\"AchieveNum\":8,\"TrophyNo\":8,\"TrophyNum\":8,\"TrophyIndex\":8,\"AchievementIndex\":8,\"SelectID\":8,\"Selector\":8,\"Kind\":8,\"Type\":8}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":9,\"PerfectionistNum\":9,\"PerfectionistIndex\":9,\"AchieveID\":9,\"AchieveId\":9,\"AchieveNo\":9,\"AchieveNum\":9,\"TrophyNo\":9,\"TrophyNum\":9,\"TrophyIndex\":9,\"AchievementIndex\":9,\"SelectID\":9,\"Selector\":9,\"Kind\":9,\"Type\":9}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":10,\"PerfectionistNum\":10,\"PerfectionistIndex\":10,\"AchieveID\":10,\"AchieveId\":10,\"AchieveNo\":10,\"AchieveNum\":10,\"TrophyNo\":10,\"TrophyNum\":10,\"TrophyIndex\":10,\"AchievementIndex\":10,\"SelectID\":10,\"Selector\":10,\"Kind\":10,\"Type\":10}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":11,\"PerfectionistNum\":11,\"PerfectionistIndex\":11,\"AchieveID\":11,\"AchieveId\":11,\"AchieveNo\":11,\"AchieveNum\":11,\"TrophyNo\":11,\"TrophyNum\":11,\"TrophyIndex\":11,\"AchievementIndex\":11,\"SelectID\":11,\"Selector\":11,\"Kind\":11,\"Type\":11}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":12,\"PerfectionistNum\":12,\"PerfectionistIndex\":12,\"AchieveID\":12,\"AchieveId\":12,\"AchieveNo\":12,\"AchieveNum\":12,\"TrophyNo\":12,\"TrophyNum\":12,\"TrophyIndex\":12,\"AchievementIndex\":12,\"SelectID\":12,\"Selector\":12,\"Kind\":12,\"Type\":12}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":13,\"PerfectionistNum\":13,\"PerfectionistIndex\":13,\"AchieveID\":13,\"AchieveId\":13,\"AchieveNo\":13,\"AchieveNum\":13,\"TrophyNo\":13,\"TrophyNum\":13,\"TrophyIndex\":13,\"AchievementIndex\":13,\"SelectID\":13,\"Selector\":13,\"Kind\":13,\"Type\":13}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":14,\"PerfectionistNum\":14,\"PerfectionistIndex\":14,\"AchieveID\":14,\"AchieveId\":14,\"AchieveNo\":14,\"AchieveNum\":14,\"TrophyNo\":14,\"TrophyNum\":14,\"TrophyIndex\":14,\"AchievementIndex\":14,\"SelectID\":14,\"Selector\":14,\"Kind\":14,\"Type\":14}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":15,\"PerfectionistNum\":15,\"PerfectionistIndex\":15,\"AchieveID\":15,\"AchieveId\":15,\"AchieveNo\":15,\"AchieveNum\":15,\"TrophyNo\":15,\"TrophyNum\":15,\"TrophyIndex\":15,\"AchievementIndex\":15,\"SelectID\":15,\"Selector\":15,\"Kind\":15,\"Type\":15}}}"
+          }
+        },
+        "Request16": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":16,\"PerfectionistNum\":16,\"PerfectionistIndex\":16,\"AchieveID\":16,\"AchieveId\":16,\"AchieveNo\":16,\"AchieveNum\":16,\"TrophyNo\":16,\"TrophyNum\":16,\"TrophyIndex\":16,\"AchievementIndex\":16,\"SelectID\":16,\"Selector\":16,\"Kind\":16,\"Type\":16}}}"
+          }
+        },
+        "Request17": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":17,\"PerfectionistNum\":17,\"PerfectionistIndex\":17,\"AchieveID\":17,\"AchieveId\":17,\"AchieveNo\":17,\"AchieveNum\":17,\"TrophyNo\":17,\"TrophyNum\":17,\"TrophyIndex\":17,\"AchievementIndex\":17,\"SelectID\":17,\"Selector\":17,\"Kind\":17,\"Type\":17}}}"
+          }
+        },
+        "Request18": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":18,\"PerfectionistNum\":18,\"PerfectionistIndex\":18,\"AchieveID\":18,\"AchieveId\":18,\"AchieveNo\":18,\"AchieveNum\":18,\"TrophyNo\":18,\"TrophyNum\":18,\"TrophyIndex\":18,\"AchievementIndex\":18,\"SelectID\":18,\"Selector\":18,\"Kind\":18,\"Type\":18}}}"
+          }
+        },
+        "Request19": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":19,\"PerfectionistNum\":19,\"PerfectionistIndex\":19,\"AchieveID\":19,\"AchieveId\":19,\"AchieveNo\":19,\"AchieveNum\":19,\"TrophyNo\":19,\"TrophyNum\":19,\"TrophyIndex\":19,\"AchievementIndex\":19,\"SelectID\":19,\"Selector\":19,\"Kind\":19,\"Type\":19}}}"
+          }
+        },
+        "Request20": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":20,\"PerfectionistNum\":20,\"PerfectionistIndex\":20,\"AchieveID\":20,\"AchieveId\":20,\"AchieveNo\":20,\"AchieveNum\":20,\"TrophyNo\":20,\"TrophyNum\":20,\"TrophyIndex\":20,\"AchievementIndex\":20,\"SelectID\":20,\"Selector\":20,\"Kind\":20,\"Type\":20}}}"
+          }
+        },
+        "Request21": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":21,\"PerfectionistNum\":21,\"PerfectionistIndex\":21,\"AchieveID\":21,\"AchieveId\":21,\"AchieveNo\":21,\"AchieveNum\":21,\"TrophyNo\":21,\"TrophyNum\":21,\"TrophyIndex\":21,\"AchievementIndex\":21,\"SelectID\":21,\"Selector\":21,\"Kind\":21,\"Type\":21}}}"
+          }
+        },
+        "Request22": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":22,\"PerfectionistNum\":22,\"PerfectionistIndex\":22,\"AchieveID\":22,\"AchieveId\":22,\"AchieveNo\":22,\"AchieveNum\":22,\"TrophyNo\":22,\"TrophyNum\":22,\"TrophyIndex\":22,\"AchievementIndex\":22,\"SelectID\":22,\"Selector\":22,\"Kind\":22,\"Type\":22}}}"
+          }
+        },
+        "Request23": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":23,\"PerfectionistNum\":23,\"PerfectionistIndex\":23,\"AchieveID\":23,\"AchieveId\":23,\"AchieveNo\":23,\"AchieveNum\":23,\"TrophyNo\":23,\"TrophyNum\":23,\"TrophyIndex\":23,\"AchievementIndex\":23,\"SelectID\":23,\"Selector\":23,\"Kind\":23,\"Type\":23}}}"
+          }
+        },
+        "Request24": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":24,\"PerfectionistNum\":24,\"PerfectionistIndex\":24,\"AchieveID\":24,\"AchieveId\":24,\"AchieveNo\":24,\"AchieveNum\":24,\"TrophyNo\":24,\"TrophyNum\":24,\"TrophyIndex\":24,\"AchievementIndex\":24,\"SelectID\":24,\"Selector\":24,\"Kind\":24,\"Type\":24}}}"
+          }
+        },
+        "Request25": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":25,\"PerfectionistNum\":25,\"PerfectionistIndex\":25,\"AchieveID\":25,\"AchieveId\":25,\"AchieveNo\":25,\"AchieveNum\":25,\"TrophyNo\":25,\"TrophyNum\":25,\"TrophyIndex\":25,\"AchievementIndex\":25,\"SelectID\":25,\"Selector\":25,\"Kind\":25,\"Type\":25}}}"
+          }
+        },
+        "Request26": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":26,\"PerfectionistNum\":26,\"PerfectionistIndex\":26,\"AchieveID\":26,\"AchieveId\":26,\"AchieveNo\":26,\"AchieveNum\":26,\"TrophyNo\":26,\"TrophyNum\":26,\"TrophyIndex\":26,\"AchievementIndex\":26,\"SelectID\":26,\"Selector\":26,\"Kind\":26,\"Type\":26}}}"
+          }
+        },
+        "Request27": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":27,\"PerfectionistNum\":27,\"PerfectionistIndex\":27,\"AchieveID\":27,\"AchieveId\":27,\"AchieveNo\":27,\"AchieveNum\":27,\"TrophyNo\":27,\"TrophyNum\":27,\"TrophyIndex\":27,\"AchievementIndex\":27,\"SelectID\":27,\"Selector\":27,\"Kind\":27,\"Type\":27}}}"
+          }
+        },
+        "Request28": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":28,\"PerfectionistNum\":28,\"PerfectionistIndex\":28,\"AchieveID\":28,\"AchieveId\":28,\"AchieveNo\":28,\"AchieveNum\":28,\"TrophyNo\":28,\"TrophyNum\":28,\"TrophyIndex\":28,\"AchievementIndex\":28,\"SelectID\":28,\"Selector\":28,\"Kind\":28,\"Type\":28}}}"
+          }
+        },
+        "Request29": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":29,\"PerfectionistNum\":29,\"PerfectionistIndex\":29,\"AchieveID\":29,\"AchieveId\":29,\"AchieveNo\":29,\"AchieveNum\":29,\"TrophyNo\":29,\"TrophyNum\":29,\"TrophyIndex\":29,\"AchievementIndex\":29,\"SelectID\":29,\"Selector\":29,\"Kind\":29,\"Type\":29}}}"
+          }
+        },
+        "Request30": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":30,\"PerfectionistNum\":30,\"PerfectionistIndex\":30,\"AchieveID\":30,\"AchieveId\":30,\"AchieveNo\":30,\"AchieveNum\":30,\"TrophyNo\":30,\"TrophyNum\":30,\"TrophyIndex\":30,\"AchievementIndex\":30,\"SelectID\":30,\"Selector\":30,\"Kind\":30,\"Type\":30}}}"
+          }
+        },
+        "Request31": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":31,\"PerfectionistNum\":31,\"PerfectionistIndex\":31,\"AchieveID\":31,\"AchieveId\":31,\"AchieveNo\":31,\"AchieveNum\":31,\"TrophyNo\":31,\"TrophyNum\":31,\"TrophyIndex\":31,\"AchievementIndex\":31,\"SelectID\":31,\"Selector\":31,\"Kind\":31,\"Type\":31}}}"
+          }
+        },
+        "Request32": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":32,\"PerfectionistNum\":32,\"PerfectionistIndex\":32,\"AchieveID\":32,\"AchieveId\":32,\"AchieveNo\":32,\"AchieveNum\":32,\"TrophyNo\":32,\"TrophyNum\":32,\"TrophyIndex\":32,\"AchievementIndex\":32,\"SelectID\":32,\"Selector\":32,\"Kind\":32,\"Type\":32}}}"
+          }
+        },
+        "Request33": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfectionist"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"properties\":{\"f\":{\"PerfectionistNo\":4,\"PerfectionistNum\":4,\"PerfectionistIndex\":4,\"AchieveID\":4,\"AchieveId\":4,\"AchieveNo\":4,\"AchieveNum\":4,\"TrophyNo\":4,\"TrophyNum\":4,\"TrophyIndex\":4,\"AchievementIndex\":4,\"SelectID\":4,\"Selector\":4,\"Kind\":4,\"Type\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfectionist\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PerfectionistNo\":33,\"PerfectionistNum\":33,\"PerfectionistIndex\":33,\"AchieveID\":33,\"AchieveId\":33,\"AchieveNo\":33,\"AchieveNum\":33,\"TrophyNo\":33,\"TrophyNum\":33,\"TrophyIndex\":33,\"AchievementIndex\":33,\"SelectID\":33,\"Selector\":33,\"Kind\":33,\"Type\":33}}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ChapterClear"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ChapterID\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ChapterClear\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ChapterID\":17}}}"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BlowWind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"BlowWind\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BlowWind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"BlowWind\":1}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BlowWind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Count\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BlowWind\",\"serviceConfigId\":\"a8380100-870c-4448-bc75-f7ad6d6c5e46\",\"playerSessionId\":\"REPLACESESSIONGUID\",\"titleId\":1835818566,\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Count\":1}}}"
+          }
+        }
+      }
+    },
+    "PartiallySupported": true
+  },
+  "SupportedTitleIDs": [
+    "1835818566"
+  ]
+}
