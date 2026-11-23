@@ -1,0 +1,477 @@
+{
+  "452142470": {
+    "FullySupported": false,
+    "TitleName": "サイコブレイク2 (The Evil Within 2 JP)",
+    "TitleId": "452142470",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "db5b0100-5b58-4a34-9318-077f1af32586",
+    "Enabled": true,
+    "Achievements": {
+      "65": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "65"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "66"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "67"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "68"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "69"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "70"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "71"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "72"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "73"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "74"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "75"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "76"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "77"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "78"
+          }
+        }
+      },
+      "79": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "79"
+          }
+        }
+      },
+      "80": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "80"
+          }
+        }
+      },
+      "81": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "81"
+          }
+        }
+      },
+      "82": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "82"
+          }
+        }
+      },
+      "83": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "83"
+          }
+        }
+      },
+      "84": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "84"
+          }
+        }
+      },
+      "85": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "85"
+          }
+        }
+      },
+      "86": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "86"
+          }
+        }
+      },
+      "87": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "87"
+          }
+        }
+      },
+      "88": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "88"
+          }
+        }
+      },
+      "89": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "89"
+          }
+        }
+      },
+      "90": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "90"
+          }
+        }
+      },
+      "91": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "91"
+          }
+        }
+      },
+      "92": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "92"
+          }
+        }
+      },
+      "93": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "93"
+          }
+        }
+      },
+      "94": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "94"
+          }
+        }
+      },
+      "95": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "95"
+          }
+        }
+      },
+      "96": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "96"
+          }
+        }
+      },
+      "97": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "97"
+          }
+        }
+      },
+      "98": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "98"
+          }
+        }
+      },
+      "99": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "99"
+          }
+        }
+      },
+      "100": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "100"
+          }
+        }
+      },
+      "101": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "101"
+          }
+        }
+      },
+      "102": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "102"
+          }
+        }
+      },
+      "103": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "103"
+          }
+        }
+      },
+      "104": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "104"
+          }
+        }
+      },
+      "105": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "105"
+          }
+        }
+      },
+      "106": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "106"
+          }
+        }
+      },
+      "107": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "107"
+          }
+        }
+      },
+      "108": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "108"
+          }
+        }
+      },
+      "109": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "109"
+          }
+        }
+      },
+      "110": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "110"
+          }
+        }
+      },
+      "111": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "111"
+          }
+        }
+      },
+      "112": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "112"
+          }
+        }
+      },
+      "113": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "113"
+          }
+        }
+      },
+      "114": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "114"
+          }
+        }
+      },
+      "115": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "115"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "452142470"
+  ]
+}

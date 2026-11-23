@@ -1,0 +1,523 @@
+{
+  "568182861": {
+    "FullySupported": true,
+    "Achievements": {
+      "2": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "0"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "1"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "2"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "3"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "4"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "5"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "6"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "7"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "8"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "9"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "10"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "11"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "12"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "13"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "14"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "15"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "16"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "17"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "18"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "19"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "20"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "21"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "22"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "23"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "24"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "25"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "26"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "27"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "28"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "29"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "30"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "31"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "32"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "33"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "34"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "35"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "36"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "37"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "38"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "39"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "40"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "41"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "42"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "43"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "44"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "45"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "46"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "47"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "48"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "49"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "50"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "51"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "52"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "53"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "54"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "55"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "Replacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "56"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "568182861"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "333628240": {
+    "TitleName": "Quantum Break",
+    "TitleId": "333628240",
+    "Devices": [
+      "PC"
+    ],
+    "ServiceConfigId": "636a0100-392d-4116-9c4f-e0c513e2c350",
+    "FullySupported": false,
+    "Enabled": true,
+    "Achievements": {},
+    "PartiallySupported": true
+  },
+  "SupportedTitleIDs": [
+    "333628240"
+  ]
+}

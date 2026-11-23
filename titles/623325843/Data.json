@@ -1,0 +1,598 @@
+{
+  "623325843": {
+    "FullySupported": true,
+    "Achievements": {
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatBoss"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatBoss"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteWorld1"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteWorld1"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteWorld2"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteWorld2"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteWorld3"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteWorld3"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteDicePalace"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteDicePalace"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteDevil"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteDevil"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.SRank"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "SRank"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ARankWorld1"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ARankWorld1"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ARankWorld2"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ARankWorld2"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ARankWorld3"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ARankWorld3"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ARankWorld4"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ARankWorld4"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.UnlockedAllSupers"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "UnlockedAllSupers"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.BoughtAllItems"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "BoughtAllItems"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.FoundAllLevelMoney"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "FoundAllLevelMoney"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.FoundAllMoney"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "FoundAllMoney"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ParryApprentice"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ParryApprentice"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ParryMaster"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ParryMaster"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.NewGamePlus"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "NewGamePlus"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.PacifistRun"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "PacifistRun"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.NoHitsTaken"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "NoHitsTaken"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.SuperWin"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "SuperWin"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ExWin"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ExWin"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.NoHitsTakenDicePalace"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "NoHitsTakenDicePalace"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.SmallPlaneOnlyWin"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "SmallPlaneOnlyWin"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.FoundSecretPassage"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "FoundSecretPassage"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ParryChain"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ParryChain"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.BadEnding"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "BadEnding"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.GoodEnding"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "GoodEnding"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.CompleteWorldDLC"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "CompleteWorldDLC"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ARankWorldDLC"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ARankWorldDLC"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatBossAsChalice"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatBossAsChalice"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatXBossesAsChalice"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatXBossesAsChalice"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.ChaliceSuperWin"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "ChaliceSuperWin"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatBossDLCWeapon"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatBossDLCWeapon"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatAllKOG"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatAllKOG"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatKOGGauntlet"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatKOGGauntlet"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatSaltbaker"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatSaltbaker"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.SRankAnyDLC"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "SRankAnyDLC"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatBossNoMinions"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatBossNoMinions"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.HP9"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "HP9"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.DefeatDevilPhase2"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "DefeatDevilPhase2"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEFULLEVENT",
+            "Replacement": "Microsoft.XboxLive.T623325843.Paladin"
+          },
+          "NameReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEBASENAME",
+            "Replacement": "Paladin"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "623325843"
+  ]
+}

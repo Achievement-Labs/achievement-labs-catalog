@@ -1,0 +1,738 @@
+{
+  "1100121502": {
+    "FullySupported": true,
+    "TitleName": "Dishonored® Definitive Edition",
+    "TitleId": "1100121502",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "88940100-b0a6-495b-9f60-d06b4192859e",
+    "Enabled": true,
+    "Achievements": {
+      "4": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Thief"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Versatile"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Ghost"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Shadow"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "FleshAndSteel"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "WallOfDarkness"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Rogue"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Specter"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Faceless"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Corruptor"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "RazorRain"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Surgical"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "CleanHands"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "HarmsWay"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Inhabitant"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "HornetsNest"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "SpeedOfDarkness"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Tempest"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "MerchantOfDisorder"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Profiteer"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Occultist"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "TheEscapist"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Cleaner"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Dishonored"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Excommunication"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "ChildCare"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "CapturingGeniusAndMadness"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Regicide"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "PoliticalSuicide"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "ThisIsMine"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Resolution"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "BackHome"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "BigBoy"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DunwallInChaos"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "JustDarkEnough"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Vanished"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "GentlemanCaller"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "StreetConspiracy"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "TheArtOfTheSteal"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "AnUnfortunateAccident"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "WellMannered"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "KingOfTheWorld"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "Bodyguard"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "MercyIsTheMark"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "LightsOut"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "LongLiveTheEmpress"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "PoeticJustice"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "FoodChain"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "AliveWithoutBreath"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "CreepyCrawly"
+          }
+        }
+      },
+      "57": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05MrsPilsenRemorse"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05LongWayDown"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05AssassinVsMachine"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05NaturalTalent"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05ByMyHandOnly"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05Daredevil"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05Headhunter"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05RareCollector"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05TimeManager"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC05VoidStar"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06JustBusiness"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06WellConnected"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06NoRegrets"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06RedemptivePath"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06WhisperWays"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06CleanerHands"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06RatsAndAshes"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06TheMissingPieces"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06StoneColdHeart"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC06MessageFromTheEmpress"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07Breakout"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07GangsOfDunwall"
+          }
+        }
+      },
+      "79": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07DealMaker"
+          }
+        }
+      },
+      "80": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07Judgment"
+          }
+        }
+      },
+      "81": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07Reprieve"
+          }
+        }
+      },
+      "82": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07SilenceIsGolden"
+          }
+        }
+      },
+      "83": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07CleanestHands"
+          }
+        }
+      },
+      "84": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07EnoughCoinsToDisappear"
+          }
+        }
+      },
+      "85": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07PartingShot"
+          }
+        }
+      },
+      "86": {
+        "Request1": {
+          "CriteriaReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACECCRITERADDEPC",
+            "Replacement": "DLC07WallOfFlesh"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "1100121502"
+  ]
+}

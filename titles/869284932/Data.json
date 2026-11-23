@@ -1,0 +1,145 @@
+{
+  "869284932": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "22"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "23"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "24"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "25"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "26"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "21"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "27"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "20"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "28"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "18"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "19"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "29"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "30"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "16"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "17"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "869284932"
+  ]
+}

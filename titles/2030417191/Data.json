@@ -1,0 +1,127 @@
+{
+  "2030417191": {
+    "FullySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "deadland"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "hardcommute"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "urbanescapade"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "higherorder"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "tothehills"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "pennypincher"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "frugalfox"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "budgetboss"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "savingssavior"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "austerityace"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "trainingday"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "aherdsworth"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "Replacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEID",
+            "Replacement": "grimreaper"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "2030417191"
+  ]
+}

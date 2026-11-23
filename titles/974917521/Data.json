@@ -1,0 +1,3564 @@
+{
+  "974917521": {
+    "FullySupported": false,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":2},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":3},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":430.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1660.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":660.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":7},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":8},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":100.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":11},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":640.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":380.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":14},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":15},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":16},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":17},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":18},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":19},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":20},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":21},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":22},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":23},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":24},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":25},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":26},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":27},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":470.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":90.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":31},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":32},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":33},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":34},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":35},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":36},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":37},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":38},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":39},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":40},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":41},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":42},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.RSN_ServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"RSN_ServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":44},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":45},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":46},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":47},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":700.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":49},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":50},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":51},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":53},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":54},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":55},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":56},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "58": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":450.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "59": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":59},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "60": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1001.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "61": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":61},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "62": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":62},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "63": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":63},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "64": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":64},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "65": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":65},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "66": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":66},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "67": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":67},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "68": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":68},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "69": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":69},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "70": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.Class33_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"Class33_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":330.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "71": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":71},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "72": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":72},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "73": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":73},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "74": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":74},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "75": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.MSB_NumServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"MSB_NumServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "76": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.MSB_NumServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"MSB_NumServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":100},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "77": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":77},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "78": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1462.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "91": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":91},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "92": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":92},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "93": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.BR182_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"BR182_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1820.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "94": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":94},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "95": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":95},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "96": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":96},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "97": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":97},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "98": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.BR155_ServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"BR155_ServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":15},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "99": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.BR155_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"BR155_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1550.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "100": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":100},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "101": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":101},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "102": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":102},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "103": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":520.6490368843079},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "104": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":104},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "105": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":105},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "106": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":106},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "107": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":370.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "108": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":108},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "109": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":109},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "110": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":110},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "111": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TVL_NumServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TVL_NumServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":50},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "112": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":112},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "113": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":113},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "114": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":114},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "115": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":400.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "116": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":116},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "117": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":117},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "118": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":80.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "119": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":119},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "120": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":100.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "121": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":121},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "122": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":122},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "123": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":123},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "124": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":124},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "125": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":125},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "126": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":126},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "127": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":127},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "128": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":128},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "129": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":129},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "130": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":130},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "131": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":131},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "132": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":132},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "133": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.F40PH_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"F40PH_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":400.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "134": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "135": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":135},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "136": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":136},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "137": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":137},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "138": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":138},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "139": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":139},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "140": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":140},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "141": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":141},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "142": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":142},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "143": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":143},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "144": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":144},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "145": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":145},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "146": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":146},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "147": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.CL31_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"CL31_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":310.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "148": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "149": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":149},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "150": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":150},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "151": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.ECW_NumServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"ECW_NumServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":10},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "152": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.ECW_NumServicesCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"ECW_NumServicesCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":100},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "153": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":153},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "154": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":154},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "155": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":155},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "156": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":377.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "157": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":157},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "158": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "159": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":159},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "160": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":160},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "161": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":161},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "162": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":162},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "163": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":163},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "164": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":164},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "165": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":165},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "166": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":90.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "167": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":167},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "168": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":168},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "169": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":169},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "170": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":170},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "171": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":171},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "172": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":360.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "173": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "174": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":174},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "175": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":175},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "176": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":176},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "177": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":150.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "178": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "179": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":179},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "180": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":180},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "181": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":181},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "182": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":182},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "183": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":183},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "184": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":184},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "185": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":185},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "186": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":186},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "187": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":187},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "188": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "189": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":189},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "190": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":190},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "191": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":191},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "192": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":192},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "193": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "194": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":194},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "195": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":195},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "196": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":196},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "197": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":300.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "198": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.TutorialsCompleted"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"TutorialsCompleted\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":1},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "199": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":199},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "200": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":200},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "201": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.DummyEvent"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":4"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"DummyEvent\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":201},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      },
+      "202": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Microsoft.XboxLive.T974917521.CL20_DistanceDriven"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACESTATVALUE",
+            "Replacement": "\"StatValue\":6"
+          },
+          "DataReplacement1": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"measurements\":{},\"name\":\"CL20_DistanceDriven\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"properties\":{\"MultiplayerCorrelationId\":\"00000000-0000-0000-0000-000000000000\",\"StatValue\":200.64903688430786},\"serviceConfigId\":\"c8710100-792b-4690-990a-a7383a1c0f91\",\"titleId\":974917521,\"userId\":\"REPLACEXUID\",\"ver\":1}}"
+          }
+        }
+      }
+    },
+    "PartiallySupported": true
+  },
+  "SupportedTitleIDs": [
+    "974917521"
+  ]
+}
