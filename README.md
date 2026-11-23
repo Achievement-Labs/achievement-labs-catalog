@@ -149,7 +149,8 @@ Assignment is stable and lives in the committed `mobile/pack-assignment.json`
 - titles that leave the pack (disabled, or no recipe passes the pack limits) are removed from it.
 
 `tools/build.py` writes newly assigned titles back to `mobile/pack-assignment.json` and prints
-`updated pack-assignment.json`. Commit that file with the title change. Part 1 kept its original
+`updated pack-assignment.json`. Commit that file with the title change. CI and publish build with
+`--check`, which fails instead of writing when the assignment would change. Part 1 kept its original
 576 titles, which already exceed the 30 MiB target (a warning is printed), so new titles start in
 part 2. The 32 MiB limit is enforced per file and fails the build.
 

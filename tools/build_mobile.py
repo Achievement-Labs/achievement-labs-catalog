@@ -31,7 +31,7 @@ Differences from the legacy feed, which is built from release Events.zip assets:
     are left out. EventPack.json carries every title that fits the pack limits.
   - every file keeps the clients' 32 MiB download limit; the build fails rather than exceed it.
 
-python tools/build_mobile.py [--out DIR] [--bundled PATH]   (needs dist/v1 from build.py)
+python tools/build_mobile.py [--out DIR] [--bundled PATH] [--check]   (needs dist/v1 from build.py)
 """
 import argparse
 import hashlib
@@ -203,11 +203,13 @@ def load_bundled(path=BUNDLED):
     return frozenset(ids)
 
 
-def build(titles, out, manifest, reserved=None, assignment=ASSIGNMENT, part_limit=PART_LIMIT, hard_limit=FEED_LIMIT):
+def build(titles, out, manifest, reserved=None, assignment=ASSIGNMENT, part_limit=PART_LIMIT, hard_limit=FEED_LIMIT,
+          check=False):
     """Write catalogue.json, the pack parts and EventPackIndex.json; returns (feed, pack, index).
 
     `pack` is the whole offline pack (all parts merged). New part assignments are written back
-    to `assignment` (mobile/pack-assignment.json), which must be committed.
+    to `assignment` (mobile/pack-assignment.json), which must be committed. With check=True (CI and
+    publish) the file is never written: a change raises ValueError instead.
     """
     reserved = load_bundled() if reserved is None else reserved
     digest = hashlib.sha256((out / 'v1' / 'manifest.json').read_bytes()).hexdigest()
@@ -221,6 +223,9 @@ def build(titles, out, manifest, reserved=None, assignment=ASSIGNMENT, part_limi
              for tid, value in pack['titles'].items()}
     previous = load_assignment(assignment)
     parts = assign_parts(sizes, previous, part_limit)
+    if parts != previous and check:
+        raise ValueError(f'{assignment.name} is out of date (new or removed pack titles). Run '
+                         f'"python tools/build.py" locally and commit mobile/pack-assignment.json.')
     if parts != previous:
         assignment.parent.mkdir(parents=True, exist_ok=True)
         assignment.write_bytes(dump_assignment(parts))
@@ -253,10 +258,11 @@ def main(argv=None):
     parser.add_argument('--out', type=Path, default=ROOT / 'dist')
     parser.add_argument('--bundled', type=Path, default=BUNDLED, help='JSON {"bundledTitleIds":[...]} left out of catalogue.json')
     parser.add_argument('--assignment', type=Path, default=ASSIGNMENT, help='committed pack part assignment')
+    parser.add_argument('--check', action='store_true', help='fail instead of updating the assignment file (CI)')
     args = parser.parse_args(argv)
     manifest = parse((args.out / 'v1' / 'manifest.json').read_bytes())
     reserved = load_bundled(args.bundled)
-    build(args.titles, args.out, manifest, reserved, args.assignment)
+    build(args.titles, args.out, manifest, reserved, args.assignment, check=args.check)
     return 0
 
 

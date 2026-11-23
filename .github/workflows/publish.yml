@@ -30,7 +30,7 @@ jobs:
       - name: Unit tests
         run: python -m unittest discover -s tests -v
       - name: Build
-        run: python tools/build.py --out dist
+        run: python tools/build.py --out dist --check
       - name: Sign manifest
         env:
           CATALOG_SIGNING_KEY: ${{ secrets.CATALOG_SIGNING_KEY }}

@@ -166,6 +166,18 @@ class BuildTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'over the 32 MiB client limit'):
             build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, hard_limit=size - 1)
 
+    def test_check_mode_refuses_to_update_assignment(self):
+        out = self.root / 'dist'
+        manifest = self.run_build(out)
+        assignment = self.root / 'pack-assignment.json'
+        with self.assertRaisesRegex(ValueError, 'commit mobile/pack-assignment.json'):
+            build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, check=True)
+        self.assertFalse(assignment.exists())
+        build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment)
+        before = assignment.read_bytes()
+        build_mobile.build(self.titles, out, manifest, reserved=frozenset(), assignment=assignment, check=True)
+        self.assertEqual(assignment.read_bytes(), before)
+
 
 class PackAssignmentTests(unittest.TestCase):
     def cost(self, sizes, part):
