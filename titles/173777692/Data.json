@@ -17,7 +17,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":5000,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":5000,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -36,7 +36,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":30,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":30,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -55,7 +55,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":7,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":7,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -74,7 +74,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":365,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":365,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -112,7 +112,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"measurements\":{\"CompletionPercent\":100}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"GameProgress\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"measurements\":{\"CompletionPercent\":100}}}"
           }
         }
       },
@@ -131,7 +131,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":1000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":1000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -150,7 +150,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":10000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":10000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -169,7 +169,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":100000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":100000,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -188,7 +188,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":1,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":0,\"LlamasSaved\":0,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":1,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -207,7 +207,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":10000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":10000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -226,7 +226,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":100000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":100000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -245,7 +245,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":1000000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":1000000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -264,7 +264,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":10000000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":10000000,\"LlamasSaved\":1,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -283,7 +283,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":0},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -302,7 +302,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":1},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":1},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -321,7 +321,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":2},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":2},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -340,7 +340,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":4},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":4},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -359,7 +359,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":5},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":5},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       },
@@ -378,7 +378,7 @@
           "DataReplacement": {
             "ReplacementType": "Replace",
             "Target": "REPLACEDATA",
-            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":3},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}},"
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RunCompleted\",\"serviceConfigId\":\"2f900100-b07f-4b70-9f70-2ade0a5ba31c\",\"playerSessionId\":\"11111111-1111-1111-1111-111111111111\",\"titleId\":\"173777692\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"CharacterId\":3},\"measurements\":{\"DaysPassed\":0,\"DistanceInRun\":2154,\"LlamasSaved\":11,\"Multiplier\":4,\"Score\":14114,\"SnowboardStuck\":0,\"TutorialCompleted\":0}}}"
           }
         }
       }

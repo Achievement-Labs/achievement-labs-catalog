@@ -23,10 +23,9 @@ class RenderTests(unittest.TestCase):
         with self.assertRaisesRegex(CatalogError, 'title ID'):
             render_request(TEMPLATE, {'I': op('REPLACEID', '1'), 'E': op('REPLACEEVENTNAME', 'x')}, '8')
 
-    def test_trailing_comma_is_tolerated_with_warning(self):
-        notes = []
-        render_request('{"a":REPLACEID,}', {'I': op('REPLACEID', '1')}, '7', warnings=notes)
-        self.assertTrue(notes)
+    def test_trailing_comma_is_an_error(self):
+        with self.assertRaisesRegex(CatalogError, 'trailing comma'):
+            render_request('{"a":REPLACEID,}', {'I': op('REPLACEID', '1')}, '7')
         with self.assertRaises(CatalogError):
             render_request('{"a":REPLACEID', {'I': op('REPLACEID', '1')}, '7')
 

@@ -91,6 +91,50 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(manifest['titles']['7']['revision'], 3)
         self.assertEqual(manifest['titles']['8']['revision'], 1)
 
+    def assert_invariants(self, manifest):
+        for tid, entry in manifest['titles'].items():
+            self.assertLessEqual(entry['revision'], manifest['revision'], tid)
+            self.assertGreaterEqual(entry['revision'], 1, tid)
+
+    def rewrite_seven(self, name, stat):
+        write_catalog(self.titles, block(TitleName=name), stats={'Stats': {'S': stat}})
+        index = json.loads((self.titles / 'index.json').read_text())
+        index['8'] = {'TitleId': 7, 'TitleName': 'Off', 'Enabled': False, 'FullySupported': True}
+        index['SupportedTitleIDs'] = index.pop('SupportedTitleIDs') + ['8']
+        write_json(self.titles / 'index.json', index)
+
+    def test_no_ff_merge_credits_the_merge_commit(self):
+        git(self.root, 'checkout', '-q', '-b', 'side')
+        self.rewrite_seven('Side', 1)
+        record(self.root, 'side one')
+        (self.root / 'side.txt').write_text('y')
+        record(self.root, 'side two')
+        git(self.root, 'checkout', '-q', '-')
+        (self.root / 'main.txt').write_text('z')
+        record(self.root, 'main three')
+        before = self.run_build(self.root / 'before')
+        git(self.root, 'merge', '-q', '--no-ff', '-m', 'merge side', 'side')
+        after = self.run_build(self.root / 'after')
+        self.assertEqual(after['revision'], 4)  # first-parent: one, two, main three, merge
+        self.assertEqual(after['titles']['7']['revision'], 4)
+        self.assertEqual(after['titles']['8']['revision'], 1)
+        self.assertGreater(after['titles']['7']['revision'], before['titles']['7']['revision'])
+        self.assert_invariants(before)
+        self.assert_invariants(after)
+
+    def test_revision_never_decreases_when_content_changes(self):
+        previous = self.run_build(self.root / 'r0')
+        self.assert_invariants(previous)
+        for number in range(1, 4):
+            self.rewrite_seven(f'Seven {number}', number)
+            record(self.root, f'change {number}')
+            current = self.run_build(self.root / f'r{number}')
+            self.assertNotEqual(current['titles']['7']['sha256'], previous['titles']['7']['sha256'])
+            self.assertGreater(current['titles']['7']['revision'], previous['titles']['7']['revision'])
+            self.assertGreaterEqual(current['titles']['8']['revision'], previous['titles']['8']['revision'])
+            self.assert_invariants(current)
+            previous = current
+
     def test_mobile_feed(self):
         out = self.root / 'dist'
         manifest = self.run_build(out)

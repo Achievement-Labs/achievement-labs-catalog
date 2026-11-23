@@ -122,14 +122,9 @@ def render_request(template, request, tid, timestamp=SAMPLE_TIME, xuid='0', sess
     try:
         payload = parse(body)
     except json.JSONDecodeError as error:
-        # Newtonsoft's JObject.Parse (used by the app) accepts a trailing comma before } or ].
-        # Accept exactly that leniency, and report it so strict (mobile) consumers can be fixed.
-        try:
-            payload = parse(TRAILING_COMMA.sub('', body))
-        except json.JSONDecodeError:
-            raise CatalogError('Rendered payload is not valid JSON: ' + str(error)) from None
-        if warnings is not None:
-            warnings.append('trailing comma accepted (Newtonsoft-only JSON)')
+        # Strict JSON: the app's Newtonsoft parser tolerates trailing commas, mobile clients do not.
+        hint = ' (trailing comma)' if TRAILING_COMMA.search(body) else ''
+        raise CatalogError('Rendered payload is not valid JSON' + hint + ': ' + str(error)) from None
     if not isinstance(payload, dict):
         raise CatalogError('Rendered payload is not a JSON object')
     data = payload.get('data')

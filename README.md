@@ -54,8 +54,8 @@ The data rules are in [AGENTS.md](AGENTS.md). `tools/validate.py` enforces them.
 - every recipe renders. The renderer mirrors the app (`EventCatalog.cs`): each operation's
   Target is replaced in the template, then REPLACESEQ, REPLACETIME, REPLACEXUID and
   REPLACESESSIONGUID are filled. No other `REPLACE*` placeholder may remain, the result must
-  parse as JSON, and `data.baseData.titleId` must match the title. A trailing comma (which the
-  app's Newtonsoft parser accepts) is reported as a warning, not an error.
+  parse as strict JSON (no trailing commas, even though the app's Newtonsoft parser accepts
+  them), and `data.baseData.titleId` must match the title.
 
 ## Manifest format (v1)
 
@@ -83,8 +83,9 @@ The data rules are in [AGENTS.md](AGENTS.md). `tools/validate.py` enforces them.
 }
 ```
 
-- `revision` is `git rev-list --count HEAD` on main, so it only increases.
-- A title's `revision` is the catalog revision of the last commit that touched `titles/<id>/`.
+- `revision` is `git rev-list --count --first-parent HEAD` on main, so it only increases.
+- A title's `revision` is the catalog revision of the last first-parent (main) commit that touched
+  `titles/<id>/`; a merge counts as touching what it brought in. It is never above `revision`.
 - `generatedUtc` is the commit time, so two builds of the same commit are byte-identical.
 - `path` (relative to `v1/`) is a content-addressed bundle; `sha256` and `size` describe its exact
   bytes. Bundles never change once published, so they can be cached indefinitely. Only the
@@ -107,8 +108,9 @@ trusting the manifest, then check each bundle's `sha256`. To check by hand:
     python tools/verify_signature.py catalog-signing-public.pem --manifest dist/v1/manifest.json
 
 The private key exists only as the `CATALOG_SIGNING_KEY` repository secret; `publish.yml` fails if
-it is missing. Once a public key is chosen, commit it as `keys/catalog-signing-public.pem` and
-publish.yml cross-checks every signature.
+it is missing. The matching public key lives at `keys/catalog-signing-public.pem`
+(see [keys/README.md](keys/README.md)); publish.yml verifies every signature against it and fails
+if the file is missing.
 
 ## Mobile feed
 

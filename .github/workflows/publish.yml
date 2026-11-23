@@ -45,7 +45,8 @@ jobs:
           if [ -f keys/catalog-signing-public.pem ]; then
             python tools/verify_signature.py keys/catalog-signing-public.pem --manifest dist/v1/manifest.json
           else
-            echo "::warning::keys/catalog-signing-public.pem is not committed yet; signature not cross-checked."
+            echo "::error::keys/catalog-signing-public.pem is missing. Add the P-256 public key (see keys/README.md); refusing to publish a manifest whose signature cannot be checked."
+            exit 1
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

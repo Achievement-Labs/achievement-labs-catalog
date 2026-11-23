@@ -70,7 +70,7 @@
             "name": "AchievementUnlocked",
             "playerSessionId": "11111111-1111-1111-1111-111111111111",
             "properties": {
-                "UnlockId": REPLACECRITERIAF4,
+                "UnlockId": REPLACECRITERIAF4
             },
             "serviceConfigId": "b4900100-fd0c-476f-b32e-b74a4ae8f9b2",
             "titleId": 1256782258,

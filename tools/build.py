@@ -27,16 +27,18 @@ def git(root, *args):
 def git_state(root, titles):
     """Catalog revision, HEAD sha, HEAD commit time and per-title revisions.
 
-    Revision is `git rev-list --count HEAD` (monotonic on main). A title's revision is the
+    Revision is `git rev-list --count --first-parent HEAD` (monotonic on main). A title's revision is the
     revision of the last commit that touched titles/<id>/. CI must check out full history.
     """
-    revision = int(git(root, 'rev-list', '--count', 'HEAD'))
+    revision = int(git(root, 'rev-list', '--count', '--first-parent', 'HEAD'))
     commit = git(root, 'rev-parse', 'HEAD')
     stamp = int(git(root, 'log', '-1', '--format=%ct', 'HEAD'))
     generated = datetime.fromtimestamp(stamp, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     relative = titles.resolve().relative_to(Path(git(root, 'rev-parse', '--show-toplevel')).resolve()).as_posix()
     last = {}
-    log = git(root, 'log', '--format=@%H', '--name-only', 'HEAD', '--', relative)
+    # First-parent history, with merges diffed against their first parent: a merge to main is
+    # credited with the titles it brought in, on the same scale as the manifest revision.
+    log = git(root, 'log', '--first-parent', '--diff-merges=first-parent', '--format=@%H', '--name-only', 'HEAD', '--', relative)
     sha = None
     for line in log.splitlines():
         if line.startswith('@'):
@@ -45,7 +47,7 @@ def git_state(root, titles):
             parts = line[len(relative) + 1:].split('/')
             if len(parts) > 1:
                 last.setdefault(parts[0], sha)
-    counts = {sha: int(git(root, 'rev-list', '--count', sha)) for sha in set(last.values())}
+    counts = {sha: int(git(root, 'rev-list', '--count', '--first-parent', sha)) for sha in set(last.values())}
     return revision, commit, generated, {tid: counts[sha] for tid, sha in last.items()}
 
 
