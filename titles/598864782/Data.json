@@ -1,0 +1,811 @@
+{
+  "598864782": {
+    "TitleName": "Blue Angels Aerobatic Flight Simulator",
+    "TitleId": "598864782",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "b9160100-7c4d-4cb2-9363-b05823b1f38e",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false,
+    "Achievements": {
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Soloist_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Soloist\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Soloist_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Soloist\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Soloist_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Soloist\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Soloist_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Soloist\":100.0},\"measurements\":{\"Soloist\":100.0}}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Squadron_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Squadron\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Squadron_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Squadron\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Squadron_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Squadron\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Squadron_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Squadron\":100.0},\"measurements\":{\"Squadron\":100.0}}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FatAlbert_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"FatAlbert\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FatAlbert_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FatAlbert\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FatAlbert_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"FatAlbert\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FatAlbert_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FatAlbert\":100.0},\"measurements\":{\"FatAlbert\":100.0}}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Official_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Official\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Official_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Official\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Official_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Official\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Official_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Official\":100.0},\"measurements\":{\"Official\":100.0}}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AirShow_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AirShow\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AirShow_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AirShow\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AirShow_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AirShow\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AirShow_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AirShow\":100.0},\"measurements\":{\"AirShow\":100.0}}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfect_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Perfect\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfect_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Perfect\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Perfect_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Perfect\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Perfect_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Perfect\":1},\"measurements\":{\"Perfect\":1.0}}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Multiplier_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Multiplier\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Multiplier_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Multiplier\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Multiplier_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Multiplier\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Multiplier_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Multiplier\":1},\"measurements\":{\"Multiplier\":1.0}}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentroSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentroSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentroSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentroSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":30},\"measurements\":{\"NafElCentro\":30.0}}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWestSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWestSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWestSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWestSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":36},\"measurements\":{\"NasKeyWest\":36.0}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfbSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfbSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfbSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfbSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":36},\"measurements\":{\"ElmendorfAfb\":36.0}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RenoSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RenoSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":42},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RenoSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RenoSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":42},\"measurements\":{\"Reno\":42.0}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BaltimoreSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BaltimoreSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":39},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "BaltimoreSimulator_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"BaltimoreSimulator_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":39},\"measurements\":{\"Baltimore\":39.0}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentro3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentro3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":30},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentro3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentro3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":30},\"measurements\":{\"NafElCentro\":30.0}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWest3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWest3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWest3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWest3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":36},\"measurements\":{\"NasKeyWest\":36.0}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfb3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfb3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":36},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfb3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfb3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":36},\"measurements\":{\"ElmendorfAfb\":36.0}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Reno3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Reno3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":42},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Reno3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Reno3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":42},\"measurements\":{\"Reno\":42.0}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Baltimore3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Baltimore3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":39},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Baltimore3Starts_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Baltimore3Starts_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":39},\"measurements\":{\"Baltimore\":39.0}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentro_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentro_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":10},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NafElCentro_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NafElCentro\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NafElCentro_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NafElCentro\":10},\"measurements\":{\"NafElCentro\":10.0}}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWest_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWest_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "NasKeyWest_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"NasKeyWest\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"NasKeyWest_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"NasKeyWest\":15},\"measurements\":{\"NasKeyWest\":15.0}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfb_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfb_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ElmendorfAfb_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"ElmendorfAfb\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ElmendorfAfb_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ElmendorfAfb\":15},\"measurements\":{\"ElmendorfAfb\":15.0}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Reno_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Reno_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Reno_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Reno\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Reno_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Reno\":15},\"measurements\":{\"Reno\":15.0}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Baltimore_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Baltimore_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":15},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Baltimore_event"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"Baltimore\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Baltimore_event\",\"serviceConfigId\":\"b9160100-7c4d-4cb2-9363-b05823b1f38e\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"598864782\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Baltimore\":15},\"measurements\":{\"Baltimore\":15.0}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "598864782"
+  ]
+}

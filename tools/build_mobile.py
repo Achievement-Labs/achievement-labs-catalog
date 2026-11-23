@@ -8,6 +8,18 @@ so mobile clients can read it from this repository's Pages site:
                                "generatedAt":...,"titles":{"<id>":{"template":...,
                                "recipes":{"recipes":{"<aid>":[[{"target":...,"value":...}]]}}}}}
   dist/mobile/EventPack.json  the same shape, limited to recipes all three platforms accept.
+                              This is part 1 of the offline pack; further parts are
+                              EventPack-2.json, EventPack-3.json, ... in the same shape.
+  dist/mobile/EventPackIndex.json  {"schema":1,"revision":N,"parts":[{"file":...,"sha256":...,
+                              "size":...,"titles":<count>}, ...]} listing every part in order
+                              (publish.yml signs it as EventPackIndex.json.sig).
+
+Pack parts: mobile/pack-assignment.json (committed) records which part holds each title, so
+adding titles never reshuffles existing parts. Assigned titles keep their part and order; titles
+not yet assigned are appended in ascending numeric ID to the last part while it stays within
+PART_LIMIT (30 MiB), otherwise a new part is opened. The builder writes newly assigned titles
+back to the file; commit it. Titles that leave the pack are removed from it. Every part file
+must also stay within the 32 MiB client limit (FEED_LIMIT); the build fails rather than exceed it.
 
 Differences from the legacy feed, which is built from release Events.zip assets:
   - the source is titles/ at the built commit, not a release archive;
@@ -17,7 +29,7 @@ Differences from the legacy feed, which is built from release Events.zip assets:
   - like the legacy feed, catalogue.json carries only additions: titles listed in
     mobile/bundled-titles.json (the titles bundled in the app, which clients already have)
     are left out. EventPack.json carries every title that fits the pack limits.
-  - both files keep the clients' 32 MiB download limit; the build fails rather than exceed it.
+  - every file keeps the clients' 32 MiB download limit; the build fails rather than exceed it.
 
 python tools/build_mobile.py [--out DIR] [--bundled PATH]   (needs dist/v1 from build.py)
 """
@@ -33,7 +45,9 @@ from catalog import ROOT, TITLES, load_index, load_template, load_title, parse, 
 
 SCID = re.compile(r'[0-9a-fA-F]{8}(?:-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}')
 FEED_LIMIT = 32 * 1024 * 1024  # PublicSync.swift / Android download limit
+PART_LIMIT = 30 * 1024 * 1024  # target size when assigning new titles to a pack part
 BUNDLED = ROOT / 'mobile' / 'bundled-titles.json'
+ASSIGNMENT = ROOT / 'mobile' / 'pack-assignment.json'
 
 
 def normalize(tid, block, template):
@@ -129,11 +143,55 @@ def event_pack(feed):
     return pack, skipped
 
 
-def encode(value):
+def encode(value, limit=FEED_LIMIT):
     data = json.dumps(value, separators=(',', ':'), ensure_ascii=False).encode('utf-8')
-    if len(data) > FEED_LIMIT:
+    if len(data) > limit:
         raise ValueError(f'Feed is {len(data)} bytes, over the 32 MiB client limit')
     return data
+
+
+def part_name(number):
+    return 'EventPack.json' if number == 1 else f'EventPack-{number}.json'
+
+
+def load_assignment(path):
+    if not path.exists():
+        return []
+    value = parse(path.read_bytes())
+    parts = value.get('parts') if isinstance(value, dict) else None
+    if value.get('schema') != 1 or not isinstance(parts, list) or not all(isinstance(p, list) for p in parts):
+        raise ValueError(f'{path.name}: expected {{"schema":1,"parts":[[...], ...]}}')
+    seen = [t for part in parts for t in part]
+    if not all(isinstance(t, str) and re.fullmatch(r'[0-9]{1,10}', t) for t in seen) or len(seen) != len(set(seen)):
+        raise ValueError(f'{path.name}: title IDs must be unique numeric strings')
+    return parts
+
+
+def dump_assignment(parts):
+    return (json.dumps({'schema': 1, 'parts': parts}, indent=2) + '\n').encode('utf-8')
+
+
+def assign_parts(titles, previous, part_limit=PART_LIMIT):
+    """Stable assignment of pack titles ({id: compact title bytes}, in feed order) to parts.
+
+    Previously assigned titles keep their part and order (titles no longer in the pack are
+    dropped); new titles go in ascending numeric ID into the last part while it stays within
+    part_limit, else into a new part. Sizes count each title's `"id":value,` bytes.
+    """
+    parts = [[t for t in part if t in titles] for part in previous]
+    while parts and not parts[-1]:
+        parts.pop()
+    assigned = {t for part in parts for t in part}
+    def cost(t):
+        return len(json.dumps(t)) + 2 + titles[t]
+    used = sum(cost(t) for t in parts[-1]) if parts else 0
+    for tid in sorted((t for t in titles if t not in assigned), key=int):
+        if not parts or (parts[-1] and used + cost(tid) > part_limit):
+            parts.append([])
+            used = 0
+        parts[-1].append(tid)
+        used += cost(tid)
+    return parts
 
 
 def load_bundled(path=BUNDLED):
@@ -145,7 +203,12 @@ def load_bundled(path=BUNDLED):
     return frozenset(ids)
 
 
-def build(titles, out, manifest, reserved=None):
+def build(titles, out, manifest, reserved=None, assignment=ASSIGNMENT, part_limit=PART_LIMIT, hard_limit=FEED_LIMIT):
+    """Write catalogue.json, the pack parts and EventPackIndex.json; returns (feed, pack, index).
+
+    `pack` is the whole offline pack (all parts merged). New part assignments are written back
+    to `assignment` (mobile/pack-assignment.json), which must be committed.
+    """
     reserved = load_bundled() if reserved is None else reserved
     digest = hashlib.sha256((out / 'v1' / 'manifest.json').read_bytes()).hexdigest()
     tag = 'catalog-r' + str(manifest['revision'])
@@ -154,13 +217,34 @@ def build(titles, out, manifest, reserved=None):
     skipped = sum(1 for tid in title_ids(load_index(titles)) if tid not in reserved) - len(feed['titles'])
     # As in export_event_pack.py, the pack is built from every title, not only additions.
     pack, pack_skipped = event_pack(full)
+    sizes = {tid: len(json.dumps(value, separators=(',', ':'), ensure_ascii=False).encode('utf-8'))
+             for tid, value in pack['titles'].items()}
+    previous = load_assignment(assignment)
+    parts = assign_parts(sizes, previous, part_limit)
+    if parts != previous:
+        assignment.parent.mkdir(parents=True, exist_ok=True)
+        assignment.write_bytes(dump_assignment(parts))
+        print(f'mobile: updated {assignment.name}; commit it so pack parts stay stable')
     mobile = out / 'mobile'
     mobile.mkdir(parents=True, exist_ok=True)
-    (mobile / 'catalogue.json').write_bytes(encode(feed))
-    (mobile / 'EventPack.json').write_bytes(encode(pack))
+    for stale in mobile.glob('EventPack-*.json'):
+        stale.unlink()
+    (mobile / 'catalogue.json').write_bytes(encode(feed, hard_limit))
+    entries = []
+    for number, part in enumerate(parts or [[]], 1):
+        data = encode(dict(pack, titles={tid: pack['titles'][tid] for tid in part}), hard_limit)
+        (mobile / part_name(number)).write_bytes(data)
+        if len(data) > part_limit:
+            print(f'mobile: warning: {part_name(number)} is {len(data)} bytes, above the {part_limit}-byte part target '
+                  f'(its assigned titles are kept; new titles go to later parts)')
+        entries.append({'file': part_name(number), 'sha256': hashlib.sha256(data).hexdigest(), 'size': len(data),
+                        'titles': len(part)})
+    index = {'schema': 1, 'revision': manifest['revision'], 'parts': entries}
+    (mobile / 'EventPackIndex.json').write_bytes((json.dumps(index, indent=2) + '\n').encode('utf-8'))
     print(f'mobile: catalogue.json {len(feed["titles"])} titles ({skipped} skipped); '
-          f'EventPack.json {len(pack["titles"])} titles ({pack_skipped} dropped by pack limits)')
-    return feed, pack
+          f'EventPack {len(pack["titles"])} titles in {len(entries)} part(s) ({pack_skipped} dropped by pack limits): '
+          + ', '.join(f'{e["file"]} {e["titles"]} titles {e["size"]} bytes' for e in entries))
+    return feed, pack, index
 
 
 def main(argv=None):
@@ -168,10 +252,11 @@ def main(argv=None):
     parser.add_argument('--titles', type=Path, default=TITLES)
     parser.add_argument('--out', type=Path, default=ROOT / 'dist')
     parser.add_argument('--bundled', type=Path, default=BUNDLED, help='JSON {"bundledTitleIds":[...]} left out of catalogue.json')
+    parser.add_argument('--assignment', type=Path, default=ASSIGNMENT, help='committed pack part assignment')
     args = parser.parse_args(argv)
     manifest = parse((args.out / 'v1' / 'manifest.json').read_bytes())
     reserved = load_bundled(args.bundled)
-    build(args.titles, args.out, manifest, reserved)
+    build(args.titles, args.out, manifest, reserved, args.assignment)
     return 0
 
 

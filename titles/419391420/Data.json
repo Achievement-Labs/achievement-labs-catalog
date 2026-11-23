@@ -48,7 +48,8 @@
           }
         }
       }
-    }
+    },
+    "PartiallySupported": false
   },
   "SupportedTitleIDs": [
     "419391420"

@@ -1,6 +1,6 @@
 {
   "2067761315": {
-    "FullySupported": false,
+    "FullySupported": true,
     "TitleName": "EA SPORTS™ NBA LIVE 16",
     "TitleId": "2067761315",
     "Devices": [
@@ -49,7 +49,7 @@
         }
       }
     },
-    "PartiallySupported": true
+    "PartiallySupported": false
   },
   "SupportedTitleIDs": [
     "2067761315"

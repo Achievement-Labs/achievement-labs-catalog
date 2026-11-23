@@ -1,0 +1,40 @@
+{
+  "547436161": {
+    "TitleName": "Atari Flashback Classics Vol. 2",
+    "ServiceConfigId": "5ff20100-ed73-4c0d-9825-1afd20a13681",
+    "StatsMode": "EventBased",
+    "Stats": {
+      "StatValue.StatId.4": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "547436161",
+        "ServiceConfigId": "5ff20100-ed73-4c0d-9825-1afd20a13681",
+        "DisplayName": "UFOs killed in Asteroids"
+      },
+      "StatValue.StatId.5": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "547436161",
+        "ServiceConfigId": "5ff20100-ed73-4c0d-9825-1afd20a13681",
+        "DisplayName": "Super Breakout levels cleared"
+      },
+      "StatValue.StatId.6": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "547436161",
+        "ServiceConfigId": "5ff20100-ed73-4c0d-9825-1afd20a13681",
+        "DisplayName": "Missile Command levels cleared"
+      },
+      "StatValue.StatId.7": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "547436161",
+        "ServiceConfigId": "5ff20100-ed73-4c0d-9825-1afd20a13681",
+        "DisplayName": "Adventure chalices collected"
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    547436161
+  ]
+}

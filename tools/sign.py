@@ -1,6 +1,7 @@
-"""Sign dist/v1/manifest.json with ECDSA P-256 / SHA-256.
+"""Sign dist/v1/manifest.json (or another published file) with ECDSA P-256 / SHA-256.
 
 CATALOG_SIGNING_KEY=<PEM private key> python tools/sign.py [--manifest PATH]
+publish.yml also signs dist/mobile/EventPackIndex.json this way (--manifest accepts any file).
 
 Writes <manifest>.sig: base64 of the IEEE P1363 signature (32-byte r || 32-byte s) over the
 exact manifest bytes. The key is read only from the environment and is never printed.

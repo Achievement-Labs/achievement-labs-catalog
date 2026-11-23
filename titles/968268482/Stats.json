@@ -1,0 +1,40 @@
+{
+  "968268482": {
+    "TitleName": "Atari Flashback Classics Vol. 3",
+    "ServiceConfigId": "ea7a0100-daeb-487a-abc7-9b3039b69ac2",
+    "StatsMode": "EventBased",
+    "Stats": {
+      "StatValue.StatId.0": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "968268482",
+        "ServiceConfigId": "ea7a0100-daeb-487a-abc7-9b3039b69ac2",
+        "DisplayName": "Balls pocketed in Poolshark"
+      },
+      "StatValue.StatId.1": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "968268482",
+        "ServiceConfigId": "ea7a0100-daeb-487a-abc7-9b3039b69ac2",
+        "DisplayName": "Kills in Star Raiders"
+      },
+      "StatValueMax.StatId.2": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "968268482",
+        "ServiceConfigId": "ea7a0100-daeb-487a-abc7-9b3039b69ac2",
+        "DisplayName": "Longest Domino chain"
+      },
+      "StatValueMax.StatId.32": {
+        "Type": "Integer",
+        "Source": "Hero scan",
+        "TitleId": "968268482",
+        "ServiceConfigId": "ea7a0100-daeb-487a-abc7-9b3039b69ac2",
+        "DisplayName": "Best no-miss streak in Astroblast"
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    968268482
+  ]
+}

@@ -1,0 +1,2524 @@
+{
+  "610345881": {
+    "TitleName": "The Jackbox Party Pack",
+    "TitleId": "610345881",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "e8600100-9a54-4279-9cbd-e12624612399",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015PerfectGame"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015PerfectGame\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015PerfectGame\":1,\"YDKJ2015_PERFECT_GAME\":1,\"YDKJ2015PERFECTGAME\":1,\"ydkj2015_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "YDKJ2015_PERFECT_GAME"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"YDKJ2015_PERFECT_GAME\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015PerfectGame\":1,\"YDKJ2015_PERFECT_GAME\":1,\"YDKJ2015PERFECTGAME\":1,\"ydkj2015_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "YDKJ2015PERFECTGAME"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"YDKJ2015PERFECTGAME\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015PerfectGame\":1,\"YDKJ2015_PERFECT_GAME\":1,\"YDKJ2015PERFECTGAME\":1,\"ydkj2015_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015TakeFromBehind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015TakeFromBehind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015TakeFromBehind\":1,\"YDKJ2015_TAKE_FROM_BEHIND\":1,\"YDKJ2015TAKEFROMBEHIND\":1,\"ydkj2015_take_from_behind\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015ComeFrom"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015ComeFrom\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015ComeFrom\":1,\"YDKJ2015_COME_FROM\":1,\"YDKJ2015COMEFROM\":1,\"ydkj2015_come_from\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015ComeFromBehind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015ComeFromBehind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015ComeFromBehind\":1,\"YDKJ2015_COME_FROM_BEHIND\":1,\"YDKJ2015COMEFROMBEHIND\":1,\"ydkj2015_come_from_behind\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015ComeFromBehindWin"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015ComeFromBehindWin\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015ComeFromBehindWin\":1,\"YDKJ2015_COME_FROM_BEHIND_WIN\":1,\"YDKJ2015COMEFROMBEHINDWIN\":1,\"ydkj2015_come_from_behind_win\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetATakeFromBehind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetATakeFromBehind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetATakeFromBehind\":1,\"YDKJ2015_GET_A_TAKE_FROM_BEHIND\":1,\"YDKJ2015GETATAKEFROMBEHIND\":1,\"ydkj2015_get_a_take_from_behind\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetComeFromBehind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetComeFromBehind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetComeFromBehind\":1,\"YDKJ2015_GET_COME_FROM_BEHIND\":1,\"YDKJ2015GETCOMEFROMBEHIND\":1,\"ydkj2015_get_come_from_behind\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetADatllDo"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetADatllDo\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetADatllDo\":1,\"YDKJ2015_GET_A_DATLL_DO\":1,\"YDKJ2015GETADATLLDO\":1,\"ydkj2015_get_a_datll_do\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetAceDisordat"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetAceDisordat\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetAceDisordat\":1,\"YDKJ2015_GET_ACE_DISORDAT\":1,\"YDKJ2015GETACEDISORDAT\":1,\"ydkj2015_get_ace_disordat\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015WinWrong"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015WinWrong\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015WinWrong\":1,\"YDKJ2015_WIN_WRONG\":1,\"YDKJ2015WINWRONG\":1,\"ydkj2015_win_wrong\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015WinWrongAnswer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015WinWrongAnswer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015WinWrongAnswer\":1,\"YDKJ2015_WIN_WRONG_ANSWER\":1,\"YDKJ2015WINWRONGANSWER\":1,\"ydkj2015_win_wrong_answer\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetAWinventory"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetAWinventory\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetAWinventory\":1,\"YDKJ2015_GET_A_WINVENTORY\":1,\"YDKJ2015GETAWINVENTORY\":1,\"ydkj2015_get_a_winventory\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2015GetWinWrongAnswer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2015GetWinWrongAnswer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2015GetWinWrongAnswer\":1,\"YDKJ2015_GET_WIN_WRONG_ANSWER\":1,\"YDKJ2015GETWINWRONGANSWER\":1,\"ydkj2015_get_win_wrong_answer\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlFoolEvery"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlFoolEvery\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlFoolEvery\":1,\"FIBBAGEXL_FOOL_EVERY\":1,\"FIBBAGEXLFOOLEVERY\":1,\"fibbagexl_fool_every\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlFoolEveryOther\":1,\"FIBBAGEXL_FOOL_EVERY_OTHER\":1,\"FIBBAGEXLFOOLEVERYOTHER\":1,\"fibbagexl_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlFoolEveryOtherPlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlFoolEveryOtherPlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlFoolEveryOtherPlayer\":1,\"FIBBAGEXL_FOOL_EVERY_OTHER_PLAYER\":1,\"FIBBAGEXLFOOLEVERYOTHERPLAYER\":1,\"fibbagexl_fool_every_other_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetAPolitician"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetAPolitician\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetAPolitician\":1,\"FIBBAGEXL_GET_A_POLITICIAN\":1,\"FIBBAGEXLGETAPOLITICIAN\":1,\"fibbagexl_get_a_politician\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetFoolEveryOther\":1,\"FIBBAGEXL_GET_FOOL_EVERY_OTHER\":1,\"FIBBAGEXLGETFOOLEVERYOTHER\":1,\"fibbagexl_get_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlFoolEveryOtherPlayerLiePlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlFoolEveryOtherPlayerLiePlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlFoolEveryOtherPlayerLiePlayer\":1,\"FIBBAGEXL_FOOL_EVERY_OTHER_PLAYER_LIE_PLAYER\":1,\"FIBBAGEXLFOOLEVERYOTHERPLAYERLIEPLAYER\":1,\"fibbagexl_fool_every_other_player_lie_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageFoolEvery"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageFoolEvery\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageFoolEvery\":1,\"FIBBAGE_FOOL_EVERY\":1,\"FIBBAGEFOOLEVERY\":1,\"fibbage_fool_every\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageFoolEveryOther\":1,\"FIBBAGE_FOOL_EVERY_OTHER\":1,\"FIBBAGEFOOLEVERYOTHER\":1,\"fibbage_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageFoolEveryOtherPlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageFoolEveryOtherPlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageFoolEveryOtherPlayer\":1,\"FIBBAGE_FOOL_EVERY_OTHER_PLAYER\":1,\"FIBBAGEFOOLEVERYOTHERPLAYER\":1,\"fibbage_fool_every_other_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetAPolitician"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetAPolitician\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetAPolitician\":1,\"FIBBAGE_GET_A_POLITICIAN\":1,\"FIBBAGEGETAPOLITICIAN\":1,\"fibbage_get_a_politician\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetFoolEveryOther\":1,\"FIBBAGE_GET_FOOL_EVERY_OTHER\":1,\"FIBBAGEGETFOOLEVERYOTHER\":1,\"fibbage_get_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageFoolEveryOtherPlayerLiePlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageFoolEveryOtherPlayerLiePlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageFoolEveryOtherPlayerLiePlayer\":1,\"FIBBAGE_FOOL_EVERY_OTHER_PLAYER_LIE_PLAYER\":1,\"FIBBAGEFOOLEVERYOTHERPLAYERLIEPLAYER\":1,\"fibbage_fool_every_other_player_lie_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlPlayersFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlPlayersFind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlPlayersFind\":1,\"FIBBAGEXL_PLAYERS_FIND\":1,\"FIBBAGEXLPLAYERSFIND\":1,\"fibbagexl_players_find\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlPlayersFindTruth"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlPlayersFindTruth\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlPlayersFindTruth\":1,\"FIBBAGEXL_PLAYERS_FIND_TRUTH\":1,\"FIBBAGEXLPLAYERSFINDTRUTH\":1,\"fibbagexl_players_find_truth\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetATruthFairies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetATruthFairies\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetATruthFairies\":1,\"FIBBAGEXL_GET_A_TRUTH_FAIRIES\":1,\"FIBBAGEXLGETATRUTHFAIRIES\":1,\"fibbagexl_get_a_truth_fairies\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetPlayersFindTruth"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetPlayersFindTruth\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetPlayersFindTruth\":1,\"FIBBAGEXL_GET_PLAYERS_FIND_TRUTH\":1,\"FIBBAGEXLGETPLAYERSFINDTRUTH\":1,\"fibbagexl_get_players_find_truth\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagePlayersFind"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagePlayersFind\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagePlayersFind\":1,\"FIBBAGE_PLAYERS_FIND\":1,\"FIBBAGEPLAYERSFIND\":1,\"fibbage_players_find\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagePlayersFindTruth"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagePlayersFindTruth\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagePlayersFindTruth\":1,\"FIBBAGE_PLAYERS_FIND_TRUTH\":1,\"FIBBAGEPLAYERSFINDTRUTH\":1,\"fibbage_players_find_truth\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetATruthFairies"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetATruthFairies\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetATruthFairies\":1,\"FIBBAGE_GET_A_TRUTH_FAIRIES\":1,\"FIBBAGEGETATRUTHFAIRIES\":1,\"fibbage_get_a_truth_fairies\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetPlayersFindTruth"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetPlayersFindTruth\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetPlayersFindTruth\":1,\"FIBBAGE_GET_PLAYERS_FIND_TRUTH\":1,\"FIBBAGEGETPLAYERSFINDTRUTH\":1,\"fibbage_get_players_find_truth\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlEnterSame"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlEnterSame\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlEnterSame\":1,\"FIBBAGEXL_ENTER_SAME\":1,\"FIBBAGEXLENTERSAME\":1,\"fibbagexl_enter_same\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlEnterSameThing"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlEnterSameThing\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlEnterSameThing\":1,\"FIBBAGEXL_ENTER_SAME_THING\":1,\"FIBBAGEXLENTERSAMETHING\":1,\"fibbagexl_enter_same_thing\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlEnterSameThingAnother"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlEnterSameThingAnother\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlEnterSameThingAnother\":1,\"FIBBAGEXL_ENTER_SAME_THING_ANOTHER\":1,\"FIBBAGEXLENTERSAMETHINGANOTHER\":1,\"fibbagexl_enter_same_thing_another\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetACopycatfishers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetACopycatfishers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetACopycatfishers\":1,\"FIBBAGEXL_GET_A_COPYCATFISHERS\":1,\"FIBBAGEXLGETACOPYCATFISHERS\":1,\"fibbagexl_get_a_copycatfishers\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetEnterSameThing"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetEnterSameThing\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetEnterSameThing\":1,\"FIBBAGEXL_GET_ENTER_SAME_THING\":1,\"FIBBAGEXLGETENTERSAMETHING\":1,\"fibbagexl_get_enter_same_thing\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageEnterSame"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageEnterSame\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageEnterSame\":1,\"FIBBAGE_ENTER_SAME\":1,\"FIBBAGEENTERSAME\":1,\"fibbage_enter_same\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageEnterSameThing"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageEnterSameThing\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageEnterSameThing\":1,\"FIBBAGE_ENTER_SAME_THING\":1,\"FIBBAGEENTERSAMETHING\":1,\"fibbage_enter_same_thing\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageEnterSameThingAnother"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageEnterSameThingAnother\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageEnterSameThingAnother\":1,\"FIBBAGE_ENTER_SAME_THING_ANOTHER\":1,\"FIBBAGEENTERSAMETHINGANOTHER\":1,\"fibbage_enter_same_thing_another\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetACopycatfishers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetACopycatfishers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetACopycatfishers\":1,\"FIBBAGE_GET_A_COPYCATFISHERS\":1,\"FIBBAGEGETACOPYCATFISHERS\":1,\"fibbage_get_a_copycatfishers\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetEnterSameThing"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetEnterSameThing\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetEnterSameThing\":1,\"FIBBAGE_GET_ENTER_SAME_THING\":1,\"FIBBAGEGETENTERSAMETHING\":1,\"fibbage_get_enter_same_thing\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlDontKnowWhatBelieve"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlDontKnowWhatBelieve\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlDontKnowWhatBelieve\":1,\"FIBBAGEXL_DONT_KNOW_WHAT_BELIEVE\":1,\"FIBBAGEXLDONTKNOWWHATBELIEVE\":1,\"fibbagexl_dont_know_what_believe\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlWriteLie"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlWriteLie\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlWriteLie\":1,\"FIBBAGEXL_WRITE_LIE\":1,\"FIBBAGEXLWRITELIE\":1,\"fibbagexl_write_lie\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlWriteLieThats"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlWriteLieThats\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlWriteLieThats\":1,\"FIBBAGEXL_WRITE_LIE_THATS\":1,\"FIBBAGEXLWRITELIETHATS\":1,\"fibbagexl_write_lie_thats\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlWriteLieThatsActually"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlWriteLieThatsActually\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlWriteLieThatsActually\":1,\"FIBBAGEXL_WRITE_LIE_THATS_ACTUALLY\":1,\"FIBBAGEXLWRITELIETHATSACTUALLY\":1,\"fibbagexl_write_lie_thats_actually\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetADontKnowWhatBelieve"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetADontKnowWhatBelieve\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetADontKnowWhatBelieve\":1,\"FIBBAGEXL_GET_A_DONT_KNOW_WHAT_BELIEVE\":1,\"FIBBAGEXLGETADONTKNOWWHATBELIEVE\":1,\"fibbagexl_get_a_dont_know_what_believe\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbagexlGetWriteLieThats"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbagexlGetWriteLieThats\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbagexlGetWriteLieThats\":1,\"FIBBAGEXL_GET_WRITE_LIE_THATS\":1,\"FIBBAGEXLGETWRITELIETHATS\":1,\"fibbagexl_get_write_lie_thats\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageDontKnowWhatBelieve"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageDontKnowWhatBelieve\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageDontKnowWhatBelieve\":1,\"FIBBAGE_DONT_KNOW_WHAT_BELIEVE\":1,\"FIBBAGEDONTKNOWWHATBELIEVE\":1,\"fibbage_dont_know_what_believe\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageWriteLie"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageWriteLie\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageWriteLie\":1,\"FIBBAGE_WRITE_LIE\":1,\"FIBBAGEWRITELIE\":1,\"fibbage_write_lie\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageWriteLieThats"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageWriteLieThats\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageWriteLieThats\":1,\"FIBBAGE_WRITE_LIE_THATS\":1,\"FIBBAGEWRITELIETHATS\":1,\"fibbage_write_lie_thats\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageWriteLieThatsActually"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageWriteLieThatsActually\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageWriteLieThatsActually\":1,\"FIBBAGE_WRITE_LIE_THATS_ACTUALLY\":1,\"FIBBAGEWRITELIETHATSACTUALLY\":1,\"fibbage_write_lie_thats_actually\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetADontKnowWhatBelieve"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetADontKnowWhatBelieve\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetADontKnowWhatBelieve\":1,\"FIBBAGE_GET_A_DONT_KNOW_WHAT_BELIEVE\":1,\"FIBBAGEGETADONTKNOWWHATBELIEVE\":1,\"fibbage_get_a_dont_know_what_believe\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "FibbageGetWriteLieThats"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"FibbageGetWriteLieThats\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"FibbageGetWriteLieThats\":1,\"FIBBAGE_GET_WRITE_LIE_THATS\":1,\"FIBBAGEGETWRITELIETHATS\":1,\"fibbage_get_write_lie_thats\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulDrawSomething"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulDrawSomething\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulDrawSomething\":1,\"DRAWFUL_DRAW_SOMETHING\":1,\"DRAWFULDRAWSOMETHING\":1,\"drawful_draw_something\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulDrawSomethingEveryone"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulDrawSomethingEveryone\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulDrawSomethingEveryone\":1,\"DRAWFUL_DRAW_SOMETHING_EVERYONE\":1,\"DRAWFULDRAWSOMETHINGEVERYONE\":1,\"drawful_draw_something_everyone\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulDrawSomethingEveryoneGuesses"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulDrawSomethingEveryoneGuesses\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulDrawSomethingEveryoneGuesses\":1,\"DRAWFUL_DRAW_SOMETHING_EVERYONE_GUESSES\":1,\"DRAWFULDRAWSOMETHINGEVERYONEGUESSES\":1,\"drawful_draw_something_everyone_guesses\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetAGoodfinger"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetAGoodfinger\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetAGoodfinger\":1,\"DRAWFUL_GET_A_GOODFINGER\":1,\"DRAWFULGETAGOODFINGER\":1,\"drawful_get_a_goodfinger\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetDrawSomethingEveryone"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetDrawSomethingEveryone\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetDrawSomethingEveryone\":1,\"DRAWFUL_GET_DRAW_SOMETHING_EVERYONE\":1,\"DRAWFULGETDRAWSOMETHINGEVERYONE\":1,\"drawful_get_draw_something_everyone\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulShowMeMonet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulShowMeMonet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulShowMeMonet\":1,\"DRAWFUL_SHOW_ME_MONET\":1,\"DRAWFULSHOWMEMONET\":1,\"drawful_show_me_monet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulWinMore"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulWinMore\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulWinMore\":1,\"DRAWFUL_WIN_MORE\":1,\"DRAWFULWINMORE\":1,\"drawful_win_more\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulWinMoreThan"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulWinMoreThan\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulWinMoreThan\":1,\"DRAWFUL_WIN_MORE_THAN\":1,\"DRAWFULWINMORETHAN\":1,\"drawful_win_more_than\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulWinMoreThan3000"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulWinMoreThan3000\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulWinMoreThan3000\":1,\"DRAWFUL_WIN_MORE_THAN_3000\":1,\"DRAWFULWINMORETHAN3000\":1,\"drawful_win_more_than_3000\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetAShowMeMonet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetAShowMeMonet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetAShowMeMonet\":1,\"DRAWFUL_GET_A_SHOW_ME_MONET\":1,\"DRAWFULGETASHOWMEMONET\":1,\"drawful_get_a_show_me_monet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetWinMoreThan"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetWinMoreThan\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetWinMoreThan\":1,\"DRAWFUL_GET_WIN_MORE_THAN\":1,\"DRAWFULGETWINMORETHAN\":1,\"drawful_get_win_more_than\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulWinMoreThanPoints"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulWinMoreThanPoints\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulWinMoreThanPoints\":1,\"DRAWFUL_WIN_MORE_THAN_POINTS\":1,\"DRAWFULWINMORETHANPOINTS\":1,\"drawful_win_more_than_points\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulSchmuckDraw"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulSchmuckDraw\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulSchmuckDraw\":1,\"DRAWFUL_SCHMUCK_DRAW\":1,\"DRAWFULSCHMUCKDRAW\":1,\"drawful_schmuck_draw\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulFoolEvery"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulFoolEvery\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulFoolEvery\":1,\"DRAWFUL_FOOL_EVERY\":1,\"DRAWFULFOOLEVERY\":1,\"drawful_fool_every\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulFoolEveryOther\":1,\"DRAWFUL_FOOL_EVERY_OTHER\":1,\"DRAWFULFOOLEVERYOTHER\":1,\"drawful_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulFoolEveryOtherPlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulFoolEveryOtherPlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulFoolEveryOtherPlayer\":1,\"DRAWFUL_FOOL_EVERY_OTHER_PLAYER\":1,\"DRAWFULFOOLEVERYOTHERPLAYER\":1,\"drawful_fool_every_other_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetASchmuckDraw"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetASchmuckDraw\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetASchmuckDraw\":1,\"DRAWFUL_GET_A_SCHMUCK_DRAW\":1,\"DRAWFULGETASCHMUCKDRAW\":1,\"drawful_get_a_schmuck_draw\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulGetFoolEveryOther"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulGetFoolEveryOther\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulGetFoolEveryOther\":1,\"DRAWFUL_GET_FOOL_EVERY_OTHER\":1,\"DRAWFULGETFOOLEVERYOTHER\":1,\"drawful_get_fool_every_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DrawfulPerfectGame"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DrawfulPerfectGame\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulPerfectGame\":1,\"DRAWFUL_PERFECT_GAME\":1,\"DRAWFULPERFECTGAME\":1,\"drawful_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DRAWFUL_PERFECT_GAME"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DRAWFUL_PERFECT_GAME\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulPerfectGame\":1,\"DRAWFUL_PERFECT_GAME\":1,\"DRAWFULPERFECTGAME\":1,\"drawful_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "DRAWFULPERFECTGAME"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"DRAWFULPERFECTGAME\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"DrawfulPerfectGame\":1,\"DRAWFUL_PERFECT_GAME\":1,\"DRAWFULPERFECTGAME\":1,\"drawful_perfect_game\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterPlayPerfect"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterPlayPerfect\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterPlayPerfect\":1,\"LIESWATTER_PLAY_PERFECT\":1,\"LIESWATTERPLAYPERFECT\":1,\"lieswatter_play_perfect\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetASquishNothingButWet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetASquishNothingButWet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetASquishNothingButWet\":1,\"LIESWATTER_GET_A_SQUISH_NOTHING_BUT_WET\":1,\"LIESWATTERGETASQUISHNOTHINGBUTWET\":1,\"lieswatter_get_a_squish_nothing_but_wet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetPlayPerfectRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetPlayPerfectRound\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetPlayPerfectRound\":1,\"LIESWATTER_GET_PLAY_PERFECT_ROUND\":1,\"LIESWATTERGETPLAYPERFECTROUND\":1,\"lieswatter_get_play_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlayPerfectRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlayPerfectRound\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlayPerfectRound\":1,\"LIESWATTERPARTY_PLAY_PERFECT_ROUND\":1,\"LIESWATTERPARTYPLAYPERFECTROUND\":1,\"lieswatterparty_play_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlayAPerfectRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlayAPerfectRound\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlayAPerfectRound\":1,\"LIESWATTERPARTY_PLAY_A_PERFECT_ROUND\":1,\"LIESWATTERPARTYPLAYAPERFECTROUND\":1,\"lieswatterparty_play_a_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartySquishNothingButWet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartySquishNothingButWet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartySquishNothingButWet\":1,\"LIESWATTERPARTY_SQUISH_NOTHING_BUT_WET\":1,\"LIESWATTERPARTYSQUISHNOTHINGBUTWET\":1,\"lieswatterparty_squish_nothing_but_wet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlayPerfect"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlayPerfect\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlayPerfect\":1,\"LIESWATTERPARTY_PLAY_PERFECT\":1,\"LIESWATTERPARTYPLAYPERFECT\":1,\"lieswatterparty_play_perfect\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetASquishNothingButWet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetASquishNothingButWet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetASquishNothingButWet\":1,\"LIESWATTERPARTY_GET_A_SQUISH_NOTHING_BUT_WET\":1,\"LIESWATTERPARTYGETASQUISHNOTHINGBUTWET\":1,\"lieswatterparty_get_a_squish_nothing_but_wet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetPlayPerfectRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetPlayPerfectRound\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetPlayPerfectRound\":1,\"LIESWATTERPARTY_GET_PLAY_PERFECT_ROUND\":1,\"LIESWATTERPARTYGETPLAYPERFECTROUND\":1,\"lieswatterparty_get_play_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterPlay10"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterPlay10\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterPlay10\":1,\"LIESWATTER_PLAY_10\":1,\"LIESWATTERPLAY10\":1,\"lieswatter_play_10\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterPlay10Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterPlay10Or\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterPlay10Or\":1,\"LIESWATTER_PLAY_10_OR\":1,\"LIESWATTERPLAY10OR\":1,\"lieswatter_play_10_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterPlay10OrMore"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterPlay10OrMore\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterPlay10OrMore\":1,\"LIESWATTER_PLAY_10_OR_MORE\":1,\"LIESWATTERPLAY10ORMORE\":1,\"lieswatter_play_10_or_more\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetABlufforgy"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetABlufforgy\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetABlufforgy\":1,\"LIESWATTER_GET_A_BLUFFORGY\":1,\"LIESWATTERGETABLUFFORGY\":1,\"lieswatter_get_a_blufforgy\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetPlay10Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetPlay10Or\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetPlay10Or\":1,\"LIESWATTER_GET_PLAY_10_OR\":1,\"LIESWATTERGETPLAY10OR\":1,\"lieswatter_get_play_10_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterPlayOrMorePlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterPlayOrMorePlayers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterPlayOrMorePlayers\":1,\"LIESWATTER_PLAY_OR_MORE_PLAYERS\":1,\"LIESWATTERPLAYORMOREPLAYERS\":1,\"lieswatter_play_or_more_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlay10OrMorePlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlay10OrMorePlayers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlay10OrMorePlayers\":1,\"LIESWATTERPARTY_PLAY_10_OR_MORE_PLAYERS\":1,\"LIESWATTERPARTYPLAY10ORMOREPLAYERS\":1,\"lieswatterparty_play_10_or_more_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlayAGameWith10OrMorePlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlayAGameWith10OrMorePlayers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlayAGameWith10OrMorePlayers\":1,\"LIESWATTERPARTY_PLAY_A_GAME_WITH_10_OR_MORE_PLAYERS\":1,\"LIESWATTERPARTYPLAYAGAMEWITH10ORMOREPLAYERS\":1,\"lieswatterparty_play_a_game_with_10_or_more_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyBlufforgy"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyBlufforgy\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyBlufforgy\":1,\"LIESWATTERPARTY_BLUFFORGY\":1,\"LIESWATTERPARTYBLUFFORGY\":1,\"lieswatterparty_blufforgy\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlay10"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlay10\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlay10\":1,\"LIESWATTERPARTY_PLAY_10\":1,\"LIESWATTERPARTYPLAY10\":1,\"lieswatterparty_play_10\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlay10Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlay10Or\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlay10Or\":1,\"LIESWATTERPARTY_PLAY_10_OR\":1,\"LIESWATTERPARTYPLAY10OR\":1,\"lieswatterparty_play_10_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlay10OrMore"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlay10OrMore\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlay10OrMore\":1,\"LIESWATTERPARTY_PLAY_10_OR_MORE\":1,\"LIESWATTERPARTYPLAY10ORMORE\":1,\"lieswatterparty_play_10_or_more\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetABlufforgy"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetABlufforgy\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetABlufforgy\":1,\"LIESWATTERPARTY_GET_A_BLUFFORGY\":1,\"LIESWATTERPARTYGETABLUFFORGY\":1,\"lieswatterparty_get_a_blufforgy\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetPlay10Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetPlay10Or\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetPlay10Or\":1,\"LIESWATTERPARTY_GET_PLAY_10_OR\":1,\"LIESWATTERPARTYGETPLAY10OR\":1,\"lieswatterparty_get_play_10_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyPlayOrMorePlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyPlayOrMorePlayers\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyPlayOrMorePlayers\":1,\"LIESWATTERPARTY_PLAY_OR_MORE_PLAYERS\":1,\"LIESWATTERPARTYPLAYORMOREPLAYERS\":1,\"lieswatterparty_play_or_more_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterWinThree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterWinThree\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterWinThree\":1,\"LIESWATTER_WIN_THREE\":1,\"LIESWATTERWINTHREE\":1,\"lieswatter_win_three\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterWinThreeGames"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterWinThreeGames\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterWinThreeGames\":1,\"LIESWATTER_WIN_THREE_GAMES\":1,\"LIESWATTERWINTHREEGAMES\":1,\"lieswatter_win_three_games\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetATriSwatter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetATriSwatter\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetATriSwatter\":1,\"LIESWATTER_GET_A_TRI_SWATTER\":1,\"LIESWATTERGETATRISWATTER\":1,\"lieswatter_get_a_tri_swatter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetWinThreeGames"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetWinThreeGames\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetWinThreeGames\":1,\"LIESWATTER_GET_WIN_THREE_GAMES\":1,\"LIESWATTERGETWINTHREEGAMES\":1,\"lieswatter_get_win_three_games\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyWinThreeGamesRow"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyWinThreeGamesRow\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyWinThreeGamesRow\":1,\"LIESWATTERPARTY_WIN_THREE_GAMES_ROW\":1,\"LIESWATTERPARTYWINTHREEGAMESROW\":1,\"lieswatterparty_win_three_games_row\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyWinThreeGamesInARow"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyWinThreeGamesInARow\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyWinThreeGamesInARow\":1,\"LIESWATTERPARTY_WIN_THREE_GAMES_IN_A_ROW\":1,\"LIESWATTERPARTYWINTHREEGAMESINAROW\":1,\"lieswatterparty_win_three_games_in_a_row\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyTriSwatter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyTriSwatter\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyTriSwatter\":1,\"LIESWATTERPARTY_TRI_SWATTER\":1,\"LIESWATTERPARTYTRISWATTER\":1,\"lieswatterparty_tri_swatter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyWinThree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyWinThree\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyWinThree\":1,\"LIESWATTERPARTY_WIN_THREE\":1,\"LIESWATTERPARTYWINTHREE\":1,\"lieswatterparty_win_three\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyWinThreeGames"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyWinThreeGames\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyWinThreeGames\":1,\"LIESWATTERPARTY_WIN_THREE_GAMES\":1,\"LIESWATTERPARTYWINTHREEGAMES\":1,\"lieswatterparty_win_three_games\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetATriSwatter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetATriSwatter\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetATriSwatter\":1,\"LIESWATTERPARTY_GET_A_TRI_SWATTER\":1,\"LIESWATTERPARTYGETATRISWATTER\":1,\"lieswatterparty_get_a_tri_swatter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetWinThreeGames"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetWinThreeGames\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetWinThreeGames\":1,\"LIESWATTERPARTY_GET_WIN_THREE_GAMES\":1,\"LIESWATTERPARTYGETWINTHREEGAMES\":1,\"lieswatterparty_get_win_three_games\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterEnter7"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterEnter7\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterEnter7\":1,\"LIESWATTER_ENTER_7\":1,\"LIESWATTERENTER7\":1,\"lieswatter_enter_7\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterEnter7Bugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterEnter7Bugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterEnter7Bugs\":1,\"LIESWATTER_ENTER_7_BUGS\":1,\"LIESWATTERENTER7BUGS\":1,\"lieswatter_enter_7_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterEnter7BugsSecret"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterEnter7BugsSecret\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterEnter7BugsSecret\":1,\"LIESWATTER_ENTER_7_BUGS_SECRET\":1,\"LIESWATTERENTER7BUGSSECRET\":1,\"lieswatter_enter_7_bugs_secret\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetAWhatsMyNameFtBugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetAWhatsMyNameFtBugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetAWhatsMyNameFtBugs\":1,\"LIESWATTER_GET_A_WHATS_MY_NAME_FT_BUGS\":1,\"LIESWATTERGETAWHATSMYNAMEFTBUGS\":1,\"lieswatter_get_a_whats_my_name_ft_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterGetEnter7Bugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterGetEnter7Bugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterGetEnter7Bugs\":1,\"LIESWATTER_GET_ENTER_7_BUGS\":1,\"LIESWATTERGETENTER7BUGS\":1,\"lieswatter_get_enter_7_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterEnterBugsSecretNamesName"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterEnterBugsSecretNamesName\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterEnterBugsSecretNamesName\":1,\"LIESWATTER_ENTER_BUGS_SECRET_NAMES_NAME\":1,\"LIESWATTERENTERBUGSSECRETNAMESNAME\":1,\"lieswatter_enter_bugs_secret_names_name\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnter7BugsSecretNamesName"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnter7BugsSecretNamesName\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnter7BugsSecretNamesName\":1,\"LIESWATTERPARTY_ENTER_7_BUGS_SECRET_NAMES_NAME\":1,\"LIESWATTERPARTYENTER7BUGSSECRETNAMESNAME\":1,\"lieswatterparty_enter_7_bugs_secret_names_name\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnterOneOfThe7BugsSecretNamesAsYourName"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnterOneOfThe7BugsSecretNamesAsYourName\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnterOneOfThe7BugsSecretNamesAsYourName\":1,\"LIESWATTERPARTY_ENTER_ONE_OF_THE_7_BUGS_SECRET_NAMES_AS_YOUR_NAME\":1,\"LIESWATTERPARTYENTERONEOFTHE7BUGSSECRETNAMESASYOURNAME\":1,\"lieswatterparty_enter_one_of_the_7_bugs_secret_names_as_your_name\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyWhatsMyNameFtBugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyWhatsMyNameFtBugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyWhatsMyNameFtBugs\":1,\"LIESWATTERPARTY_WHATS_MY_NAME_FT_BUGS\":1,\"LIESWATTERPARTYWHATSMYNAMEFTBUGS\":1,\"lieswatterparty_whats_my_name_ft_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnter7"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnter7\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnter7\":1,\"LIESWATTERPARTY_ENTER_7\":1,\"LIESWATTERPARTYENTER7\":1,\"lieswatterparty_enter_7\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnter7Bugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnter7Bugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnter7Bugs\":1,\"LIESWATTERPARTY_ENTER_7_BUGS\":1,\"LIESWATTERPARTYENTER7BUGS\":1,\"lieswatterparty_enter_7_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnter7BugsSecret"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnter7BugsSecret\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnter7BugsSecret\":1,\"LIESWATTERPARTY_ENTER_7_BUGS_SECRET\":1,\"LIESWATTERPARTYENTER7BUGSSECRET\":1,\"lieswatterparty_enter_7_bugs_secret\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetAWhatsMyNameFtBugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetAWhatsMyNameFtBugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetAWhatsMyNameFtBugs\":1,\"LIESWATTERPARTY_GET_A_WHATS_MY_NAME_FT_BUGS\":1,\"LIESWATTERPARTYGETAWHATSMYNAMEFTBUGS\":1,\"lieswatterparty_get_a_whats_my_name_ft_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyGetEnter7Bugs"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyGetEnter7Bugs\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyGetEnter7Bugs\":1,\"LIESWATTERPARTY_GET_ENTER_7_BUGS\":1,\"LIESWATTERPARTYGETENTER7BUGS\":1,\"lieswatterparty_get_enter_7_bugs\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "LieswatterpartyEnterBugsSecretNamesName"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"LieswatterpartyEnterBugsSecretNamesName\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"LieswatterpartyEnterBugsSecretNamesName\":1,\"LIESWATTERPARTY_ENTER_BUGS_SECRET_NAMES_NAME\":1,\"LIESWATTERPARTYENTERBUGSSECRETNAMESNAME\":1,\"lieswatterparty_enter_bugs_secret_names_name\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudPlayFull"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudPlayFull\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPlayFull\":1,\"WORDSPUD_PLAY_FULL\":1,\"WORDSPUDPLAYFULL\":1,\"wordspud_play_full\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudPlayFull8"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudPlayFull8\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPlayFull8\":1,\"WORDSPUD_PLAY_FULL_8\":1,\"WORDSPUDPLAYFULL8\":1,\"wordspud_play_full_8\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetAWordHerd"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetAWordHerd\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetAWordHerd\":1,\"WORDSPUD_GET_A_WORD_HERD\":1,\"WORDSPUDGETAWORDHERD\":1,\"wordspud_get_a_word_herd\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetPlayFull8"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetPlayFull8\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetPlayFull8\":1,\"WORDSPUD_GET_PLAY_FULL_8\":1,\"WORDSPUDGETPLAYFULL8\":1,\"wordspud_get_play_full_8\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudPlayFullPlayer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudPlayFullPlayer\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPlayFullPlayer\":1,\"WORDSPUD_PLAY_FULL_PLAYER\":1,\"WORDSPUDPLAYFULLPLAYER\":1,\"wordspud_play_full_player\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudPerfectRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudPerfectRound\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPerfectRound\":1,\"WORDSPUD_PERFECT_ROUND\":1,\"WORDSPUDPERFECTROUND\":1,\"wordspud_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WORDSPUD_PERFECT_ROUND"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WORDSPUD_PERFECT_ROUND\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPerfectRound\":1,\"WORDSPUD_PERFECT_ROUND\":1,\"WORDSPUDPERFECTROUND\":1,\"wordspud_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WORDSPUDPERFECTROUND"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WORDSPUDPERFECTROUND\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudPerfectRound\":1,\"WORDSPUD_PERFECT_ROUND\":1,\"WORDSPUDPERFECTROUND\":1,\"wordspud_perfect_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudWinThree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudWinThree\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudWinThree\":1,\"WORDSPUD_WIN_THREE\":1,\"WORDSPUDWINTHREE\":1,\"wordspud_win_three\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudWinThreeRounds"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudWinThreeRounds\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudWinThreeRounds\":1,\"WORDSPUD_WIN_THREE_ROUNDS\":1,\"WORDSPUDWINTHREEROUNDS\":1,\"wordspud_win_three_rounds\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetASpudStud"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetASpudStud\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetASpudStud\":1,\"WORDSPUD_GET_A_SPUD_STUD\":1,\"WORDSPUDGETASPUDSTUD\":1,\"wordspud_get_a_spud_stud\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetWinThreeRounds"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetWinThreeRounds\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetWinThreeRounds\":1,\"WORDSPUD_GET_WIN_THREE_ROUNDS\":1,\"WORDSPUDGETWINTHREEROUNDS\":1,\"wordspud_get_win_three_rounds\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudTypeWord"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudTypeWord\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudTypeWord\":1,\"WORDSPUD_TYPE_WORD\":1,\"WORDSPUDTYPEWORD\":1,\"wordspud_type_word\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudTypeWordNugget"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudTypeWordNugget\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudTypeWordNugget\":1,\"WORDSPUD_TYPE_WORD_NUGGET\":1,\"WORDSPUDTYPEWORDNUGGET\":1,\"wordspud_type_word_nugget\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudTypeWordNuggetGet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudTypeWordNuggetGet\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudTypeWordNuggetGet\":1,\"WORDSPUD_TYPE_WORD_NUGGET_GET\":1,\"WORDSPUDTYPEWORDNUGGETGET\":1,\"wordspud_type_word_nugget_get\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetAGoldenNugget"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetAGoldenNugget\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetAGoldenNugget\":1,\"WORDSPUD_GET_A_GOLDEN_NUGGET\":1,\"WORDSPUDGETAGOLDENNUGGET\":1,\"wordspud_get_a_golden_nugget\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "WordspudGetTypeWordNugget"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"WordspudGetTypeWordNugget\",\"serviceConfigId\":\"e8600100-9a54-4279-9cbd-e12624612399\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"610345881\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"WordspudGetTypeWordNugget\":1,\"WORDSPUD_GET_TYPE_WORD_NUGGET\":1,\"WORDSPUDGETTYPEWORDNUGGET\":1,\"wordspud_get_type_word_nugget\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "610345881"
+  ]
+}

@@ -1,0 +1,2405 @@
+{
+  "886895461": {
+    "TitleName": "The Jackbox Party Pack 5",
+    "TitleId": "886895461",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "de790100-cb34-4643-8f32-0d7034dcf365",
+    "FullySupported": false,
+    "Enabled": true,
+    "PartiallySupported": true,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018FirstTimeEverything"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018FirstTimeEverything\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018FirstTimeEverything\":1,\"YDKJ2018_FIRST_TIME_EVERYTHING\":1,\"YDKJ2018FIRSTTIMEEVERYTHING\":1,\"ydkj2018_first_time_everything\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Play5"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Play5\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Play5\":1,\"YDKJ2018_PLAY_5\":1,\"YDKJ2018PLAY5\":1,\"ydkj2018_play_5\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Play5Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Play5Or\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Play5Or\":1,\"YDKJ2018_PLAY_5_OR\":1,\"YDKJ2018PLAY5OR\":1,\"ydkj2018_play_5_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Play5OrMore"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Play5OrMore\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Play5OrMore\":1,\"YDKJ2018_PLAY_5_OR_MORE\":1,\"YDKJ2018PLAY5ORMORE\":1,\"ydkj2018_play_5_or_more\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetAFirstTimeEverything"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetAFirstTimeEverything\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetAFirstTimeEverything\":1,\"YDKJ2018_GET_A_FIRST_TIME_EVERYTHING\":1,\"YDKJ2018GETAFIRSTTIMEEVERYTHING\":1,\"ydkj2018_get_a_first_time_everything\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetPlay5Or"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetPlay5Or\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetPlay5Or\":1,\"YDKJ2018_GET_PLAY_5_OR\":1,\"YDKJ2018GETPLAY5OR\":1,\"ydkj2018_get_play_5_or\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018PlayOrMorePlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018PlayOrMorePlayers\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018PlayOrMorePlayers\":1,\"YDKJ2018_PLAY_OR_MORE_PLAYERS\":1,\"YDKJ2018PLAYORMOREPLAYERS\":1,\"ydkj2018_play_or_more_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018MaxJackAttackPoints"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018MaxJackAttackPoints\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018MaxJackAttackPoints\":1,\"YDKJ2018_MAX_JACK_ATTACK_POINTS\":1,\"YDKJ2018MAXJACKATTACKPOINTS\":1,\"ydkj2018_max_jack_attack_points\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "YDKJ2018_MAX_JACK_ATTACK_POINTS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"YDKJ2018_MAX_JACK_ATTACK_POINTS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018MaxJackAttackPoints\":1,\"YDKJ2018_MAX_JACK_ATTACK_POINTS\":1,\"YDKJ2018MAXJACKATTACKPOINTS\":1,\"ydkj2018_max_jack_attack_points\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "YDKJ2018MAXJACKATTACKPOINTS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"YDKJ2018MAXJACKATTACKPOINTS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018MaxJackAttackPoints\":1,\"YDKJ2018_MAX_JACK_ATTACK_POINTS\":1,\"YDKJ2018MAXJACKATTACKPOINTS\":1,\"ydkj2018_max_jack_attack_points\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018EverybodySome"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018EverybodySome\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018EverybodySome\":1,\"YDKJ2018_EVERYBODY_SOME\":1,\"YDKJ2018EVERYBODYSOME\":1,\"ydkj2018_everybody_some\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Screw7"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Screw7\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Screw7\":1,\"YDKJ2018_SCREW_7\":1,\"YDKJ2018SCREW7\":1,\"ydkj2018_screw_7\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Screw7Other"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Screw7Other\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Screw7Other\":1,\"YDKJ2018_SCREW_7_OTHER\":1,\"YDKJ2018SCREW7OTHER\":1,\"ydkj2018_screw_7_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018Screw7OtherPlayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018Screw7OtherPlayers\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018Screw7OtherPlayers\":1,\"YDKJ2018_SCREW_7_OTHER_PLAYERS\":1,\"YDKJ2018SCREW7OTHERPLAYERS\":1,\"ydkj2018_screw_7_other_players\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetAEverybodySome"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetAEverybodySome\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetAEverybodySome\":1,\"YDKJ2018_GET_A_EVERYBODY_SOME\":1,\"YDKJ2018GETAEVERYBODYSOME\":1,\"ydkj2018_get_a_everybody_some\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetScrew7Other"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetScrew7Other\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetScrew7Other\":1,\"YDKJ2018_GET_SCREW_7_OTHER\":1,\"YDKJ2018GETSCREW7OTHER\":1,\"ydkj2018_get_screw_7_other\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018ScrewOtherPlayersAudience"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018ScrewOtherPlayersAudience\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018ScrewOtherPlayersAudience\":1,\"YDKJ2018_SCREW_OTHER_PLAYERS_AUDIENCE\":1,\"YDKJ2018SCREWOTHERPLAYERSAUDIENCE\":1,\"ydkj2018_screw_other_players_audience\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018ThisWhyCantPlay"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018ThisWhyCantPlay\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018ThisWhyCantPlay\":1,\"YDKJ2018_THIS_WHY_CANT_PLAY\":1,\"YDKJ2018THISWHYCANTPLAY\":1,\"ydkj2018_this_why_cant_play\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018LessThan"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018LessThan\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018LessThan\":1,\"YDKJ2018_LESS_THAN\":1,\"YDKJ2018LESSTHAN\":1,\"ydkj2018_less_than\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018LessThan10"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018LessThan10\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018LessThan10\":1,\"YDKJ2018_LESS_THAN_10\":1,\"YDKJ2018LESSTHAN10\":1,\"ydkj2018_less_than_10\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018LessThan10Audience"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018LessThan10Audience\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018LessThan10Audience\":1,\"YDKJ2018_LESS_THAN_10_AUDIENCE\":1,\"YDKJ2018LESSTHAN10AUDIENCE\":1,\"ydkj2018_less_than_10_audience\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetAThisWhyCantPlay"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetAThisWhyCantPlay\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetAThisWhyCantPlay\":1,\"YDKJ2018_GET_A_THIS_WHY_CANT_PLAY\":1,\"YDKJ2018GETATHISWHYCANTPLAY\":1,\"ydkj2018_get_a_this_why_cant_play\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018GetLessThan10"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018GetLessThan10\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018GetLessThan10\":1,\"YDKJ2018_GET_LESS_THAN_10\":1,\"YDKJ2018GETLESSTHAN10\":1,\"ydkj2018_get_less_than_10\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "Ydkj2018LessThanAudienceQuestionRightAudienceLeast"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"Ydkj2018LessThanAudienceQuestionRightAudienceLeast\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"Ydkj2018LessThanAudienceQuestionRightAudienceLeast\":1,\"YDKJ2018_LESS_THAN_AUDIENCE_QUESTION_RIGHT_AUDIENCE_LEAST\":1,\"YDKJ2018LESSTHANAUDIENCEQUESTIONRIGHTAUDIENCELEAST\":1,\"ydkj2018_less_than_audience_question_right_audience_least\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetSuccessful"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetSuccessful\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetSuccessful\":1,\"SPLITTHEROOM_GET_SUCCESSFUL\":1,\"SPLITTHEROOMGETSUCCESSFUL\":1,\"splittheroom_get_successful\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetSuccessfulFinal"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetSuccessfulFinal\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetSuccessfulFinal\":1,\"SPLITTHEROOM_GET_SUCCESSFUL_FINAL\":1,\"SPLITTHEROOMGETSUCCESSFULFINAL\":1,\"splittheroom_get_successful_final\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetSuccessfulFinalRound"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetSuccessfulFinalRound\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetSuccessfulFinalRound\":1,\"SPLITTHEROOM_GET_SUCCESSFUL_FINAL_ROUND\":1,\"SPLITTHEROOMGETSUCCESSFULFINALROUND\":1,\"splittheroom_get_successful_final_round\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetAMindReader"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetAMindReader\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetAMindReader\":1,\"SPLITTHEROOM_GET_A_MIND_READER\":1,\"SPLITTHEROOMGETAMINDREADER\":1,\"splittheroom_get_a_mind_reader\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetGetSuccessfulFinal"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetGetSuccessfulFinal\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetGetSuccessfulFinal\":1,\"SPLITTHEROOM_GET_GET_SUCCESSFUL_FINAL\":1,\"SPLITTHEROOMGETGETSUCCESSFULFINAL\":1,\"splittheroom_get_get_successful_final\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomWriteScenario"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomWriteScenario\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomWriteScenario\":1,\"SPLITTHEROOM_WRITE_SCENARIO\":1,\"SPLITTHEROOMWRITESCENARIO\":1,\"splittheroom_write_scenario\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetANaysayers"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetANaysayers\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetANaysayers\":1,\"SPLITTHEROOM_GET_A_NAYSAYERS\":1,\"SPLITTHEROOMGETANAYSAYERS\":1,\"splittheroom_get_a_naysayers\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetWriteScenarioNos"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetWriteScenarioNos\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetWriteScenarioNos\":1,\"SPLITTHEROOM_GET_WRITE_SCENARIO_NOS\":1,\"SPLITTHEROOMGETWRITESCENARIONOS\":1,\"splittheroom_get_write_scenario_nos\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomWriteScenarioCausesDeadEvenSplit"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomWriteScenarioCausesDeadEvenSplit\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomWriteScenarioCausesDeadEvenSplit\":1,\"SPLITTHEROOM_WRITE_SCENARIO_CAUSES_DEAD_EVEN_SPLIT\":1,\"SPLITTHEROOMWRITESCENARIOCAUSESDEADEVENSPLIT\":1,\"splittheroom_write_scenario_causes_dead_even_split\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomWriteAScenarioThatCausesADeadEvenSplit"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomWriteAScenarioThatCausesADeadEvenSplit\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomWriteAScenarioThatCausesADeadEvenSplit\":1,\"SPLITTHEROOM_WRITE_A_SCENARIO_THAT_CAUSES_A_DEAD_EVEN_SPLIT\":1,\"SPLITTHEROOMWRITEASCENARIOTHATCAUSESADEADEVENSPLIT\":1,\"splittheroom_write_a_scenario_that_causes_a_dead_even_split\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomSuperSplitter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomSuperSplitter\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomSuperSplitter\":1,\"SPLITTHEROOM_SUPER_SPLITTER\":1,\"SPLITTHEROOMSUPERSPLITTER\":1,\"splittheroom_super_splitter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomWriteScenarioCauses"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomWriteScenarioCauses\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomWriteScenarioCauses\":1,\"SPLITTHEROOM_WRITE_SCENARIO_CAUSES\":1,\"SPLITTHEROOMWRITESCENARIOCAUSES\":1,\"splittheroom_write_scenario_causes\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomWriteScenarioCausesDead"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomWriteScenarioCausesDead\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomWriteScenarioCausesDead\":1,\"SPLITTHEROOM_WRITE_SCENARIO_CAUSES_DEAD\":1,\"SPLITTHEROOMWRITESCENARIOCAUSESDEAD\":1,\"splittheroom_write_scenario_causes_dead\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetASuperSplitter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetASuperSplitter\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetASuperSplitter\":1,\"SPLITTHEROOM_GET_A_SUPER_SPLITTER\":1,\"SPLITTHEROOMGETASUPERSPLITTER\":1,\"splittheroom_get_a_super_splitter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetWriteScenarioCauses"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetWriteScenarioCauses\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetWriteScenarioCauses\":1,\"SPLITTHEROOM_GET_WRITE_SCENARIO_CAUSES\":1,\"SPLITTHEROOMGETWRITESCENARIOCAUSES\":1,\"splittheroom_get_write_scenario_causes\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetAAudienceVictim"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetAAudienceVictim\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetAAudienceVictim\":1,\"SPLITTHEROOM_GET_A_AUDIENCE_VICTIM\":1,\"SPLITTHEROOMGETAAUDIENCEVICTIM\":1,\"splittheroom_get_a_audience_victim\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SplittheroomGetLoseAudience"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SplittheroomGetLoseAudience\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SplittheroomGetLoseAudience\":1,\"SPLITTHEROOM_GET_LOSE_AUDIENCE\":1,\"SPLITTHEROOMGETLOSEAUDIENCE\":1,\"splittheroom_get_lose_audience\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleMillionaire"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleMillionaire\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleMillionaire\":1,\"RAPBATTLE_MILLIONAIRE\":1,\"RAPBATTLEMILLIONAIRE\":1,\"rapbattle_millionaire\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLE_MILLIONAIRE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLE_MILLIONAIRE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleMillionaire\":1,\"RAPBATTLE_MILLIONAIRE\":1,\"RAPBATTLEMILLIONAIRE\":1,\"rapbattle_millionaire\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLEMILLIONAIRE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLEMILLIONAIRE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleMillionaire\":1,\"RAPBATTLE_MILLIONAIRE\":1,\"RAPBATTLEMILLIONAIRE\":1,\"rapbattle_millionaire\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleRaiseRoof"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleRaiseRoof\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleRaiseRoof\":1,\"RAPBATTLE_RAISE_ROOF\":1,\"RAPBATTLERAISEROOF\":1,\"rapbattle_raise_roof\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleFillCheer"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleFillCheer\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleFillCheer\":1,\"RAPBATTLE_FILL_CHEER\":1,\"RAPBATTLEFILLCHEER\":1,\"rapbattle_fill_cheer\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleFillCheerMeter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleFillCheerMeter\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleFillCheerMeter\":1,\"RAPBATTLE_FILL_CHEER_METER\":1,\"RAPBATTLEFILLCHEERMETER\":1,\"rapbattle_fill_cheer_meter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleFillCheerMeterWay"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleFillCheerMeterWay\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleFillCheerMeterWay\":1,\"RAPBATTLE_FILL_CHEER_METER_WAY\":1,\"RAPBATTLEFILLCHEERMETERWAY\":1,\"rapbattle_fill_cheer_meter_way\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleGetARaiseRoof"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleGetARaiseRoof\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleGetARaiseRoof\":1,\"RAPBATTLE_GET_A_RAISE_ROOF\":1,\"RAPBATTLEGETARAISEROOF\":1,\"rapbattle_get_a_raise_roof\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleGetFillCheerMeter"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleGetFillCheerMeter\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleGetFillCheerMeter\":1,\"RAPBATTLE_GET_FILL_CHEER_METER\":1,\"RAPBATTLEGETFILLCHEERMETER\":1,\"rapbattle_get_fill_cheer_meter\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleBeatGene"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleBeatGene\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleBeatGene\":1,\"RAPBATTLE_BEAT_GENE\":1,\"RAPBATTLEBEATGENE\":1,\"rapbattle_beat_gene\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLE_BEAT_GENE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLE_BEAT_GENE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleBeatGene\":1,\"RAPBATTLE_BEAT_GENE\":1,\"RAPBATTLEBEATGENE\":1,\"rapbattle_beat_gene\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLEBEATGENE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLEBEATGENE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleBeatGene\":1,\"RAPBATTLE_BEAT_GENE\":1,\"RAPBATTLEBEATGENE\":1,\"rapbattle_beat_gene\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleDestroyJackboxGamesBuilding"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleDestroyJackboxGamesBuilding\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLE_DESTROY_JACKBOX_GAMES_BUILDING"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLE_DESTROY_JACKBOX_GAMES_BUILDING\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLEDESTROYJACKBOXGAMESBUILDING"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLEDESTROYJACKBOXGAMESBUILDING\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleDestroyTheJackboxGamesBuilding"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleDestroyTheJackboxGamesBuilding\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyTheJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_THE_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYTHEJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_the_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLE_DESTROY_THE_JACKBOX_GAMES_BUILDING"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLE_DESTROY_THE_JACKBOX_GAMES_BUILDING\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyTheJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_THE_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYTHEJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_the_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLEDESTROYTHEJACKBOXGAMESBUILDING"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLEDESTROYTHEJACKBOXGAMESBUILDING\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyTheJackboxGamesBuilding\":1,\"RAPBATTLE_DESTROY_THE_JACKBOX_GAMES_BUILDING\":1,\"RAPBATTLEDESTROYTHEJACKBOXGAMESBUILDING\":1,\"rapbattle_destroy_the_jackbox_games_building\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RapbattleDestroyJackbox"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RapbattleDestroyJackbox\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackbox\":1,\"RAPBATTLE_DESTROY_JACKBOX\":1,\"RAPBATTLEDESTROYJACKBOX\":1,\"rapbattle_destroy_jackbox\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLE_DESTROY_JACKBOX"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLE_DESTROY_JACKBOX\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackbox\":1,\"RAPBATTLE_DESTROY_JACKBOX\":1,\"RAPBATTLEDESTROYJACKBOX\":1,\"rapbattle_destroy_jackbox\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "RAPBATTLEDESTROYJACKBOX"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"RAPBATTLEDESTROYJACKBOX\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"RapbattleDestroyJackbox\":1,\"RAPBATTLE_DESTROY_JACKBOX\":1,\"RAPBATTLEDESTROYJACKBOX\":1,\"rapbattle_destroy_jackbox\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootSurviveGauntlet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootSurviveGauntlet\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntlet\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET\":1,\"SLINGSHOOTSURVIVEGAUNTLET\":1,\"slingshoot_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_SURVIVE_GAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_SURVIVE_GAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntlet\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET\":1,\"SLINGSHOOTSURVIVEGAUNTLET\":1,\"slingshoot_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTSURVIVEGAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTSURVIVEGAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntlet\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET\":1,\"SLINGSHOOTSURVIVEGAUNTLET\":1,\"slingshoot_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootSurviveAGauntlet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootSurviveAGauntlet\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntlet\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET\":1,\"SLINGSHOOTSURVIVEAGAUNTLET\":1,\"slingshoot_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_SURVIVE_A_GAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_SURVIVE_A_GAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntlet\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET\":1,\"SLINGSHOOTSURVIVEAGAUNTLET\":1,\"slingshoot_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTSURVIVEAGAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTSURVIVEAGAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntlet\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET\":1,\"SLINGSHOOTSURVIVEAGAUNTLET\":1,\"slingshoot_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootGoopledorps"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootGoopledorps\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGoopledorps\":1,\"SLINGSHOOT_GOOPLEDORPS\":1,\"SLINGSHOOTGOOPLEDORPS\":1,\"slingshoot_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_GOOPLEDORPS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_GOOPLEDORPS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGoopledorps\":1,\"SLINGSHOOT_GOOPLEDORPS\":1,\"SLINGSHOOTGOOPLEDORPS\":1,\"slingshoot_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTGOOPLEDORPS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTGOOPLEDORPS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGoopledorps\":1,\"SLINGSHOOT_GOOPLEDORPS\":1,\"SLINGSHOOTGOOPLEDORPS\":1,\"slingshoot_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeSurviveGauntlet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeSurviveGauntlet\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntlet\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEGAUNTLET\":1,\"zeepledome_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_SURVIVE_GAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_SURVIVE_GAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntlet\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEGAUNTLET\":1,\"zeepledome_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMESURVIVEGAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMESURVIVEGAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntlet\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEGAUNTLET\":1,\"zeepledome_survive_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeSurviveAGauntlet"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeSurviveAGauntlet\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntlet\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEAGAUNTLET\":1,\"zeepledome_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_SURVIVE_A_GAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_SURVIVE_A_GAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntlet\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEAGAUNTLET\":1,\"zeepledome_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMESURVIVEAGAUNTLET"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMESURVIVEAGAUNTLET\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntlet\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET\":1,\"ZEEPLEDOMESURVIVEAGAUNTLET\":1,\"zeepledome_survive_a_gauntlet\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request16": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeGoopledorps"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeGoopledorps\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGoopledorps\":1,\"ZEEPLEDOME_GOOPLEDORPS\":1,\"ZEEPLEDOMEGOOPLEDORPS\":1,\"zeepledome_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request17": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_GOOPLEDORPS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_GOOPLEDORPS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGoopledorps\":1,\"ZEEPLEDOME_GOOPLEDORPS\":1,\"ZEEPLEDOMEGOOPLEDORPS\":1,\"zeepledome_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request18": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMEGOOPLEDORPS"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMEGOOPLEDORPS\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGoopledorps\":1,\"ZEEPLEDOME_GOOPLEDORPS\":1,\"ZEEPLEDOMEGOOPLEDORPS\":1,\"zeepledome_goopledorps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootSurviveGauntletSeries"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootSurviveGauntletSeries\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEGAUNTLETSERIES\":1,\"slingshoot_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_SURVIVE_GAUNTLET_SERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_SURVIVE_GAUNTLET_SERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEGAUNTLETSERIES\":1,\"slingshoot_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTSURVIVEGAUNTLETSERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTSURVIVEGAUNTLETSERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEGAUNTLETSERIES\":1,\"slingshoot_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootSurviveAGauntletSeries"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootSurviveAGauntletSeries\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEAGAUNTLETSERIES\":1,\"slingshoot_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_SURVIVE_A_GAUNTLET_SERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_SURVIVE_A_GAUNTLET_SERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEAGAUNTLETSERIES\":1,\"slingshoot_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTSURVIVEAGAUNTLETSERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTSURVIVEAGAUNTLETSERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootSurviveAGauntletSeries\":1,\"SLINGSHOOT_SURVIVE_A_GAUNTLET_SERIES\":1,\"SLINGSHOOTSURVIVEAGAUNTLETSERIES\":1,\"slingshoot_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootTossedInSpace"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootTossedInSpace\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootTossedInSpace\":1,\"SLINGSHOOT_TOSSED_IN_SPACE\":1,\"SLINGSHOOTTOSSEDINSPACE\":1,\"slingshoot_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOT_TOSSED_IN_SPACE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOT_TOSSED_IN_SPACE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootTossedInSpace\":1,\"SLINGSHOOT_TOSSED_IN_SPACE\":1,\"SLINGSHOOTTOSSEDINSPACE\":1,\"slingshoot_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SLINGSHOOTTOSSEDINSPACE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SLINGSHOOTTOSSEDINSPACE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootTossedInSpace\":1,\"SLINGSHOOT_TOSSED_IN_SPACE\":1,\"SLINGSHOOTTOSSEDINSPACE\":1,\"slingshoot_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeSurviveGauntletSeries"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeSurviveGauntletSeries\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEGAUNTLETSERIES\":1,\"zeepledome_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_SURVIVE_GAUNTLET_SERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_SURVIVE_GAUNTLET_SERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEGAUNTLETSERIES\":1,\"zeepledome_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMESURVIVEGAUNTLETSERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMESURVIVEGAUNTLETSERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEGAUNTLETSERIES\":1,\"zeepledome_survive_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeSurviveAGauntletSeries"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeSurviveAGauntletSeries\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEAGAUNTLETSERIES\":1,\"zeepledome_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_SURVIVE_A_GAUNTLET_SERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_SURVIVE_A_GAUNTLET_SERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEAGAUNTLETSERIES\":1,\"zeepledome_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMESURVIVEAGAUNTLETSERIES"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMESURVIVEAGAUNTLETSERIES\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeSurviveAGauntletSeries\":1,\"ZEEPLEDOME_SURVIVE_A_GAUNTLET_SERIES\":1,\"ZEEPLEDOMESURVIVEAGAUNTLETSERIES\":1,\"zeepledome_survive_a_gauntlet_series\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request16": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeTossedInSpace"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeTossedInSpace\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeTossedInSpace\":1,\"ZEEPLEDOME_TOSSED_IN_SPACE\":1,\"ZEEPLEDOMETOSSEDINSPACE\":1,\"zeepledome_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request17": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOME_TOSSED_IN_SPACE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOME_TOSSED_IN_SPACE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeTossedInSpace\":1,\"ZEEPLEDOME_TOSSED_IN_SPACE\":1,\"ZEEPLEDOMETOSSEDINSPACE\":1,\"zeepledome_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request18": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZEEPLEDOMETOSSEDINSPACE"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZEEPLEDOMETOSSEDINSPACE\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeTossedInSpace\":1,\"ZEEPLEDOME_TOSSED_IN_SPACE\":1,\"ZEEPLEDOMETOSSEDINSPACE\":1,\"zeepledome_tossed_in_space\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootKillFirst"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootKillFirst\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootKillFirst\":1,\"SLINGSHOOT_KILL_FIRST\":1,\"SLINGSHOOTKILLFIRST\":1,\"slingshoot_kill_first\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootGetAAlienBabySteps"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootGetAAlienBabySteps\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGetAAlienBabySteps\":1,\"SLINGSHOOT_GET_A_ALIEN_BABY_STEPS\":1,\"SLINGSHOOTGETAALIENBABYSTEPS\":1,\"slingshoot_get_a_alien_baby_steps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootGetKillFirstEnemy"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootGetKillFirstEnemy\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGetKillFirstEnemy\":1,\"SLINGSHOOT_GET_KILL_FIRST_ENEMY\":1,\"SLINGSHOOTGETKILLFIRSTENEMY\":1,\"slingshoot_get_kill_first_enemy\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeKillFirst"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeKillFirst\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeKillFirst\":1,\"ZEEPLEDOME_KILL_FIRST\":1,\"ZEEPLEDOMEKILLFIRST\":1,\"zeepledome_kill_first\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeGetAAlienBabySteps"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeGetAAlienBabySteps\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGetAAlienBabySteps\":1,\"ZEEPLEDOME_GET_A_ALIEN_BABY_STEPS\":1,\"ZEEPLEDOMEGETAALIENBABYSTEPS\":1,\"zeepledome_get_a_alien_baby_steps\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeGetKillFirstEnemy"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeGetKillFirstEnemy\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGetKillFirstEnemy\":1,\"ZEEPLEDOME_GET_KILL_FIRST_ENEMY\":1,\"ZEEPLEDOMEGETKILLFIRSTENEMY\":1,\"zeepledome_get_kill_first_enemy\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootRescueFloating"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootRescueFloating\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootRescueFloating\":1,\"SLINGSHOOT_RESCUE_FLOATING\":1,\"SLINGSHOOTRESCUEFLOATING\":1,\"slingshoot_rescue_floating\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootGetALifeSaver"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootGetALifeSaver\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGetALifeSaver\":1,\"SLINGSHOOT_GET_A_LIFE_SAVER\":1,\"SLINGSHOOTGETALIFESAVER\":1,\"slingshoot_get_a_life_saver\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "SlingshootGetRescueFloatingTeammate"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"SlingshootGetRescueFloatingTeammate\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"SlingshootGetRescueFloatingTeammate\":1,\"SLINGSHOOT_GET_RESCUE_FLOATING_TEAMMATE\":1,\"SLINGSHOOTGETRESCUEFLOATINGTEAMMATE\":1,\"slingshoot_get_rescue_floating_teammate\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeRescueFloating"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeRescueFloating\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeRescueFloating\":1,\"ZEEPLEDOME_RESCUE_FLOATING\":1,\"ZEEPLEDOMERESCUEFLOATING\":1,\"zeepledome_rescue_floating\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeGetALifeSaver"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeGetALifeSaver\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGetALifeSaver\":1,\"ZEEPLEDOME_GET_A_LIFE_SAVER\":1,\"ZEEPLEDOMEGETALIFESAVER\":1,\"zeepledome_get_a_life_saver\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "ZeepledomeGetRescueFloatingTeammate"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"ZeepledomeGetRescueFloatingTeammate\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"ZeepledomeGetRescueFloatingTeammate\":1,\"ZEEPLEDOME_GET_RESCUE_FLOATING_TEAMMATE\":1,\"ZEEPLEDOMEGETRESCUEFLOATINGTEAMMATE\":1,\"zeepledome_get_rescue_floating_teammate\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetAMeanGene"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetAMeanGene\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetAMeanGene\":1,\"PATENTLY_STUPID_GET_A_MEAN_GENE\":1,\"PATENTLYSTUPIDGETAMEANGENE\":1,\"patently_stupid_get_a_mean_gene\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetLoseGene"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetLoseGene\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetLoseGene\":1,\"PATENTLY_STUPID_GET_LOSE_GENE\":1,\"PATENTLYSTUPIDGETLOSEGENE\":1,\"patently_stupid_get_lose_gene\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyInventionBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyInventionBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyInventionBigChips\":1,\"PATENTLY_INVENTION_BIG_CHIPS\":1,\"PATENTLYINVENTIONBIGCHIPS\":1,\"patently_invention_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyYourInventionGetsAllTheBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyYourInventionGetsAllTheBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyYourInventionGetsAllTheBigChips\":1,\"PATENTLY_YOUR_INVENTION_GETS_ALL_THE_BIG_CHIPS\":1,\"PATENTLYYOURINVENTIONGETSALLTHEBIGCHIPS\":1,\"patently_your_invention_gets_all_the_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyLovinAnInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyLovinAnInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyLovinAnInnovator\":1,\"PATENTLY_LOVIN_AN_INNOVATOR\":1,\"PATENTLYLOVINANINNOVATOR\":1,\"patently_lovin_an_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyLovinInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyLovinInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyLovinInnovator\":1,\"PATENTLY_LOVIN_INNOVATOR\":1,\"PATENTLYLOVININNOVATOR\":1,\"patently_lovin_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyInventionBig"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyInventionBig\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyInventionBig\":1,\"PATENTLY_INVENTION_BIG\":1,\"PATENTLYINVENTIONBIG\":1,\"patently_invention_big\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyGetALovinInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyGetALovinInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyGetALovinInnovator\":1,\"PATENTLY_GET_A_LOVIN_INNOVATOR\":1,\"PATENTLYGETALOVININNOVATOR\":1,\"patently_get_a_lovin_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request7": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyGetInventionBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyGetInventionBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyGetInventionBigChips\":1,\"PATENTLY_GET_INVENTION_BIG_CHIPS\":1,\"PATENTLYGETINVENTIONBIGCHIPS\":1,\"patently_get_invention_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request8": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidStupidGetAllBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidStupidGetAllBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidStupidGetAllBigChips\":1,\"PATENTLY_STUPID_STUPID_GET_ALL_BIG_CHIPS\":1,\"PATENTLYSTUPIDSTUPIDGETALLBIGCHIPS\":1,\"patently_stupid_stupid_get_all_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request9": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidInventionBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidInventionBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidInventionBigChips\":1,\"PATENTLY_STUPID_INVENTION_BIG_CHIPS\":1,\"PATENTLYSTUPIDINVENTIONBIGCHIPS\":1,\"patently_stupid_invention_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request10": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidYourInventionGetsAllTheBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidYourInventionGetsAllTheBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidYourInventionGetsAllTheBigChips\":1,\"PATENTLY_STUPID_YOUR_INVENTION_GETS_ALL_THE_BIG_CHIPS\":1,\"PATENTLYSTUPIDYOURINVENTIONGETSALLTHEBIGCHIPS\":1,\"patently_stupid_your_invention_gets_all_the_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request11": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidLovinAnInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidLovinAnInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidLovinAnInnovator\":1,\"PATENTLY_STUPID_LOVIN_AN_INNOVATOR\":1,\"PATENTLYSTUPIDLOVINANINNOVATOR\":1,\"patently_stupid_lovin_an_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request12": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidLovinInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidLovinInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidLovinInnovator\":1,\"PATENTLY_STUPID_LOVIN_INNOVATOR\":1,\"PATENTLYSTUPIDLOVININNOVATOR\":1,\"patently_stupid_lovin_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request13": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidInventionBig"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidInventionBig\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidInventionBig\":1,\"PATENTLY_STUPID_INVENTION_BIG\":1,\"PATENTLYSTUPIDINVENTIONBIG\":1,\"patently_stupid_invention_big\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request14": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetALovinInnovator"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetALovinInnovator\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetALovinInnovator\":1,\"PATENTLY_STUPID_GET_A_LOVIN_INNOVATOR\":1,\"PATENTLYSTUPIDGETALOVININNOVATOR\":1,\"patently_stupid_get_a_lovin_innovator\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request15": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetInventionBigChips"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetInventionBigChips\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetInventionBigChips\":1,\"PATENTLY_STUPID_GET_INVENTION_BIG_CHIPS\":1,\"PATENTLYSTUPIDGETINVENTIONBIGCHIPS\":1,\"patently_stupid_get_invention_big_chips\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidFundThree"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidFundThree\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidFundThree\":1,\"PATENTLY_STUPID_FUND_THREE\":1,\"PATENTLYSTUPIDFUNDTHREE\":1,\"patently_stupid_fund_three\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidFundThreeSuccessful"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidFundThreeSuccessful\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidFundThreeSuccessful\":1,\"PATENTLY_STUPID_FUND_THREE_SUCCESSFUL\":1,\"PATENTLYSTUPIDFUNDTHREESUCCESSFUL\":1,\"patently_stupid_fund_three_successful\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidFundThreeSuccessfulInventions"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidFundThreeSuccessfulInventions\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidFundThreeSuccessfulInventions\":1,\"PATENTLY_STUPID_FUND_THREE_SUCCESSFUL_INVENTIONS\":1,\"PATENTLYSTUPIDFUNDTHREESUCCESSFULINVENTIONS\":1,\"patently_stupid_fund_three_successful_inventions\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetADiversified"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetADiversified\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetADiversified\":1,\"PATENTLY_STUPID_GET_A_DIVERSIFIED\":1,\"PATENTLYSTUPIDGETADIVERSIFIED\":1,\"patently_stupid_get_a_diversified\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetFundThreeSuccessful"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetFundThreeSuccessful\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetFundThreeSuccessful\":1,\"PATENTLY_STUPID_GET_FUND_THREE_SUCCESSFUL\":1,\"PATENTLYSTUPIDGETFUNDTHREESUCCESSFUL\":1,\"patently_stupid_get_fund_three_successful\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidInventionsMother"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidInventionsMother\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidInventionsMother\":1,\"PATENTLY_STUPID_INVENTIONS_MOTHER\":1,\"PATENTLYSTUPIDINVENTIONSMOTHER\":1,\"patently_stupid_inventions_mother\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidReceiveNo"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidReceiveNo\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidReceiveNo\":1,\"PATENTLY_STUPID_RECEIVE_NO\":1,\"PATENTLYSTUPIDRECEIVENO\":1,\"patently_stupid_receive_no\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request3": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidReceiveNoFunding"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidReceiveNoFunding\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidReceiveNoFunding\":1,\"PATENTLY_STUPID_RECEIVE_NO_FUNDING\":1,\"PATENTLYSTUPIDRECEIVENOFUNDING\":1,\"patently_stupid_receive_no_funding\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request4": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidReceiveNoFundingEight"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidReceiveNoFundingEight\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidReceiveNoFundingEight\":1,\"PATENTLY_STUPID_RECEIVE_NO_FUNDING_EIGHT\":1,\"PATENTLYSTUPIDRECEIVENOFUNDINGEIGHT\":1,\"patently_stupid_receive_no_funding_eight\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request5": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetAInventionsMother"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetAInventionsMother\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetAInventionsMother\":1,\"PATENTLY_STUPID_GET_A_INVENTIONS_MOTHER\":1,\"PATENTLYSTUPIDGETAINVENTIONSMOTHER\":1,\"patently_stupid_get_a_inventions_mother\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        },
+        "Request6": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "PatentlyStupidGetReceiveNoFunding"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"PatentlyStupidGetReceiveNoFunding\",\"serviceConfigId\":\"de790100-cb34-4643-8f32-0d7034dcf365\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"886895461\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"PatentlyStupidGetReceiveNoFunding\":1,\"PATENTLY_STUPID_GET_RECEIVE_NO_FUNDING\":1,\"PATENTLYSTUPIDGETRECEIVENOFUNDING\":1,\"patently_stupid_get_receive_no_funding\":1,\"Value\":1,\"Count\":1,\"Progress\":1},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "886895461"
+  ]
+}

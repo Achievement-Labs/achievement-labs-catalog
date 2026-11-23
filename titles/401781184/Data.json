@@ -1,0 +1,2035 @@
+{
+  "401781184": {
+    "TitleName": "Warhammer Quest",
+    "TitleId": "401781184",
+    "Devices": [
+      "XboxOne",
+      "XboxSeries"
+    ],
+    "ServiceConfigId": "c7d50100-8d48-427f-8363-4d7117f2b1c0",
+    "FullySupported": true,
+    "Enabled": true,
+    "PartiallySupported": false,
+    "Achievements": {
+      "1": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":1,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":1,\"AchievementId\":1,\"AchievementID\":1,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "2": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":2,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":2,\"AchievementId\":2,\"AchievementID\":2,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "3": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":3,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":3,\"AchievementId\":3,\"AchievementID\":3,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "4": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":4,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "5": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":5,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":5,\"AchievementId\":5,\"AchievementID\":5,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "6": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":6,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":6,\"AchievementId\":6,\"AchievementID\":6,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "7": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":7,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":7,\"AchievementId\":7,\"AchievementID\":7,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "8": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":8,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":8,\"AchievementId\":8,\"AchievementID\":8,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "9": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":9,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":9,\"AchievementId\":9,\"AchievementID\":9,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "10": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":10,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":10,\"AchievementId\":10,\"AchievementID\":10,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "11": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":11,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":11,\"AchievementId\":11,\"AchievementID\":11,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "12": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":12,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":12,\"AchievementId\":12,\"AchievementID\":12,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "13": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":13,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":13,\"AchievementId\":13,\"AchievementID\":13,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "14": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":14,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":14,\"AchievementId\":14,\"AchievementID\":14,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "15": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":15,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":15,\"AchievementId\":15,\"AchievementID\":15,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "16": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":16,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":16,\"AchievementId\":16,\"AchievementID\":16,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "17": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":17,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":17,\"AchievementId\":17,\"AchievementID\":17,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "18": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":18,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":18,\"AchievementId\":18,\"AchievementID\":18,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "19": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":19,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":19,\"AchievementId\":19,\"AchievementID\":19,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "20": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":20,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":20,\"AchievementId\":20,\"AchievementID\":20,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "21": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":21,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":21,\"AchievementId\":21,\"AchievementID\":21,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "22": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":22,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":22,\"AchievementId\":22,\"AchievementID\":22,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "23": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":23,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":23,\"AchievementId\":23,\"AchievementID\":23,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "24": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":24,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":24,\"AchievementId\":24,\"AchievementID\":24,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "25": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":25,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":25,\"AchievementId\":25,\"AchievementID\":25,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "26": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":26,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":26,\"AchievementId\":26,\"AchievementID\":26,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "27": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":27,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":27,\"AchievementId\":27,\"AchievementID\":27,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "28": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":28,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":28,\"AchievementId\":28,\"AchievementID\":28,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "29": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":29,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":29,\"AchievementId\":29,\"AchievementID\":29,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "30": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":30,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":30,\"AchievementId\":30,\"AchievementID\":30,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "31": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":31,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":31,\"AchievementId\":31,\"AchievementID\":31,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "32": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":32,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":32,\"AchievementId\":32,\"AchievementID\":32,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "33": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":33,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":33,\"AchievementId\":33,\"AchievementID\":33,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "34": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":34,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":34,\"AchievementId\":34,\"AchievementID\":34,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "35": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":35,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":35,\"AchievementId\":35,\"AchievementID\":35,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "36": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":36,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":36,\"AchievementId\":36,\"AchievementID\":36,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "37": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":37,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":37,\"AchievementId\":37,\"AchievementID\":37,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "38": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":38,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":38,\"AchievementId\":38,\"AchievementID\":38,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "39": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":39,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":39,\"AchievementId\":39,\"AchievementID\":39,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "40": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":40,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":40,\"AchievementId\":40,\"AchievementID\":40,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "41": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":41,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":41,\"AchievementId\":41,\"AchievementID\":41,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "42": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":42,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":42,\"AchievementId\":42,\"AchievementID\":42,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "43": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":43,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":43,\"AchievementId\":43,\"AchievementID\":43,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "44": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":44,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":44,\"AchievementId\":44,\"AchievementID\":44,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "45": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":45,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":45,\"AchievementId\":45,\"AchievementID\":45,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "46": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":46,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":46,\"AchievementId\":46,\"AchievementID\":46,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "47": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":47,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":47,\"AchievementId\":47,\"AchievementID\":47,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "48": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":48,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":48,\"AchievementId\":48,\"AchievementID\":48,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "49": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":49,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":49,\"AchievementId\":49,\"AchievementID\":49,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "50": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":50,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":50,\"AchievementId\":50,\"AchievementID\":50,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "51": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":51,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":51,\"AchievementId\":51,\"AchievementID\":51,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "52": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":52,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":52,\"AchievementId\":52,\"AchievementID\":52,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "53": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":53,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":53,\"AchievementId\":53,\"AchievementID\":53,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "54": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":54,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":54,\"AchievementId\":54,\"AchievementID\":54,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "55": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":55,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":55,\"AchievementId\":55,\"AchievementID\":55,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      },
+      "56": {
+        "Request1": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"PercentageComplete\":6}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":56,\"PercentageComplete\":100.0},\"measurements\":{}}}"
+          }
+        },
+        "Request2": {
+          "EventReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEEVENTNAME",
+            "Replacement": "AchievementProgress"
+          },
+          "MetaDataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEMETADATA",
+            "Replacement": "{\"f\":{\"baseData\":{\"f\":{\"ver\":2,\"properties\":{\"f\":{\"AchievementIdentifier\":4,\"AchievementId\":4,\"AchievementID\":4,\"PercentageComplete\":4,\"PercentComplete\":4,\"Progress\":4}}}}},\"policies\":0}"
+          },
+          "DataReplacement": {
+            "ReplacementType": "Replace",
+            "Target": "REPLACEDATA",
+            "Replacement": "{\"baseType\":\"Microsoft.XboxLive.InGame\",\"baseData\":{\"name\":\"AchievementProgress\",\"serviceConfigId\":\"c7d50100-8d48-427f-8363-4d7117f2b1c0\",\"playerSessionId\":\"00000000-0000-0000-0000-000000000000\",\"titleId\":\"401781184\",\"userId\":\"REPLACEXUID\",\"ver\":1,\"properties\":{\"AchievementIdentifier\":56,\"AchievementId\":56,\"AchievementID\":56,\"PercentageComplete\":100,\"PercentComplete\":100,\"Progress\":100},\"measurements\":{}}}"
+          }
+        }
+      }
+    }
+  },
+  "SupportedTitleIDs": [
+    "401781184"
+  ]
+}
