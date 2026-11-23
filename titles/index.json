@@ -5369,6 +5369,17 @@
     "Enabled": true,
     "PartiallySupported": true
   },
+  "1971845611": {
+    "TitleId": 1971845611,
+    "TitleName": "Mount & Blade II: Bannerlord",
+    "Devices": [
+      "PC"
+    ],
+    "ServiceConfigId": "00000000-0000-0000-0000-00007587f9eb",
+    "Enabled": true,
+    "FullySupported": false,
+    "PartiallySupported": true
+  },
   "SupportedTitleIDs": [
     349397095,
     974917521,
@@ -6026,6 +6037,7 @@
     886895461,
     686748290,
     547436161,
-    968268482
+    968268482,
+    1971845611
   ]
 }
