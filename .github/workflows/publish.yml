@@ -1,0 +1,63 @@
+name: publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # revisions come from git history
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Validate catalog
+        run: python tools/validate.py
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Build
+        run: python tools/build.py --out dist
+      - name: Sign manifest
+        env:
+          CATALOG_SIGNING_KEY: ${{ secrets.CATALOG_SIGNING_KEY }}
+        run: |
+          if [ -z "$CATALOG_SIGNING_KEY" ]; then
+            echo "::error::The CATALOG_SIGNING_KEY secret is missing. Add an ECDSA P-256 PEM private key as a repository secret; refusing to publish an unsigned catalog."
+            exit 1
+          fi
+          python tools/sign.py --manifest dist/v1/manifest.json
+      - name: Verify signature against the committed public key
+        run: |
+          if [ -f keys/catalog-signing-public.pem ]; then
+            python tools/verify_signature.py keys/catalog-signing-public.pem --manifest dist/v1/manifest.json
+          else
+            echo "::warning::keys/catalog-signing-public.pem is not committed yet; signature not cross-checked."
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
